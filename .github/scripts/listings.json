@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T18:05:13.934Z",
-  "count": 4253,
+  "listingsChangedAt": "2026-11-21T19:03:55.236Z",
+  "count": 4254,
   "listings": [
+    {
+      "id": "07c862d9-a2a9-4049-af2b-682d805ca879",
+      "company": "Orlin Circle",
+      "title": "Cybersecurity Analyst Intern",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492321328/",
+      "url": "https://trueinterview.io/jobs/07c862d9-a2a9-4049-af2b-682d805ca879",
+      "postedAt": "2026-11-21T17:42:00.000Z",
+      "updatedAt": "2026-11-21T17:42:00.000Z"
+    },
     {
       "id": "5892b55b-245a-4403-b127-fac4baab181d",
       "company": "SAP",
@@ -38759,6 +38786,29 @@
       "updatedAt": "2026-11-07T15:39:00.000Z"
     },
     {
+      "id": "8da7f1b9-8623-4fd8-bac4-24def9e71c07",
+      "company": "Crane Currency",
+      "title": "IT Intern Client Services",
+      "locations": [
+        "NH, Nashua"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://phf.tbe.taleo.net/phf01/ats/careers/requisition.jsp?org=JSHR6E&cws=63&rid=16099",
+      "url": "https://trueinterview.io/jobs/8da7f1b9-8623-4fd8-bac4-24def9e71c07",
+      "postedAt": "2026-11-07T15:27:27.000Z",
+      "updatedAt": "2026-11-07T15:27:27.000Z"
+    },
+    {
       "id": "9ebe502f-0758-49f3-90c9-0dbdd1007266",
       "company": "Siemens Healthineers",
       "title": "Software Engineering Co-op - Hoffman Estates, IL",
@@ -38770,9 +38820,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38795,9 +38845,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38847,9 +38897,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38876,9 +38926,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -110166,32 +110216,6 @@
       "url": "https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "id": "d769a851-991d-48fa-ae24-b0370bcc83db",
-      "company": "Atlassian",
-      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
-      "locations": [
-        "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers-americas.icims.com/jobs/26846/marketing-business-operations-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db",
-      "postedAt": "2026-09-22T19:03:10.000Z",
-      "updatedAt": "2026-09-22T19:03:10.000Z"
     }
   ]
 }
