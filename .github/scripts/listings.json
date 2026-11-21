@@ -5,9 +5,243 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T13:04:08.125Z",
-  "count": 4229,
+  "listingsChangedAt": "2026-11-21T14:04:40.420Z",
+  "count": 4238,
   "listings": [
+    {
+      "id": "b43ecb85-3d51-46dd-811d-c16a4cf7f28e",
+      "company": "Teledyne Brown Engineering",
+      "title": "EADSIM Software Engineering Intern (Summer 2027) with Security Clearance",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4491994945/",
+      "url": "https://trueinterview.io/jobs/b43ecb85-3d51-46dd-811d-c16a4cf7f28e",
+      "postedAt": "2026-11-21T13:21:00.000Z",
+      "updatedAt": "2026-11-21T13:21:00.000Z"
+    },
+    {
+      "id": "793b7d2c-b701-497b-9dda-0e1da0da90fe",
+      "company": "Teradata",
+      "title": "Product Manager Intern - Agentic Developer Platform",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492852537/",
+      "url": "https://trueinterview.io/jobs/793b7d2c-b701-497b-9dda-0e1da0da90fe",
+      "postedAt": "2026-11-21T13:21:00.000Z",
+      "updatedAt": "2026-11-21T13:21:00.000Z"
+    },
+    {
+      "id": "b07b3f0a-e25d-4af6-86d3-41b431075756",
+      "company": "Valeo",
+      "title": "Systems Engineering Co-Op (Software)",
+      "locations": [
+        "Troy, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493248987/",
+      "url": "https://trueinterview.io/jobs/b07b3f0a-e25d-4af6-86d3-41b431075756",
+      "postedAt": "2026-11-21T13:17:00.000Z",
+      "updatedAt": "2026-11-21T13:17:00.000Z"
+    },
+    {
+      "id": "6905cfd0-7f1c-4594-8822-bd6181a3a841",
+      "company": "Labcorp",
+      "title": "Intern - Product Owner",
+      "locations": [
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493212462/",
+      "url": "https://trueinterview.io/jobs/6905cfd0-7f1c-4594-8822-bd6181a3a841",
+      "postedAt": "2026-11-21T13:16:00.000Z",
+      "updatedAt": "2026-11-21T13:16:00.000Z"
+    },
+    {
+      "id": "5a22b97c-dff3-422d-b550-dd1c98406140",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)",
+      "locations": [
+        "Bellevue, WA",
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Bellevue, WA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483490094/",
+      "url": "https://trueinterview.io/jobs/5a22b97c-dff3-422d-b550-dd1c98406140",
+      "postedAt": "2026-11-21T13:09:00.000Z",
+      "updatedAt": "2026-11-21T13:09:00.000Z"
+    },
+    {
+      "id": "1c77f58f-3e44-4060-a9f1-ff21a2402f95",
+      "company": "Teradata",
+      "title": "UX Design Intern (AI-Focused)",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492857332/",
+      "url": "https://trueinterview.io/jobs/1c77f58f-3e44-4060-a9f1-ff21a2402f95",
+      "postedAt": "2026-11-21T12:30:00.000Z",
+      "updatedAt": "2026-11-21T12:30:00.000Z"
+    },
+    {
+      "id": "aaf779c0-fc61-44a2-9e23-fac722a71ce8",
+      "company": "ServiceNow",
+      "title": "Security Software Engineer Intern",
+      "locations": [
+        "Kirkland, Washington, United States",
+        "Kirkland, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365-security-software-engineer-intern",
+      "url": "https://trueinterview.io/jobs/aaf779c0-fc61-44a2-9e23-fac722a71ce8",
+      "postedAt": "2026-11-20T22:06:05.000Z",
+      "updatedAt": "2026-11-21T12:23:00.000Z"
+    },
+    {
+      "id": "961fb3f8-99b6-41a6-a550-cea3ad18a90b",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Data Analyst Internship",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493221250/",
+      "url": "https://trueinterview.io/jobs/961fb3f8-99b6-41a6-a550-cea3ad18a90b",
+      "postedAt": "2026-11-21T11:24:00.000Z",
+      "updatedAt": "2026-11-21T11:24:00.000Z"
+    },
+    {
+      "id": "4dbc2a88-ddba-42f2-8982-d6939b78c618",
+      "company": "Cisco",
+      "title": "Data Science Analyst II (Intern) – Untied States",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493214972/",
+      "url": "https://trueinterview.io/jobs/4dbc2a88-ddba-42f2-8982-d6939b78c618",
+      "postedAt": "2026-11-21T10:24:00.000Z",
+      "updatedAt": "2026-11-21T10:24:00.000Z"
+    },
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
       "company": "Franklin Electric",
@@ -514,31 +748,6 @@
       "updatedAt": "2026-11-20T22:40:27.000Z"
     },
     {
-      "id": "aaf779c0-fc61-44a2-9e23-fac722a71ce8",
-      "company": "ServiceNow",
-      "title": "Security Software Engineer Intern",
-      "locations": [
-        "Kirkland, Washington, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365-security-software-engineer-intern",
-      "url": "https://trueinterview.io/jobs/aaf779c0-fc61-44a2-9e23-fac722a71ce8",
-      "postedAt": "2026-11-20T22:06:05.000Z",
-      "updatedAt": "2026-11-20T22:06:05.000Z"
-    },
-    {
       "id": "f3e9a330-75ae-412e-a1c7-d87855003569",
       "company": "Renesas",
       "title": "System Verification Engineering Intern",
@@ -564,6 +773,31 @@
       "url": "https://trueinterview.io/jobs/f3e9a330-75ae-412e-a1c7-d87855003569",
       "postedAt": "2026-11-20T21:44:33.000Z",
       "updatedAt": "2026-11-20T21:44:33.000Z"
+    },
+    {
+      "id": "301d9205-8fd1-491a-9272-2cf5c09c06b4",
+      "company": "Ralliant",
+      "title": "Software Design Engineer Intern (Summer 2027)",
+      "locations": [
+        "Beaverton, OR, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ralliant.eightfold.ai/careers/job/1133916629667",
+      "url": "https://trueinterview.io/jobs/301d9205-8fd1-491a-9272-2cf5c09c06b4",
+      "postedAt": "2026-11-20T21:13:12.000Z",
+      "updatedAt": "2026-11-20T21:13:12.000Z"
     },
     {
       "id": "86d512f1-9427-4fd0-9b90-6943f2e5908d",
@@ -741,6 +975,33 @@
       "url": "https://trueinterview.io/jobs/fec3396e-2504-4185-b05d-434e68da9451",
       "postedAt": "2026-11-20T19:32:00.000Z",
       "updatedAt": "2026-11-20T19:32:00.000Z"
+    },
+    {
+      "id": "850c2f2a-5e58-4b00-9aa8-56285161cc1e",
+      "company": "Apple",
+      "title": "Software Engineering Intern, App Intelligence Experience",
+      "locations": [
+        "Cambridge, England, CB2 3AX, United Kingdom"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200696199/software-engineering-intern-app-intelligence-experience",
+      "url": "https://trueinterview.io/jobs/850c2f2a-5e58-4b00-9aa8-56285161cc1e",
+      "postedAt": "2026-11-20T19:23:54.000Z",
+      "updatedAt": "2026-11-20T19:23:54.000Z"
     },
     {
       "id": "8d1aa7ba-efe4-4013-a867-f51ac5f3df19",
@@ -1303,6 +1564,32 @@
       "updatedAt": "2026-11-20T16:17:00.000Z"
     },
     {
+      "id": "e49c276f-4d35-4ff3-8472-49852e7f554a",
+      "company": "Ralliant",
+      "title": "Software Engineering (AI Building) Intern (Summer 2027)",
+      "locations": [
+        "Beaverton, OR, United States",
+        "Beaverton, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ralliant.eightfold.ai/careers/job/1133916646344",
+      "url": "https://trueinterview.io/jobs/e49c276f-4d35-4ff3-8472-49852e7f554a",
+      "postedAt": "2026-11-19T21:52:49.000Z",
+      "updatedAt": "2026-11-20T16:13:17.000Z"
+    },
+    {
       "id": "c8e35819-3cc9-4a5b-b33b-054683cb9091",
       "company": "Bosch",
       "title": "Extracurricular Internship: R&D & Simulation Engineer - Heat Pump Water Heaters (f/m/div.)",
@@ -1455,6 +1742,33 @@
       "url": "https://trueinterview.io/jobs/1f09e6a3-21b2-4bbb-b300-ded5c48c15bc",
       "postedAt": "2026-11-20T15:11:34.000Z",
       "updatedAt": "2026-11-20T15:11:34.000Z"
+    },
+    {
+      "id": "9b3f8f17-311e-4dec-b873-520cbc7858cf",
+      "company": "Apple",
+      "title": "Intern - Software Development Engineer",
+      "locations": [
+        "Munich, Bavaria-Bayern, 80335, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200695453/intern-software-development-engineer",
+      "url": "https://trueinterview.io/jobs/9b3f8f17-311e-4dec-b873-520cbc7858cf",
+      "postedAt": "2026-11-20T14:51:12.000Z",
+      "updatedAt": "2026-11-20T14:51:12.000Z"
     },
     {
       "id": "05979d76-2cb1-4028-a4f2-692555225ac9",
@@ -3098,32 +3412,6 @@
       "url": "https://trueinterview.io/jobs/78e3ebe9-4eeb-4256-8f4b-dc1a5a48d9d4",
       "postedAt": "2026-11-19T22:56:55.000Z",
       "updatedAt": "2026-11-19T22:56:55.000Z"
-    },
-    {
-      "id": "e49c276f-4d35-4ff3-8472-49852e7f554a",
-      "company": "Ralliant",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "locations": [
-        "Beaverton, OR, United States",
-        "Beaverton, OR"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ralliant.eightfold.ai/careers/job/1133916646344",
-      "url": "https://trueinterview.io/jobs/e49c276f-4d35-4ff3-8472-49852e7f554a",
-      "postedAt": "2026-11-19T21:52:49.000Z",
-      "updatedAt": "2026-11-19T21:52:49.000Z"
     },
     {
       "id": "bdd3b361-9398-489c-b8fa-7fe97d82f452",
@@ -37121,6 +37409,31 @@
       "updatedAt": "2026-11-08T04:20:00.000Z"
     },
     {
+      "id": "19f56944-1158-4a36-815a-facc3e1b373e",
+      "company": "Tencent",
+      "title": "Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Indoensia)",
+      "locations": [
+        "Jakarta, Jakarta, Indonesia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488769160/",
+      "url": "https://trueinterview.io/jobs/19f56944-1158-4a36-815a-facc3e1b373e",
+      "postedAt": "2026-11-08T04:19:00.000Z",
+      "updatedAt": "2026-11-08T04:19:00.000Z"
+    },
+    {
       "id": "60011eb3-133a-463a-9e15-0a18cb157eac",
       "company": "Appian",
       "title": "Product Manager Intern",
@@ -37221,33 +37534,6 @@
       "updatedAt": "2026-11-08T00:00:00.000Z"
     },
     {
-      "id": "85c81f7f-85d7-4e5d-8aa3-e0b01bb3465c",
-      "company": "Cerity Partners",
-      "title": "Investment Data & Technology Analyst Internship",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4470716517/",
-      "url": "https://trueinterview.io/jobs/85c81f7f-85d7-4e5d-8aa3-e0b01bb3465c",
-      "postedAt": "2026-11-08T00:00:00.000Z",
-      "updatedAt": "2026-11-08T00:00:00.000Z"
-    },
-    {
       "id": "ed795113-2879-42d8-82fd-98fda8867026",
       "company": "DoorDash",
       "title": "Machine Learning Intern (Masters) - Summer 2027",
@@ -37318,7 +37604,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -60208,31 +60494,6 @@
       "url": "https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e",
       "postedAt": "2026-10-31T10:20:33.000Z",
       "updatedAt": "2026-10-31T10:20:33.000Z"
-    },
-    {
-      "id": "96e04efa-c630-4752-b4b9-3241546ecc18",
-      "company": "Rivian",
-      "title": "Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
-      "locations": [
-        "Normal, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468019657/",
-      "url": "https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18",
-      "postedAt": "2026-10-31T10:07:00.000Z",
-      "updatedAt": "2026-10-31T10:07:00.000Z"
     },
     {
       "id": "34dbab2d-d75c-4d43-8376-d850121a999e",
@@ -109547,33 +109808,6 @@
       "url": "https://trueinterview.io/jobs/99693b5c-9266-4392-8fb2-8f1e178aab79",
       "postedAt": "2026-09-22T14:19:48.000Z",
       "updatedAt": "2026-09-22T14:19:48.000Z"
-    },
-    {
-      "id": "1440859c-0175-4d9f-9966-4e288bfe3f19",
-      "company": "DV Trading",
-      "title": "Security Engineer Intern - Summer 2027",
-      "locations": [
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
-      "url": "https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19",
-      "postedAt": "2026-09-22T13:52:06.000Z",
-      "updatedAt": "2026-09-22T13:52:06.000Z"
     }
   ]
 }
