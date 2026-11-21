@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T22:04:27.707Z",
-  "count": 4263,
+  "listingsChangedAt": "2026-11-21T23:03:58.975Z",
+  "count": 4267,
   "listings": [
     {
       "id": "7e736614-867a-49d2-945c-a9c769d7abab",
@@ -40111,29 +40111,32 @@
       "updatedAt": "2026-11-06T23:20:00.000Z"
     },
     {
-      "id": "dfe87efc-356f-480c-8ae3-b450342fed2a",
-      "company": "Zoox",
-      "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+      "id": "78835e15-bb8a-4257-bbba-6ae73d8d7dd1",
+      "company": "Duolingo",
+      "title": "AI Research Intern (PhD)",
       "locations": [
-        "Foster City, CA"
+        "Pittsburgh, PA",
+        "New York, NY"
       ],
-      "cities": [],
+      "cities": [
+        "New York, NY"
+      ],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
-      "url": "https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a",
-      "postedAt": "2026-11-06T23:11:55.000Z",
-      "updatedAt": "2026-11-06T23:11:55.000Z"
+      "source": "linkedin",
+      "applyUrl": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+      "url": "https://trueinterview.io/jobs/78835e15-bb8a-4257-bbba-6ae73d8d7dd1",
+      "postedAt": "2026-11-06T22:58:00.000Z",
+      "updatedAt": "2026-11-06T22:58:00.000Z"
     },
     {
       "id": "16120394-ca06-4a06-a2f1-c32d6ffb308e",
@@ -40174,7 +40177,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -40184,6 +40187,32 @@
       "url": "https://trueinterview.io/jobs/823f61d0-8b74-43b8-9003-1aaafae7b52d",
       "postedAt": "2026-11-06T22:38:00.000Z",
       "updatedAt": "2026-11-06T22:38:00.000Z"
+    },
+    {
+      "id": "03264868-beb5-47fe-8f1c-f24f40347104",
+      "company": "Keysight Technologies",
+      "title": "Agentic AI — PhD Intern (Modeling Agent)",
+      "locations": [
+        "Santa Rosa, CA",
+        "Calabasas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486282652/",
+      "url": "https://trueinterview.io/jobs/03264868-beb5-47fe-8f1c-f24f40347104",
+      "postedAt": "2026-11-06T22:24:00.000Z",
+      "updatedAt": "2026-11-06T22:26:00.000Z"
     },
     {
       "id": "006fa3ca-1006-4c70-9245-9cef4bff7c8f",
@@ -40212,6 +40241,81 @@
       "updatedAt": "2026-11-06T22:26:00.000Z"
     },
     {
+      "id": "1dadb136-f9c0-45cc-8695-313128b83c62",
+      "company": "AstraZeneca",
+      "title": "Manufacturing Digital and AI Intern",
+      "locations": [
+        "Gaithersburg, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487356232/",
+      "url": "https://trueinterview.io/jobs/1dadb136-f9c0-45cc-8695-313128b83c62",
+      "postedAt": "2026-11-06T22:23:00.000Z",
+      "updatedAt": "2026-11-06T22:23:00.000Z"
+    },
+    {
+      "id": "4538b65b-97a9-4419-963b-85afc1ffd879",
+      "company": "Trimble Inc.",
+      "title": "AI Automation Intern",
+      "locations": [
+        "Dayton, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487356164/",
+      "url": "https://trueinterview.io/jobs/4538b65b-97a9-4419-963b-85afc1ffd879",
+      "postedAt": "2026-11-06T22:16:00.000Z",
+      "updatedAt": "2026-11-06T22:16:00.000Z"
+    },
+    {
+      "id": "1f0975fb-c531-45f8-911e-9f28f122aa52",
+      "company": "Yaskawa America, Inc",
+      "title": "IT Co-op",
+      "locations": [
+        "Miamisburg, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting.ultipro.com/YAS1000YAAMI/JobBoard/79c5e373-83ab-4894-be19-ed78fff999d4/OpportunityDetail?opportunityId=58369bf0-179a-46eb-894f-2c1903f1c6bc&postingId=e3ab3241-1580-4f50-9a15-cfa7131f2b07",
+      "url": "https://trueinterview.io/jobs/1f0975fb-c531-45f8-911e-9f28f122aa52",
+      "postedAt": "2026-11-06T22:01:43.000Z",
+      "updatedAt": "2026-11-06T22:01:43.000Z"
+    },
+    {
       "id": "d4b0fb70-33a5-4abe-93a0-59395f180621",
       "company": "FIRST RF Corporation",
       "title": "Intern – Embedded Engineer",
@@ -40224,7 +40328,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
