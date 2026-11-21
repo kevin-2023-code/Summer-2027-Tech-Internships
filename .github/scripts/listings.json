@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T17:04:14.414Z",
-  "count": 4249,
+  "listingsChangedAt": "2026-11-21T18:05:13.934Z",
+  "count": 4253,
   "listings": [
+    {
+      "id": "5892b55b-245a-4403-b127-fac4baab181d",
+      "company": "SAP",
+      "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
+      "locations": [
+        "Levallois-Perret, Île-de-France, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475246026/",
+      "url": "https://trueinterview.io/jobs/5892b55b-245a-4403-b127-fac4baab181d",
+      "postedAt": "2026-11-21T16:55:00.000Z",
+      "updatedAt": "2026-11-21T16:55:00.000Z"
+    },
+    {
+      "id": "da1c55f9-5781-47f5-bf6c-c09509977980",
+      "company": "Ancestry",
+      "title": "Data Science - AI Document Understanding, Co-op",
+      "locations": [
+        "Draper, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468348640/",
+      "url": "https://trueinterview.io/jobs/da1c55f9-5781-47f5-bf6c-c09509977980",
+      "postedAt": "2026-11-21T16:40:00.000Z",
+      "updatedAt": "2026-11-21T16:40:00.000Z"
+    },
     {
       "id": "d02467a6-6a64-43f7-884a-d43885e22ce6",
       "company": "Amazon",
@@ -18,7 +68,9 @@
         "Sunnyvale, CA",
         "Austin, TX",
         "Seattle, WA",
-        "Arlington, VA"
+        "Arlington, VA",
+        "Boston, MA",
+        "New York, United States"
       ],
       "cities": [
         "Bellevue, WA",
@@ -39,7 +91,35 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4485386809/",
       "url": "https://trueinterview.io/jobs/d02467a6-6a64-43f7-884a-d43885e22ce6",
       "postedAt": "2026-11-21T14:17:00.000Z",
-      "updatedAt": "2026-11-21T16:13:00.000Z"
+      "updatedAt": "2026-11-21T16:38:00.000Z"
+    },
+    {
+      "id": "68a164e8-7387-495d-af5a-84ac50037203",
+      "company": "Microsoft",
+      "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+      "locations": [
+        "Redmond, WA",
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492936779/",
+      "url": "https://trueinterview.io/jobs/68a164e8-7387-495d-af5a-84ac50037203",
+      "postedAt": "2026-11-20T16:09:00.000Z",
+      "updatedAt": "2026-11-21T16:06:00.000Z"
     },
     {
       "id": "703ac839-4b7f-4bcf-a2a8-e005b2d7832e",
@@ -271,6 +351,31 @@
       "url": "https://trueinterview.io/jobs/5a22b97c-dff3-422d-b550-dd1c98406140",
       "postedAt": "2026-11-21T13:09:00.000Z",
       "updatedAt": "2026-11-21T13:09:00.000Z"
+    },
+    {
+      "id": "5a34a2f9-72fd-457a-9008-e43d9033e0bb",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Infra (PhD)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483474774/",
+      "url": "https://trueinterview.io/jobs/5a34a2f9-72fd-457a-9008-e43d9033e0bb",
+      "postedAt": "2026-11-21T12:56:00.000Z",
+      "updatedAt": "2026-11-21T12:56:00.000Z"
     },
     {
       "id": "1c77f58f-3e44-4060-a9f1-ff21a2402f95",
@@ -2032,31 +2137,6 @@
       "url": "https://trueinterview.io/jobs/6336bee4-f2b3-44b9-a9da-02b9c5597679",
       "postedAt": "2026-11-20T16:11:00.000Z",
       "updatedAt": "2026-11-20T16:11:00.000Z"
-    },
-    {
-      "id": "68a164e8-7387-495d-af5a-84ac50037203",
-      "company": "Microsoft",
-      "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4492936779/",
-      "url": "https://trueinterview.io/jobs/68a164e8-7387-495d-af5a-84ac50037203",
-      "postedAt": "2026-11-20T16:09:00.000Z",
-      "updatedAt": "2026-11-20T16:09:00.000Z"
     },
     {
       "id": "7a32dfa7-d6cb-45af-9bbe-5fe6b5e529fe",
@@ -38349,7 +38429,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38373,7 +38453,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -38465,6 +38545,31 @@
       "updatedAt": "2026-11-07T17:21:00.000Z"
     },
     {
+      "id": "2feafdcd-d7f3-4cfb-9aa9-0d7e38999fe1",
+      "company": "Copart",
+      "title": "Data & AI Intern",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472069407/",
+      "url": "https://trueinterview.io/jobs/2feafdcd-d7f3-4cfb-9aa9-0d7e38999fe1",
+      "postedAt": "2026-11-07T16:30:00.000Z",
+      "updatedAt": "2026-11-07T16:30:00.000Z"
+    },
+    {
       "id": "1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2",
       "company": "Microsoft",
       "title": "Research Intern - AI & Human Systems",
@@ -38480,7 +38585,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38510,7 +38615,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -38536,7 +38641,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38561,7 +38666,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Mobile Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38584,9 +38689,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -38614,9 +38719,9 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
-      "seniority": "new-grad",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -38640,9 +38745,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
