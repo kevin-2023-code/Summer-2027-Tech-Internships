@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T21:03:58.342Z",
-  "count": 4259,
+  "listingsChangedAt": "2026-11-21T22:04:27.707Z",
+  "count": 4263,
   "listings": [
+    {
+      "id": "7e736614-867a-49d2-945c-a9c769d7abab",
+      "company": "Orlin Circle",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492322476/",
+      "url": "https://trueinterview.io/jobs/7e736614-867a-49d2-945c-a9c769d7abab",
+      "postedAt": "2026-11-21T20:57:00.000Z",
+      "updatedAt": "2026-11-21T20:57:00.000Z"
+    },
     {
       "id": "07c862d9-a2a9-4049-af2b-682d805ca879",
       "company": "Orlin Circle",
@@ -39622,7 +39647,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -39701,9 +39726,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -39713,6 +39738,34 @@
       "url": "https://trueinterview.io/jobs/11b1e151-e1fb-4778-a091-250259073f53",
       "postedAt": "2026-11-07T00:27:38.000Z",
       "updatedAt": "2026-11-07T00:27:38.000Z"
+    },
+    {
+      "id": "572ed027-ad73-48a1-bba5-0a656f1e6879",
+      "company": "Apple",
+      "title": "Information Security Internship",
+      "locations": [
+        "London, England, E20 1EQ, United Kingdom",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200687171/information-security-internship",
+      "url": "https://trueinterview.io/jobs/572ed027-ad73-48a1-bba5-0a656f1e6879",
+      "postedAt": "2026-11-06T10:26:29.000Z",
+      "updatedAt": "2026-11-07T00:22:00.000Z"
     },
     {
       "id": "9b7e714c-6bdf-48d9-a9a2-efd31db0da9a",
@@ -39754,7 +39807,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -39795,6 +39848,31 @@
       "updatedAt": "2026-11-07T00:18:00.000Z"
     },
     {
+      "id": "c9fc0791-9cb9-4e85-a2ad-649becda3af5",
+      "company": "Samsung Electronics America",
+      "title": "Samsung Care AI Data Analytic Intern",
+      "locations": [
+        "Plano, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488471043/",
+      "url": "https://trueinterview.io/jobs/c9fc0791-9cb9-4e85-a2ad-649becda3af5",
+      "postedAt": "2026-11-07T00:18:00.000Z",
+      "updatedAt": "2026-11-07T00:18:00.000Z"
+    },
+    {
       "id": "0d824a29-02ff-49f8-8c3d-8ef982f76c5a",
       "company": "TetraMem - Accelerate The World",
       "title": "US 2026 Software - Machine Learning Intern",
@@ -39809,7 +39887,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -39860,9 +39938,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -39922,6 +40000,33 @@
       "url": "https://trueinterview.io/jobs/05fead44-f67c-45db-abfd-801686d55ca5",
       "postedAt": "2026-11-07T00:01:00.000Z",
       "updatedAt": "2026-11-07T00:01:00.000Z"
+    },
+    {
+      "id": "4efe6a93-9e10-46ef-baee-77d8fdda19cb",
+      "company": "T-Mobile",
+      "title": "Summer 2027 AI Strategist Internship",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488458077/",
+      "url": "https://trueinterview.io/jobs/4efe6a93-9e10-46ef-baee-77d8fdda19cb",
+      "postedAt": "2026-11-06T23:58:00.000Z",
+      "updatedAt": "2026-11-06T23:58:00.000Z"
     },
     {
       "id": "6b8b275b-8ae9-4f01-9e38-1e456b1d3391",
@@ -39993,7 +40098,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
