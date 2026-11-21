@@ -5,9 +5,114 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-21T15:04:26.038Z",
-  "count": 4234,
+  "listingsChangedAt": "2026-11-21T16:04:40.248Z",
+  "count": 4250,
   "listings": [
+    {
+      "id": "703ac839-4b7f-4bcf-a2a8-e005b2d7832e",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Solutions Architect Intern, AWSI - 2027",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468602846/",
+      "url": "https://trueinterview.io/jobs/703ac839-4b7f-4bcf-a2a8-e005b2d7832e",
+      "postedAt": "2026-11-21T14:56:00.000Z",
+      "updatedAt": "2026-11-21T14:56:00.000Z"
+    },
+    {
+      "id": "d02467a6-6a64-43f7-884a-d43885e22ce6",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+      "locations": [
+        "Bellevue, WA",
+        "Irvine, CA",
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Bellevue, WA",
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485386809/",
+      "url": "https://trueinterview.io/jobs/d02467a6-6a64-43f7-884a-d43885e22ce6",
+      "postedAt": "2026-11-21T14:17:00.000Z",
+      "updatedAt": "2026-11-21T14:55:00.000Z"
+    },
+    {
+      "id": "774592cd-95fc-441a-9356-004b61c73488",
+      "company": "NVIDIA",
+      "title": "Finance AI Engineering Intern - Summer 2027",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492883288/",
+      "url": "https://trueinterview.io/jobs/774592cd-95fc-441a-9356-004b61c73488",
+      "postedAt": "2026-11-21T14:45:00.000Z",
+      "updatedAt": "2026-11-21T14:45:00.000Z"
+    },
+    {
+      "id": "e93d395d-86f4-4805-bf47-fc920e623f2b",
+      "company": "Althais (Antler P27)",
+      "title": "Software Development & Machine Learning Engineer Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492881587/",
+      "url": "https://trueinterview.io/jobs/e93d395d-86f4-4805-bf47-fc920e623f2b",
+      "postedAt": "2026-11-21T14:40:00.000Z",
+      "updatedAt": "2026-11-21T14:40:00.000Z"
+    },
     {
       "id": "899811d9-26c9-41e4-875a-5a314617b3aa",
       "company": "Micron Technology",
@@ -62849,33 +62954,6 @@
       "updatedAt": "2026-10-30T14:35:11.000Z"
     },
     {
-      "id": "ec9c1d27-0cb9-4e98-b541-de4c8cf88cda",
-      "company": "Gcm Grosvenor",
-      "title": "2027 Cybersecurity Summer Intern",
-      "locations": [
-        "Chicago, Illinois, United States"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003",
-      "url": "https://trueinterview.io/jobs/ec9c1d27-0cb9-4e98-b541-de4c8cf88cda",
-      "postedAt": "2026-10-30T14:12:51.000Z",
-      "updatedAt": "2026-10-30T14:12:51.000Z"
-    },
-    {
       "id": "6b01f696-9595-4501-a4bc-d60643d8b994",
       "company": "Lila Sciences",
       "title": "Co-Op, SCADA Engineer",
@@ -107581,6 +107659,189 @@
       "updatedAt": "2026-09-29T14:35:37.000Z"
     },
     {
+      "id": "b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
+      "company": "Schonfeld Strategic Advisors",
+      "title": "2027 Quantitative C++ Developer Intern",
+      "locations": [
+        "Hong Kong, Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
+      "url": "https://trueinterview.io/jobs/b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
+      "postedAt": "2026-09-29T14:30:14.000Z",
+      "updatedAt": "2026-09-29T14:30:14.000Z"
+    },
+    {
+      "id": "e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Berlin (2027)",
+      "locations": [
+        "DE-Berlin-Trion Building"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
+      "url": "https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
+      "postedAt": "2026-09-29T06:23:45.000Z",
+      "updatedAt": "2026-09-29T06:23:45.000Z"
+    },
+    {
+      "id": "8a607e96-b5f9-43a5-a6c5-51660f64762c",
+      "company": "Shopback",
+      "title": "Software Engineer Intern - Backend",
+      "locations": [
+        "Ho Chi Minh, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
+      "url": "https://trueinterview.io/jobs/8a607e96-b5f9-43a5-a6c5-51660f64762c",
+      "postedAt": "2026-09-29T05:54:43.000Z",
+      "updatedAt": "2026-09-29T05:54:43.000Z"
+    },
+    {
+      "id": "4b6c289e-36b0-4471-8dd3-979a1a1c6f58",
+      "company": "Hermeus",
+      "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
+      "url": "https://trueinterview.io/jobs/4b6c289e-36b0-4471-8dd3-979a1a1c6f58",
+      "postedAt": "2026-09-29T02:51:15.000Z",
+      "updatedAt": "2026-09-29T02:51:15.000Z"
+    },
+    {
+      "id": "931beaed-906e-4eb3-a3d9-75fdedf0b14b",
+      "company": "Moloco",
+      "title": "Software Engineer Intern (3 months)",
+      "locations": [
+        "Seoul, Korea"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/moloco/jobs/8007407003",
+      "url": "https://trueinterview.io/jobs/931beaed-906e-4eb3-a3d9-75fdedf0b14b",
+      "postedAt": "2026-09-29T00:56:51.000Z",
+      "updatedAt": "2026-09-29T00:56:51.000Z"
+    },
+    {
+      "id": "4fca36cb-e338-49bc-b878-b284fb06cf9f",
+      "company": "Amazon",
+      "title": "PhD Economics Intern – Reduced Form Causal Inference, Summer 2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027",
+      "url": "https://trueinterview.io/jobs/4fca36cb-e338-49bc-b878-b284fb06cf9f",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d",
+      "company": "Amazon",
+      "title": "PhD Economics Intern – Structural IO, Summer 2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
+      "url": "https://trueinterview.io/jobs/0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
       "id": "c387cac5-354e-49f4-900c-84694eb575c7",
       "company": "Cisco",
       "title": "Associate Applications Engineer I (Co-op) - United States",
@@ -107656,6 +107917,31 @@
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
     {
+      "id": "4ab5f848-bcc6-4088-a9b5-0473a00bf170",
+      "company": "Cisco",
+      "title": "Optics Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914",
+      "url": "https://trueinterview.io/jobs/4ab5f848-bcc6-4088-a9b5-0473a00bf170",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
       "id": "e9a0f325-c03d-464c-b4ae-1ba7be0d360e",
       "company": "Cisco",
       "title": "Systems Quality Engineer I (Co-op) - United States",
@@ -107677,6 +107963,106 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
       "url": "https://trueinterview.io/jobs/e9a0f325-c03d-464c-b4ae-1ba7be0d360e",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "51823b2b-8214-4e56-9468-bcdffa09fc54",
+      "company": "Cisco",
+      "title": "Systems Quality Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
+      "url": "https://trueinterview.io/jobs/51823b2b-8214-4e56-9468-bcdffa09fc54",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "f154672d-9ff2-4f00-a32d-aa5ade5f1c54",
+      "company": "Keysight",
+      "title": "EDA AI/ML Layout Engineering Intern",
+      "locations": [
+        "Calabasas, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54606?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f154672d-9ff2-4f00-a32d-aa5ade5f1c54",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "49e7aa29-5c25-425d-9664-27cd0ab23e38",
+      "company": "Keysight",
+      "title": "EDA AI/ML Software Intern",
+      "locations": [
+        "Calabasas, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54582?lang=en-us",
+      "url": "https://trueinterview.io/jobs/49e7aa29-5c25-425d-9664-27cd0ab23e38",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "5687feab-b7c5-4ffc-ae77-20439f62e1bb",
+      "company": "Marvell Technology",
+      "title": "AMS Validation Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1",
+      "url": "https://trueinterview.io/jobs/5687feab-b7c5-4ffc-ae77-20439f62e1bb",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
@@ -107734,6 +108120,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893397913168",
       "url": "https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "95dbfbaf-1c8c-4403-954e-27be9e2fed84",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397892835",
+      "url": "https://trueinterview.io/jobs/95dbfbaf-1c8c-4403-954e-27be9e2fed84",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
