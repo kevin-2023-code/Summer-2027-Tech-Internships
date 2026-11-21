@@ -8,9 +8,9 @@
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-### Browse 445 internships by category
+### Browse 446 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (214)
+💻 **[Software Engineering](#-software-engineering)** (215)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning)** (115)
 
@@ -262,6 +262,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><td><strong>Shopback</strong></td><td>Software Engineer Intern - Mobile</td><td>Ho Chi Minh, Vietnam</td><td><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/d8ea2e9c-2d16-49c7-8d96-6e65dddbd74e"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1mo</td></tr>
 <tr><td><strong>Texas Instruments</strong></td><td>Digital Design Engineering Intern 🔥</td><td>OSLO, Norway</td><td><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/e503c6ad-0d6d-4a37-9a26-71d8294c42a9"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1mo</td></tr>
 <tr><td><strong>Terranova</strong></td><td>Mechanical/Test Engineering Intern</td><td>Berkeley</td><td><a href="https://jobs.ashbyhq.com/Terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/76a5a60d-2678-4de9-bd3d-16e41f90f7dd"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1mo</td></tr>
+<tr><td><strong>Wavestone</strong></td><td>Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</td><td>Leideleng, Distrikt Luxemburg, Luxembourg</td><td><a href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>1mo</td></tr>
 </tbody>
 </table>
 
@@ -403,7 +404,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr><td><strong>Keyrock</strong></td><td>DeFi Quant Trader Intern (Credit) - London</td><td>London OR Brussels<br>Brussels</td><td><a href="https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/5dedd64b-c83e-460f-834a-1e02c9dd2834"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>5d</td></tr>
 <tr><td><strong>Point72 Asset Management</strong></td><td>2027 Trader Summer Intern (12-week program)</td><td>Hong Kong Japan</td><td><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>15d</td></tr>
-<tr><td><strong>Tower Research Capital</strong></td><td>Quantitative Developer Intern</td><td>Paris, Île-de-France, France<br>Singapore</td><td><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>15d</td></tr>
+<tr><td><strong>Tower Research Capital</strong></td><td>Quantitative Developer Intern</td><td>Paris, Île-de-France, France<br>Singapore</td><td><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>16d</td></tr>
 <tr><td><strong>Keyrock</strong></td><td>DeFi Quant Research Intern (Digital Assets Market Making) - Brussels</td><td>London OR Brussels<br>Brussels</td><td><a href="https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/f7cfdee1-375a-4564-9c15-a2dc3cdf323c"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>18d</td></tr>
 <tr><td>↳</td><td>Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels</td><td>London OR Brussels<br>Brussels</td><td><a href="https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/a78fda97-6bed-45d6-860b-6634fc7172a6"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>18d</td></tr>
 <tr><td><strong>DRW</strong></td><td>Quantitative Research Intern</td><td>Singapore, Singapore<br>London, England, United Kingdom<br>Chicago, New York City</td><td><a href="https://job-boards.greenhouse.io/drweng/jobs/7957756"><img src="assets/apply.svg" alt="Apply" width="70"></a> <a href="https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143"><img src="assets/ti.svg" alt="TrueInterview" width="22"></a></td><td>23d</td></tr>
