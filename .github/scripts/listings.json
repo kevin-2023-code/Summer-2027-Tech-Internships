@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T04:06:04.003Z",
-  "count": 4292,
+  "listingsChangedAt": "2026-11-22T05:04:43.157Z",
+  "count": 4296,
   "listings": [
+    {
+      "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
+      "company": "Moody's",
+      "title": "Quantitative Analytics and Modeling Summer Intern",
+      "locations": [
+        "Frankfurt am Main, Deutschland"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://career8.successfactors.com/career?company=MoodysProd&career_ns=job_listing&career_job_req_id=14956&lang=en_US&jobPipeline=Indeed",
+      "url": "https://trueinterview.io/jobs/f5e8588c-ca40-4c93-8146-6c85f981ebc7",
+      "postedAt": "2026-11-22T06:00:00.000Z",
+      "updatedAt": "2026-11-22T06:00:00.000Z"
+    },
     {
       "id": "bb2497c6-fbcd-4a64-b080-169d0b87e490",
       "company": "Neros Technologies",
@@ -3420,9 +3445,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3555,6 +3580,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.skyworksinc.com/job/RF-Application-SummerFall-Co-op/79134-en_US",
       "url": "https://trueinterview.io/jobs/79f682cf-7995-4d46-98a4-d9125242430f",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "667780b2-0589-47d3-858b-5c07b7edb21e",
+      "company": "Stadler Rail Group",
+      "title": "Internship Electrical Technician Engineer",
+      "locations": [
+        "Wallisellen, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.stadlerrail.ch/offene-stellen/engineering/internship-electrical-technician-engineer/94214402-822f-4ae6-a4f9-6dceaef2a302",
+      "url": "https://trueinterview.io/jobs/667780b2-0589-47d3-858b-5c07b7edb21e",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -6263,7 +6313,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9515,9 +9565,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -31673,31 +31723,6 @@
       "updatedAt": "2026-11-11T00:37:00.000Z"
     },
     {
-      "id": "5e4b9b07-7063-45d0-a580-40fb624bb98f",
-      "company": "Optimum",
-      "title": "Intern - Software Development",
-      "locations": [
-        "Bethpage, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://career8.successfactors.com/career?company=cscholding&career_ns=job_listing&career_job_req_id=12521&lang=en_US",
-      "url": "https://trueinterview.io/jobs/5e4b9b07-7063-45d0-a580-40fb624bb98f",
-      "postedAt": "2026-11-11T00:30:00.000Z",
-      "updatedAt": "2026-11-11T00:30:00.000Z"
-    },
-    {
       "id": "453f2659-0529-4b54-ad85-aaa688a42e5c",
       "company": "Optimum",
       "title": "Intern - QA Automation Engineering",
@@ -42785,7 +42810,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -42857,6 +42882,31 @@
       "updatedAt": "2026-11-06T12:54:00.000Z"
     },
     {
+      "id": "97503906-ac92-484b-93f1-2bbbc8649002",
+      "company": "Moody's Corporation",
+      "title": "Applied AI & Analytics Summer Intern",
+      "locations": [
+        "Newark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488152122/",
+      "url": "https://trueinterview.io/jobs/97503906-ac92-484b-93f1-2bbbc8649002",
+      "postedAt": "2026-11-06T12:53:00.000Z",
+      "updatedAt": "2026-11-06T12:53:00.000Z"
+    },
+    {
       "id": "499c3bd6-f961-4630-b1c4-351cc2a347ba",
       "company": "NVIDIA",
       "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
@@ -42894,7 +42944,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -42905,6 +42955,33 @@
       "url": "https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5",
       "postedAt": "2026-11-06T12:32:00.000Z",
       "updatedAt": "2026-11-06T12:32:00.000Z"
+    },
+    {
+      "id": "4d71abc3-bd5c-4255-a95e-64b6e91ac8be",
+      "company": "General Motors",
+      "title": "2027 Summer Intern, Data Scaling, Embodied AI (Masters)",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480159466/",
+      "url": "https://trueinterview.io/jobs/4d71abc3-bd5c-4255-a95e-64b6e91ac8be",
+      "postedAt": "2026-11-06T12:30:00.000Z",
+      "updatedAt": "2026-11-06T12:30:00.000Z"
     },
     {
       "id": "e9f64c8f-72b8-4d3e-8a37-5d7cf1164168",
@@ -43022,7 +43099,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -43049,7 +43126,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Research Scientist",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -43059,6 +43136,31 @@
       "url": "https://trueinterview.io/jobs/26ae9e81-08ee-4ea0-8d5c-169a072aeccc",
       "postedAt": "2026-11-06T12:10:00.000Z",
       "updatedAt": "2026-11-06T12:10:00.000Z"
+    },
+    {
+      "id": "6c59de2a-2401-4247-b814-5d2c4981aa5d",
+      "company": "Susquehanna International Group",
+      "title": "Business Analytics AI Co-op with Drexel University",
+      "locations": [
+        "Bala-Cynwyd, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477359375/",
+      "url": "https://trueinterview.io/jobs/6c59de2a-2401-4247-b814-5d2c4981aa5d",
+      "postedAt": "2026-11-06T12:09:00.000Z",
+      "updatedAt": "2026-11-06T12:09:00.000Z"
     },
     {
       "id": "0d159745-99f5-4d12-9bc1-cbca58fefece",
@@ -43072,9 +43174,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
