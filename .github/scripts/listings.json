@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T18:05:34.179Z",
-  "count": 4343,
+  "listingsChangedAt": "2026-11-22T19:04:11.256Z",
+  "count": 4349,
   "listings": [
+    {
+      "id": "432ece9e-3687-4f0b-a653-d9aed5578536",
+      "company": "Grab",
+      "title": "Intern [GIP] - Tech Engineering",
+      "locations": [
+        "Jakarta, Indonesia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Grab/744000163097849-intern-gip-tech-engineering",
+      "url": "https://trueinterview.io/jobs/432ece9e-3687-4f0b-a653-d9aed5578536",
+      "postedAt": "2026-11-22T17:16:48.000Z",
+      "updatedAt": "2026-11-22T17:16:48.000Z"
+    },
+    {
+      "id": "cd15a0f2-4c7d-47d7-aa15-06a0f841bf72",
+      "company": "Grab",
+      "title": "Intern [GIP] - Research & Data Analytics",
+      "locations": [
+        "Jakarta, Indonesia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Grab/744000163097779-intern-gip-research-data-analytics",
+      "url": "https://trueinterview.io/jobs/cd15a0f2-4c7d-47d7-aa15-06a0f841bf72",
+      "postedAt": "2026-11-22T17:12:11.000Z",
+      "updatedAt": "2026-11-22T17:12:11.000Z"
+    },
     {
       "id": "a3d97f24-e1ca-4af2-bbd7-478283d1fdd3",
       "company": "AMD",
@@ -15195,7 +15245,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -42551,7 +42603,9 @@
       "locations": [
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -44609,12 +44663,9 @@
       "locations": [
         "Cambridge, MA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -46687,33 +46738,6 @@
       "updatedAt": "2026-11-05T17:15:00.000Z"
     },
     {
-      "id": "16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
-      "company": "Tencent",
-      "title": "Product Manager Intern, User Acquisition",
-      "locations": [
-        "Amsterdam, North Holland, Netherlands"
-      ],
-      "cities": [
-        "Amsterdam"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479837326/",
-      "url": "https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
-      "postedAt": "2026-11-05T16:47:00.000Z",
-      "updatedAt": "2026-11-05T16:47:00.000Z"
-    },
-    {
       "id": "c895b3c5-4519-438d-be5d-4addeb5a89e9",
       "company": "AECOM",
       "title": "Water/Wastewater Engineering Intern",
@@ -46726,7 +46750,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -46750,10 +46774,10 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "junior",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -46826,9 +46850,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -46854,7 +46878,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -46865,6 +46889,33 @@
       "url": "https://trueinterview.io/jobs/1f3f3915-36f4-4d6a-98f4-d0b7630d10d6",
       "postedAt": "2026-11-05T16:12:00.000Z",
       "updatedAt": "2026-11-05T16:12:00.000Z"
+    },
+    {
+      "id": "2f1596cc-4294-48dd-aba6-2206c19e89d7",
+      "company": "MonoSol LLC.",
+      "title": "Application Development Intern",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://monosol.rec.pro.ukg.net/MON1507MOLC/JobBoard/6e10b0b1-af98-47be-b3b1-35217fd176e7/OpportunityDetail?opportunityId=a3dacd16-48b5-43f0-b3c3-657cc0fd449e&postingId=f9e71a89-7e6f-4141-85b2-7fa8f04201fd",
+      "url": "https://trueinterview.io/jobs/2f1596cc-4294-48dd-aba6-2206c19e89d7",
+      "postedAt": "2026-11-05T16:10:13.000Z",
+      "updatedAt": "2026-11-05T16:10:13.000Z"
     },
     {
       "id": "ef2c4529-1806-4644-9e91-ea5bd889cde2",
@@ -46878,9 +46929,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -46917,6 +46968,33 @@
       "updatedAt": "2026-11-05T16:06:00.000Z"
     },
     {
+      "id": "7dd87974-b1cf-49e9-86d6-ea13bd15e39a",
+      "company": "Ciena",
+      "title": "WaveLogic Software Intern (Summer 2027)",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469695748/",
+      "url": "https://trueinterview.io/jobs/7dd87974-b1cf-49e9-86d6-ea13bd15e39a",
+      "postedAt": "2026-11-05T16:05:00.000Z",
+      "updatedAt": "2026-11-05T16:05:00.000Z"
+    },
+    {
       "id": "3e28d0e2-e83b-4b71-8a8d-6d32f0d3f043",
       "company": "Marketeq Digital Solutions",
       "title": "AI Solutions Engineering Intern (U.S.A Only)",
@@ -46928,9 +47006,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -46967,6 +47045,31 @@
       "updatedAt": "2026-11-05T16:03:00.000Z"
     },
     {
+      "id": "a96d6395-87e3-4c81-9345-2922aaad5ddd",
+      "company": "Astranis Space Technologies",
+      "title": "Flight Software Intern (Winter 2027)",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469404367/",
+      "url": "https://trueinterview.io/jobs/a96d6395-87e3-4c81-9345-2922aaad5ddd",
+      "postedAt": "2026-11-05T16:02:00.000Z",
+      "updatedAt": "2026-11-05T16:02:00.000Z"
+    },
+    {
       "id": "18658796-6c4e-4c69-9a9a-9ae774d26019",
       "company": "Skydio",
       "title": "Software Engineer Intern - Summer 2027",
@@ -46974,7 +47077,9 @@
         "San Mateo, CA",
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -47004,9 +47109,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47099,6 +47204,31 @@
       "updatedAt": "2026-11-05T15:53:00.000Z"
     },
     {
+      "id": "e080097e-23ba-4dbd-8d9f-9f2b5dad49e0",
+      "company": "Garmin",
+      "title": "IT DevOps Administrator Intern",
+      "locations": [
+        "Olathe, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487776402/",
+      "url": "https://trueinterview.io/jobs/e080097e-23ba-4dbd-8d9f-9f2b5dad49e0",
+      "postedAt": "2026-11-05T15:51:00.000Z",
+      "updatedAt": "2026-11-05T15:51:00.000Z"
+    },
+    {
       "id": "d0176197-e685-4193-a207-fc1c6fd7131e",
       "company": "Atoms",
       "title": "Software Engineering Intern - 2027 Winter Term",
@@ -47112,9 +47242,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47124,6 +47254,33 @@
       "url": "https://trueinterview.io/jobs/d0176197-e685-4193-a207-fc1c6fd7131e",
       "postedAt": "2026-11-05T15:48:00.000Z",
       "updatedAt": "2026-11-05T15:48:00.000Z"
+    },
+    {
+      "id": "aa3b8e22-1139-4843-8094-fdec5a3dd828",
+      "company": "Ciena",
+      "title": "WaveLogic Software Intern Spring 2027",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470007425/",
+      "url": "https://trueinterview.io/jobs/aa3b8e22-1139-4843-8094-fdec5a3dd828",
+      "postedAt": "2026-11-05T15:42:00.000Z",
+      "updatedAt": "2026-11-05T15:42:00.000Z"
     },
     {
       "id": "166da911-d7c3-4349-86ee-62c5e8afc4a2",
@@ -47164,7 +47321,7 @@
       ],
       "remote": "remote",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -48528,6 +48685,7 @@
         "San Francisco, CA"
       ],
       "cities": [
+        "Menlo Park, CA",
         "San Francisco, CA"
       ],
       "countries": [
@@ -85975,12 +86133,9 @@
       "locations": [
         "Cambridge, MA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
