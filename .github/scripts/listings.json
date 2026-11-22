@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T15:04:20.698Z",
-  "count": 4328,
+  "listingsChangedAt": "2026-11-22T16:04:38.199Z",
+  "count": 4331,
   "listings": [
     {
       "id": "417cbc40-1041-4bdc-b167-5da23b7e7bbf",
@@ -480,6 +480,31 @@
       "url": "https://trueinterview.io/jobs/d02467a6-6a64-43f7-884a-d43885e22ce6",
       "postedAt": "2026-11-21T14:17:00.000Z",
       "updatedAt": "2026-11-21T16:38:00.000Z"
+    },
+    {
+      "id": "afcb9816-f5d9-456b-aae6-76420bae3399",
+      "company": "Fabri",
+      "title": "DevOps, IT & Cybersecurity Intern",
+      "locations": [
+        "Billerica, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://app.dover.com/apply/fabri-usa/3d3ef9d6-40f3-47cf-ada4-a90a4e0744f5",
+      "url": "https://trueinterview.io/jobs/afcb9816-f5d9-456b-aae6-76420bae3399",
+      "postedAt": "2026-11-21T16:26:08.000Z",
+      "updatedAt": "2026-11-21T16:26:08.000Z"
     },
     {
       "id": "68a164e8-7387-495d-af5a-84ac50037203",
@@ -3391,6 +3416,33 @@
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
+      "id": "11fc0c20-56d1-441a-a675-30a53bc30db9",
+      "company": "Cisco",
+      "title": "Cisco Technology Experience â€“ Internship Program for Technical High Schools",
+      "locations": [
+        "Kraków, Poland"
+      ],
+      "cities": [
+        "Kraków"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.cisco.com/global/en/job/2032636",
+      "url": "https://trueinterview.io/jobs/11fc0c20-56d1-441a-a675-30a53bc30db9",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "0cd1dfea-641e-4996-a6d9-98c853099add",
       "company": "Farm Bureau Financial Services",
       "title": "Information Technology Intern – Summer 2027",
@@ -3578,7 +3630,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3587,6 +3639,31 @@
       "source": "indeed",
       "applyUrl": "https://greenheckgroup.myworkdayjobs.com/External/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
       "url": "https://trueinterview.io/jobs/66a41eeb-464f-4eb9-aef1-29709141df91",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "3378807d-45c3-46dc-95ea-6c911b555ae0",
+      "company": "Honeywell",
+      "title": "Intern Masters Embedded Eng",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/162870",
+      "url": "https://trueinterview.io/jobs/3378807d-45c3-46dc-95ea-6c911b555ae0",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -39245,7 +39322,8 @@
         "Menlo Park, CA"
       ],
       "cities": [
-        "Sunnyvale, CA"
+        "Sunnyvale, CA",
+        "Menlo Park, CA"
       ],
       "countries": [
         "United States"
@@ -93618,12 +93696,9 @@
         "Cambridge, MA",
         "Cambridge, MA USA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -97067,7 +97142,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -106007,7 +106084,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
