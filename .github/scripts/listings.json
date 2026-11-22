@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T02:06:34.214Z",
-  "count": 4270,
+  "listingsChangedAt": "2026-11-22T03:06:01.683Z",
+  "count": 4274,
   "listings": [
     {
       "id": "1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
@@ -1488,7 +1488,8 @@
       "company": "Clarius Mobile Health",
       "title": "Software Development Coop",
       "locations": [
-        "Vancouver"
+        "Vancouver",
+        "Vancouver, Canada"
       ],
       "cities": [
         "Vancouver, BC"
@@ -2402,6 +2403,31 @@
       "url": "https://trueinterview.io/jobs/1f09e6a3-21b2-4bbb-b300-ded5c48c15bc",
       "postedAt": "2026-11-20T15:11:34.000Z",
       "updatedAt": "2026-11-20T15:11:34.000Z"
+    },
+    {
+      "id": "5266fb6e-d729-4a0c-9213-363d35092dc8",
+      "company": "Patry Group",
+      "title": "AI Developer Intern (Technical stream)",
+      "locations": [
+        "Kingston, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ca.indeed.com/viewjob?jk=7cc7c79a0cd36f4e",
+      "url": "https://trueinterview.io/jobs/5266fb6e-d729-4a0c-9213-363d35092dc8",
+      "postedAt": "2026-11-20T15:02:34.000Z",
+      "updatedAt": "2026-11-20T15:02:34.000Z"
     },
     {
       "id": "9b3f8f17-311e-4dec-b873-520cbc7858cf",
@@ -6204,6 +6230,33 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "2b466de4-15c1-431b-9e5e-f60d199f8fac",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+      "locations": [
+        "Vancouver, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557076203?domain=microsoft.com",
+      "url": "https://trueinterview.io/jobs/2b466de4-15c1-431b-9e5e-f60d199f8fac",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "0238acc6-2bcf-4d65-9352-ab14aee96cf1",
       "company": "MIT Lincoln Laboratory",
       "title": "Tactical Autonomy Co-Op (Spring 2027) - Group 10-03",
@@ -7055,31 +7108,6 @@
       "url": "https://trueinterview.io/jobs/c30646ae-e8ca-4b2d-919f-70fc6736b102",
       "postedAt": "2026-11-18T19:32:26.000Z",
       "updatedAt": "2026-11-18T19:32:26.000Z"
-    },
-    {
-      "id": "9dd4d437-62f7-4a04-9988-14938e04caa7",
-      "company": "Mira AI",
-      "title": "AI Engineer Intern (Conversational AI)",
-      "locations": [
-        "Montréal, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://ca.indeed.com/viewjob?jk=8550e95d7c7de949",
-      "url": "https://trueinterview.io/jobs/9dd4d437-62f7-4a04-9988-14938e04caa7",
-      "postedAt": "2026-11-18T19:31:36.000Z",
-      "updatedAt": "2026-11-18T19:31:36.000Z"
     },
     {
       "id": "6c1f6302-0ccc-4e7b-9fd5-4c2513abde16",
@@ -41714,9 +41742,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41739,9 +41767,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41764,9 +41792,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41776,6 +41804,31 @@
       "url": "https://trueinterview.io/jobs/01406246-689e-4f15-b8de-4ebc76d8313e",
       "postedAt": "2026-11-06T15:49:00.000Z",
       "updatedAt": "2026-11-06T15:49:00.000Z"
+    },
+    {
+      "id": "2cd6a504-ead3-4720-ab04-4a51d653abc8",
+      "company": "Indiana Farm Bureau Insurance",
+      "title": "Software Development Intern - Summer 2027",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469323964/",
+      "url": "https://trueinterview.io/jobs/2cd6a504-ead3-4720-ab04-4a51d653abc8",
+      "postedAt": "2026-11-06T15:48:00.000Z",
+      "updatedAt": "2026-11-06T15:48:00.000Z"
     },
     {
       "id": "aeec53c3-964e-4c3b-92c6-ef3eabd74f46",
@@ -41805,6 +41858,31 @@
       "updatedAt": "2026-11-06T15:47:00.000Z"
     },
     {
+      "id": "99d38701-493c-4663-b928-3819fbf3647a",
+      "company": "Motion",
+      "title": "Customer Software Development Intern",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462092530/",
+      "url": "https://trueinterview.io/jobs/99d38701-493c-4663-b928-3819fbf3647a",
+      "postedAt": "2026-11-06T15:43:00.000Z",
+      "updatedAt": "2026-11-06T15:43:00.000Z"
+    },
+    {
       "id": "0e06ba91-308e-402d-a362-0231312295b5",
       "company": "OTTO Engineering",
       "title": "Quality Engineering Intern - Summer 2027",
@@ -41816,9 +41894,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41894,9 +41972,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41921,8 +41999,8 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -41931,6 +42009,31 @@
       "url": "https://trueinterview.io/jobs/966d2341-1439-4066-a321-59d8dc9d149d",
       "postedAt": "2026-11-06T15:36:31.000Z",
       "updatedAt": "2026-11-06T15:36:31.000Z"
+    },
+    {
+      "id": "e7e8054f-bfff-4a47-818c-911dcf29eb7f",
+      "company": "Georgia Tech Research Institute",
+      "title": "Undergraduate Software Intern - Spring 2027 - ELSYS",
+      "locations": [
+        "Warner Robins, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471684197/",
+      "url": "https://trueinterview.io/jobs/e7e8054f-bfff-4a47-818c-911dcf29eb7f",
+      "postedAt": "2026-11-06T15:30:00.000Z",
+      "updatedAt": "2026-11-06T15:30:00.000Z"
     },
     {
       "id": "00c12142-0461-4474-9f24-0c8d19b1cd06",
@@ -41994,9 +42097,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
