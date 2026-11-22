@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T12:06:20.948Z",
-  "count": 4327,
+  "listingsChangedAt": "2026-11-22T13:04:26.098Z",
+  "count": 4328,
   "listings": [
+    {
+      "id": "13b4f43e-d6f7-4e7e-90a5-d4334d8f461e",
+      "company": "Qualcomm",
+      "title": "Intern- Deep Learning R&D for Automated Driving",
+      "locations": [
+        "Seoul, Seoul, South Korea"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4327652815/",
+      "url": "https://trueinterview.io/jobs/13b4f43e-d6f7-4e7e-90a5-d4334d8f461e",
+      "postedAt": "2026-11-22T11:53:00.000Z",
+      "updatedAt": "2026-11-22T11:53:00.000Z"
+    },
     {
       "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
       "company": "Moody's",
@@ -1336,7 +1363,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
@@ -2183,7 +2210,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Engineer",
@@ -7758,7 +7785,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
@@ -7963,7 +7990,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -8347,13 +8374,11 @@
         "Washington, IN",
         "Remote"
       ],
-      "cities": [
-        "Washington, DC"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -10381,7 +10406,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Backend Engineer",
@@ -11279,7 +11304,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Frontend Engineer",
@@ -11565,7 +11590,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Frontend Engineer",
@@ -16118,7 +16143,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -24422,7 +24447,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -24684,7 +24709,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -32124,7 +32149,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Data & AI",
       "family": "Software",
       "role": "AI Engineer",
@@ -32404,7 +32429,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "AI Engineer",
@@ -33113,7 +33138,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -33422,7 +33447,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -33522,7 +33547,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -35040,12 +35065,9 @@
       "locations": [
         "Cambridge, MA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Software",
@@ -36739,7 +36761,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Data & AI",
       "role": "Other",
@@ -39823,7 +39845,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Full-Stack Engineer",
@@ -45464,7 +45486,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Mobile Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -45558,6 +45580,59 @@
       "updatedAt": "2026-11-05T19:48:00.000Z"
     },
     {
+      "id": "bb2052c8-04aa-4dce-82f2-76edbd4e459e",
+      "company": "Deltek",
+      "title": "Software Development Internship",
+      "locations": [
+        "Herndon, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488007947/",
+      "url": "https://trueinterview.io/jobs/bb2052c8-04aa-4dce-82f2-76edbd4e459e",
+      "postedAt": "2026-11-05T19:46:00.000Z",
+      "updatedAt": "2026-11-05T19:46:00.000Z"
+    },
+    {
+      "id": "801b1c8d-757a-452e-8e63-031a47812354",
+      "company": "Markel",
+      "title": "Markel AI Automation Intern",
+      "locations": [
+        "Woodland Hills, CA",
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277",
+      "url": "https://trueinterview.io/jobs/801b1c8d-757a-452e-8e63-031a47812354",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T19:41:00.000Z"
+    },
+    {
       "id": "479346bd-acd5-4764-8e62-b17ca66c0110",
       "company": "IBM",
       "title": "Software Engineer Intern 2027",
@@ -45608,6 +45683,31 @@
       "url": "https://trueinterview.io/jobs/64c4924e-1214-4375-b6b5-bc966103874c",
       "postedAt": "2026-11-05T19:21:00.000Z",
       "updatedAt": "2026-11-05T19:21:00.000Z"
+    },
+    {
+      "id": "72a7e120-b017-409e-91d4-c9528dd2f75e",
+      "company": "GM Financial",
+      "title": "Intern - Operations Analyst",
+      "locations": [
+        "Fort Worth, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259",
+      "url": "https://trueinterview.io/jobs/72a7e120-b017-409e-91d4-c9528dd2f75e",
+      "postedAt": "2026-11-05T19:18:42.000Z",
+      "updatedAt": "2026-11-05T19:18:42.000Z"
     },
     {
       "id": "93923b01-1e32-4919-972a-71528cdb0fbb",
@@ -45673,7 +45773,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -45697,7 +45797,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -45722,7 +45822,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -47059,7 +47159,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
@@ -48250,7 +48350,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -49786,7 +49886,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Analyst",
@@ -53195,7 +53295,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -56076,7 +56176,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -59949,7 +60049,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -60826,7 +60926,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Product & Design",
       "family": "Product & Design",
       "role": "Product Manager",
@@ -60876,7 +60976,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Product & Design",
       "role": "Other",
@@ -61255,31 +61355,6 @@
       "url": "https://trueinterview.io/jobs/5325663f-0f3c-45dd-a6dd-a8910f8e9bda",
       "postedAt": "2026-11-01T12:16:00.000Z",
       "updatedAt": "2026-11-01T12:16:00.000Z"
-    },
-    {
-      "id": "a5e28ab0-a5db-42cf-a980-a3673bd0a702",
-      "company": "Honeywell Aerospace",
-      "title": "Embedded Engineering Intern - Summer 2027 (U.S. Person Required)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460533896/",
-      "url": "https://trueinterview.io/jobs/a5e28ab0-a5db-42cf-a980-a3673bd0a702",
-      "postedAt": "2026-11-01T12:10:00.000Z",
-      "updatedAt": "2026-11-01T12:10:00.000Z"
     },
     {
       "id": "1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
@@ -62882,31 +62957,6 @@
       "url": "https://trueinterview.io/jobs/d35d3210-fb25-44c8-90cd-0cb5dc992688",
       "postedAt": "2026-10-31T12:17:00.000Z",
       "updatedAt": "2026-10-31T12:17:00.000Z"
-    },
-    {
-      "id": "af27e7ba-c234-4b7d-a52d-f8f4d519a510",
-      "company": "Acron Aviation",
-      "title": "Software Engineer Intern - St. Pete Site",
-      "locations": [
-        "St. Petersburg, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466933868/",
-      "url": "https://trueinterview.io/jobs/af27e7ba-c234-4b7d-a52d-f8f4d519a510",
-      "postedAt": "2026-10-31T12:08:00.000Z",
-      "updatedAt": "2026-10-31T12:08:00.000Z"
     },
     {
       "id": "9637acd9-8815-4d7d-83e9-6a7dca7da4e8",
@@ -67821,7 +67871,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -69118,7 +69168,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Hardware & Engineering",
       "role": "Other",
@@ -72588,7 +72638,7 @@
       "countries": [
         "Singapore"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -73092,7 +73142,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
@@ -82537,7 +82587,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -82614,7 +82664,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -86889,7 +86939,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Analyst",
@@ -93100,7 +93150,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
@@ -95118,7 +95168,9 @@
       "locations": [
         "Santa Clara, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -101774,7 +101826,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "remote",
+      "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Engineer",
@@ -105099,7 +105151,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "hybrid",
       "category": "Product & Design",
       "family": "Product & Design",
       "role": "Product Manager",
@@ -107927,7 +107979,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "remote",
+      "remote": "hybrid",
       "category": "Other",
       "family": "IT & Support",
       "role": "Other",
@@ -110790,7 +110842,9 @@
         "Berkeley"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Other",
       "family": "Software",
@@ -112045,31 +112099,6 @@
       "url": "https://trueinterview.io/jobs/4a181cf8-cde4-4463-9376-d3c5d129c4ab",
       "postedAt": "2026-09-23T13:40:25.000Z",
       "updatedAt": "2026-09-23T13:40:25.000Z"
-    },
-    {
-      "id": "e80e950e-6743-436c-96ca-e20f5e875d50",
-      "company": "Wavestone",
-      "title": "Internship Wavestone Luxembourg - Cybersecurity & Artificial Intelligence Consulting",
-      "locations": [
-        "Leideleng, Distrikt Luxemburg, Luxembourg"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting",
-      "url": "https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50",
-      "postedAt": "2026-09-23T12:57:37.000Z",
-      "updatedAt": "2026-09-23T12:57:37.000Z"
     }
   ]
 }
