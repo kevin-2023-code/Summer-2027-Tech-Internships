@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T19:04:11.256Z",
-  "count": 4349,
+  "listingsChangedAt": "2026-11-22T20:04:47.442Z",
+  "count": 4356,
   "listings": [
     {
       "id": "432ece9e-3687-4f0b-a653-d9aed5578536",
@@ -311,7 +311,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
       "url": "https://trueinterview.io/jobs/bb2497c6-fbcd-4a64-b080-169d0b87e490",
       "postedAt": "2026-11-22T01:46:05.000Z",
-      "updatedAt": "2026-11-22T05:20:00.000Z"
+      "updatedAt": "2026-11-22T06:00:00.000Z"
     },
     {
       "id": "1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
@@ -1073,6 +1073,31 @@
       "url": "https://trueinterview.io/jobs/4dbc2a88-ddba-42f2-8982-d6939b78c618",
       "postedAt": "2026-11-21T10:24:00.000Z",
       "updatedAt": "2026-11-21T10:24:00.000Z"
+    },
+    {
+      "id": "d9cffb8a-814f-4687-aded-301a650b08cb",
+      "company": "Neros Technologies",
+      "title": "Autonomy Intern - Summer 2027",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/vjn8b7bh7us",
+      "url": "https://trueinterview.io/jobs/d9cffb8a-814f-4687-aded-301a650b08cb",
+      "postedAt": "2026-11-21T06:00:00.000Z",
+      "updatedAt": "2026-11-21T06:00:00.000Z"
     },
     {
       "id": "0402e690-7372-422d-ade8-a0041c077db2",
@@ -4018,6 +4043,31 @@
       "source": "indeed",
       "applyUrl": "https://app.eightfold.ai/careers/job/446722246579?domain=qualcomm.com",
       "url": "https://trueinterview.io/jobs/f84c043c-44da-4682-9b31-98768fb6d9c0",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "c9f91b4b-846c-4c68-9e31-c6a870ead0bf",
+      "company": "Sandia National Laboratories",
+      "title": "Intern, R&D Undergraduate Year-Round - Avionics, Onsite",
+      "locations": [
+        "Albuquerque, NM"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699799&PostingSeq=1",
+      "url": "https://trueinterview.io/jobs/c9f91b4b-846c-4c68-9e31-c6a870ead0bf",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -32685,7 +32735,9 @@
         "San Mateo, California, United States",
         "San Mateo, CA"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -47399,8 +47451,8 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -47436,6 +47488,31 @@
       "updatedAt": "2026-11-05T15:21:00.000Z"
     },
     {
+      "id": "9f37b924-3cb9-406e-bbac-0e30490cd9d5",
+      "company": "Johnson & Johnson MedTech",
+      "title": "Heart Recovery Software R&D Co-Op",
+      "locations": [
+        "Halethorpe, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471195277/",
+      "url": "https://trueinterview.io/jobs/9f37b924-3cb9-406e-bbac-0e30490cd9d5",
+      "postedAt": "2026-11-05T15:18:00.000Z",
+      "updatedAt": "2026-11-05T15:18:00.000Z"
+    },
+    {
       "id": "7376da4e-2a55-4eec-97b7-f68759f848c2",
       "company": "Johnson & Johnson MedTech",
       "title": "Software Engineering Co-Op. Summer 2027",
@@ -47447,9 +47524,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47488,6 +47565,33 @@
       "updatedAt": "2026-11-05T15:18:00.000Z"
     },
     {
+      "id": "d10426e1-63e0-45fa-b65e-064c13ee330a",
+      "company": "Oceaneering",
+      "title": "C++ Software Intern",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470991282/",
+      "url": "https://trueinterview.io/jobs/d10426e1-63e0-45fa-b65e-064c13ee330a",
+      "postedAt": "2026-11-05T15:18:00.000Z",
+      "updatedAt": "2026-11-05T15:18:00.000Z"
+    },
+    {
       "id": "08ebeade-5962-45b5-bb33-f9fc6e1e45fd",
       "company": "Ramp",
       "title": "Software Engineering Intern, iOS",
@@ -47512,6 +47616,31 @@
       "source": "linkedin",
       "applyUrl": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
       "url": "https://trueinterview.io/jobs/08ebeade-5962-45b5-bb33-f9fc6e1e45fd",
+      "postedAt": "2026-11-05T15:18:00.000Z",
+      "updatedAt": "2026-11-05T15:18:00.000Z"
+    },
+    {
+      "id": "64ddb4df-0742-4ff6-bada-46e4f41818b1",
+      "company": "RRD",
+      "title": "IT Software Integration & Automation Summer Intern",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487768607/",
+      "url": "https://trueinterview.io/jobs/64ddb4df-0742-4ff6-bada-46e4f41818b1",
       "postedAt": "2026-11-05T15:18:00.000Z",
       "updatedAt": "2026-11-05T15:18:00.000Z"
     },
@@ -47555,7 +47684,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -47582,9 +47711,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47607,9 +47736,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47633,7 +47762,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -47658,7 +47787,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -47667,6 +47796,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4469048992/",
       "url": "https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5",
+      "postedAt": "2026-11-05T14:38:00.000Z",
+      "updatedAt": "2026-11-05T14:38:00.000Z"
+    },
+    {
+      "id": "f0eb4ed4-5cfb-4843-8b7f-fd12f7d392c9",
+      "company": "HK Hovedstaden",
+      "title": "Full Stack Independent Application Development – Training Cum Internship",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487769520/",
+      "url": "https://trueinterview.io/jobs/f0eb4ed4-5cfb-4843-8b7f-fd12f7d392c9",
       "postedAt": "2026-11-05T14:38:00.000Z",
       "updatedAt": "2026-11-05T14:38:00.000Z"
     },
@@ -47720,6 +47876,32 @@
       "url": "https://trueinterview.io/jobs/f9d3de09-c9ba-4ecf-879b-f4eb5d5bc49a",
       "postedAt": "2026-11-05T14:31:14.000Z",
       "updatedAt": "2026-11-05T14:31:15.000Z"
+    },
+    {
+      "id": "7e9383a2-0333-435d-bbbd-8f77ad0db8c6",
+      "company": "RR Donnelley",
+      "title": "IT Software Integration & Automation Summer Intern",
+      "locations": [
+        "Minneapolis, Minnesota, United States",
+        "Minneapolis, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000159883479-it-software-integration-automation-summer-intern",
+      "url": "https://trueinterview.io/jobs/7e9383a2-0333-435d-bbbd-8f77ad0db8c6",
+      "postedAt": "2026-11-05T14:30:19.000Z",
+      "updatedAt": "2026-11-05T14:30:20.000Z"
     },
     {
       "id": "bee10cac-0ed5-4023-a1df-fa9d2a1d70fe",
@@ -47809,7 +47991,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -47834,9 +48016,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -47861,7 +48043,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Scientist",
+      "role": "Data Analyst",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -91510,7 +91692,9 @@
       "locations": [
         "Santa Clara, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -91560,7 +91744,9 @@
       "locations": [
         "Santa Clara, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -102703,7 +102889,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
