@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T01:04:59.241Z",
-  "count": 4267,
+  "listingsChangedAt": "2026-11-22T02:06:34.214Z",
+  "count": 4270,
   "listings": [
     {
       "id": "1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
@@ -41280,7 +41280,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Scientist",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41345,7 +41345,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41383,6 +41383,31 @@
       "url": "https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17",
       "postedAt": "2026-11-06T17:42:00.000Z",
       "updatedAt": "2026-11-06T17:42:00.000Z"
+    },
+    {
+      "id": "16eafce3-6978-4719-8e70-7e3a1a422ab4",
+      "company": "Shure",
+      "title": "AI Specialist (Operations) Intern",
+      "locations": [
+        "Niles, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461391645/",
+      "url": "https://trueinterview.io/jobs/16eafce3-6978-4719-8e70-7e3a1a422ab4",
+      "postedAt": "2026-11-06T17:19:00.000Z",
+      "updatedAt": "2026-11-06T17:19:00.000Z"
     },
     {
       "id": "de5fc62c-924a-48cb-b9ef-c8db5a6baede",
@@ -41442,6 +41467,31 @@
       "updatedAt": "2026-11-06T16:23:16.000Z"
     },
     {
+      "id": "a0902e51-f81c-4a44-afa5-9408b7243381",
+      "company": "The Exploration Company",
+      "title": "Spring 2027 Internship (Software)",
+      "locations": [
+        "California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461930084/",
+      "url": "https://trueinterview.io/jobs/a0902e51-f81c-4a44-afa5-9408b7243381",
+      "postedAt": "2026-11-06T16:18:55.000Z",
+      "updatedAt": "2026-11-06T16:18:55.000Z"
+    },
+    {
       "id": "8d0b56c5-ef59-4686-902c-8bfdf026559d",
       "company": "IBM",
       "title": "Back End Developer Intern - NY POK RK - 2027",
@@ -41478,9 +41528,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41551,6 +41601,31 @@
       "url": "https://trueinterview.io/jobs/ea45da10-c5a5-4515-bfbc-561ccdb8ee9a",
       "postedAt": "2026-11-06T03:23:25.000Z",
       "updatedAt": "2026-11-06T16:14:00.000Z"
+    },
+    {
+      "id": "58afcd6a-098f-4494-b703-bc74784c099f",
+      "company": "Jacobs",
+      "title": "Agile Software Intern",
+      "locations": [
+        "Nashua, NH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462429656/",
+      "url": "https://trueinterview.io/jobs/58afcd6a-098f-4494-b703-bc74784c099f",
+      "postedAt": "2026-11-06T16:13:00.000Z",
+      "updatedAt": "2026-11-06T16:13:00.000Z"
     },
     {
       "id": "0f6ffbc0-0522-4194-b4ee-56fe94ddfe73",
