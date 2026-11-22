@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T16:04:38.199Z",
-  "count": 4331,
+  "listingsChangedAt": "2026-11-22T17:03:45.732Z",
+  "count": 4337,
   "listings": [
+    {
+      "id": "82a27c9a-d695-432f-bcba-f2ad9f0649f9",
+      "company": "Elevated Web Design",
+      "title": "App Software Engineering Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493385180/",
+      "url": "https://trueinterview.io/jobs/82a27c9a-d695-432f-bcba-f2ad9f0649f9",
+      "postedAt": "2026-11-22T16:12:00.000Z",
+      "updatedAt": "2026-11-22T16:12:00.000Z"
+    },
+    {
+      "id": "5be4d1be-6628-42f8-a190-9233c10aabfa",
+      "company": "Able (AAT USA ,LLC.)",
+      "title": "Software AI Engineering Intern",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493191774/",
+      "url": "https://trueinterview.io/jobs/5be4d1be-6628-42f8-a190-9233c10aabfa",
+      "postedAt": "2026-11-22T15:58:00.000Z",
+      "updatedAt": "2026-11-22T15:58:00.000Z"
+    },
     {
       "id": "417cbc40-1041-4bdc-b167-5da23b7e7bbf",
       "company": "InfoHash",
@@ -3416,6 +3466,31 @@
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
+      "id": "cebfb42f-23bc-417c-8ee3-fd797b174177",
+      "company": "Cars24",
+      "title": "Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.cars24.com/job/?id=a6a560b13cacdd",
+      "url": "https://trueinterview.io/jobs/cebfb42f-23bc-417c-8ee3-fd797b174177",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "11fc0c20-56d1-441a-a675-30a53bc30db9",
       "company": "Cisco",
       "title": "Cisco Technology Experience â€“ Internship Program for Technical High Schools",
@@ -3506,7 +3581,7 @@
       "remote": "onsite",
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Quantitative Researcher",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3814,6 +3889,58 @@
       "source": "indeed",
       "applyUrl": "https://www.vitijob.com/stage/115299/internship-service-delivery-analyst-h-f",
       "url": "https://trueinterview.io/jobs/554b1e5c-91ce-49f5-9e90-93224a9d7a3e",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "f84c043c-44da-4682-9b31-98768fb6d9c0",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - IT Artificial Intelligence & Automation - Up to 8 Months, Cork",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "cities": [
+        "Cork"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446722246579?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/f84c043c-44da-4682-9b31-98768fb6d9c0",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "de7c2e1e-2648-41c2-9c01-7346a543d051",
+      "company": "Sarvam",
+      "title": "Product User Research, Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+      "url": "https://trueinterview.io/jobs/de7c2e1e-2648-41c2-9c01-7346a543d051",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -6785,6 +6912,31 @@
       "source": "indeed",
       "applyUrl": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239362500&c=2173007&d=CPIEDB&rb=INDEED&idUnique=5001239362500",
       "url": "https://trueinterview.io/jobs/3575f105-57c9-4082-b546-7a1d6d8b3045",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "2ebfe982-a884-4dd0-ac4d-6d8bcb991aac",
+      "company": "Danone",
+      "title": "Internship Dan One in Packaging Database Management Team",
+      "locations": [
+        "Warszawa, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://enapply-danone.icims.com/jobs/29169/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/2ebfe982-a884-4dd0-ac4d-6d8bcb991aac",
       "postedAt": "2026-11-19T06:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
@@ -10916,7 +11068,8 @@
         "Boston, MA"
       ],
       "cities": [
-        "Mountain View, CA"
+        "Mountain View, CA",
+        "Boston, MA"
       ],
       "countries": [
         "United States"
@@ -30663,9 +30816,7 @@
       "locations": [
         "Sunnyvale, TX"
       ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
@@ -40025,7 +40176,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
@@ -40519,12 +40670,14 @@
         "New York, NY, US"
       ],
       "cities": [
-        "Seattle, WA"
+        "Seattle, WA",
+        "New York, NY",
+        "San Francisco, CA"
       ],
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Quantitative Finance",
       "family": "Data & AI",
       "role": "Quantitative Researcher",
@@ -50355,7 +50508,8 @@
       ],
       "cities": [
         "Boston, MA",
-        "Chicago, IL"
+        "Chicago, IL",
+        "New York, NY"
       ],
       "countries": [
         "United States"
@@ -97273,7 +97427,9 @@
       "locations": [
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -98699,10 +98855,12 @@
         "London, United Kingdom"
       ],
       "cities": [
-        "New York, NY"
+        "New York, NY",
+        "London"
       ],
       "countries": [
-        "United States"
+        "United States",
+        "United Kingdom"
       ],
       "remote": "onsite",
       "category": "Software",
