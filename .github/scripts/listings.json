@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T10:04:07.643Z",
-  "count": 4322,
+  "listingsChangedAt": "2026-11-22T11:04:01.646Z",
+  "count": 4324,
   "listings": [
     {
       "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
@@ -44218,6 +44218,33 @@
       "updatedAt": "2026-11-06T06:00:00.000Z"
     },
     {
+      "id": "22995372-a612-4e55-b2fb-ac34f5665473",
+      "company": "Match Group",
+      "title": "Technical Project Management Intern",
+      "locations": [
+        "Los Angeles, California"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c",
+      "url": "https://trueinterview.io/jobs/22995372-a612-4e55-b2fb-ac34f5665473",
+      "postedAt": "2026-11-06T05:02:10.000Z",
+      "updatedAt": "2026-11-06T05:02:10.000Z"
+    },
+    {
       "id": "d3dfdb47-61e7-4f55-a298-e56122a24942",
       "company": "SAS Institute",
       "title": "Summer 2027 - Data Scientist Intern",
@@ -44231,7 +44258,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Scientist",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -44306,9 +44333,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -44318,6 +44345,31 @@
       "url": "https://trueinterview.io/jobs/bbaf1cef-3a54-4d35-bac0-7ff7b5104dcf",
       "postedAt": "2026-11-06T04:07:17.000Z",
       "updatedAt": "2026-11-06T04:07:17.000Z"
+    },
+    {
+      "id": "d1b40596-f620-4557-bd5a-bcfad6ae4e29",
+      "company": "Fidelity Bank & Trust",
+      "title": "Technology Intern",
+      "locations": [
+        "4250 Asbury Rd, Dubuque, IA, 52002, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://secure5.saashr.com/ta/HK10041A.careers?ShowJob=553993218&lang=en-US",
+      "url": "https://trueinterview.io/jobs/d1b40596-f620-4557-bd5a-bcfad6ae4e29",
+      "postedAt": "2026-11-06T03:22:18.000Z",
+      "updatedAt": "2026-11-06T03:22:18.000Z"
     },
     {
       "id": "3579caf9-276c-405d-bf30-8f166cbbf5ce",
@@ -44384,7 +44436,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -44533,9 +44585,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -44583,9 +44635,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -44608,9 +44660,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "DevOps Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -44784,27 +44836,29 @@
       "updatedAt": "2026-11-06T00:13:00.000Z"
     },
     {
-      "id": "a5df11d5-02cb-407a-8787-6c1bfd56c2f4",
-      "company": "EXP",
-      "title": "Environmental Engineering Field Technician Student (Co-op)",
+      "id": "9d664c2e-c6a2-4721-87cd-de5cb213b1bb",
+      "company": "Federal Reserve Bank of New York",
+      "title": "2027 Summer Internship Program - Statistics Intern",
       "locations": [
-        "Brampton, ON, Canada"
+        "Atlanta, GA"
       ],
-      "cities": [],
+      "cities": [
+        "Atlanta, GA"
+      ],
       "countries": [
-        "Canada"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113405",
-      "url": "https://trueinterview.io/jobs/a5df11d5-02cb-407a-8787-6c1bfd56c2f4",
+      "source": "career-sites",
+      "applyUrl": "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876",
+      "url": "https://trueinterview.io/jobs/9d664c2e-c6a2-4721-87cd-de5cb213b1bb",
       "postedAt": "2026-11-06T00:00:00.000Z",
       "updatedAt": "2026-11-06T00:00:00.000Z"
     },
@@ -44931,7 +44985,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
