@@ -5,9 +5,142 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T00:12:07.715Z",
-  "count": 4263,
+  "listingsChangedAt": "2026-11-22T01:04:59.241Z",
+  "count": 4267,
   "listings": [
+    {
+      "id": "1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
+      "company": "Tesla",
+      "title": "Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493304614/",
+      "url": "https://trueinterview.io/jobs/1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
+      "postedAt": "2026-11-22T00:26:00.000Z",
+      "updatedAt": "2026-11-22T00:26:00.000Z"
+    },
+    {
+      "id": "d9ce0e6a-8d9a-44f1-8f43-d087ca113869",
+      "company": "Tesla",
+      "title": "Internship, SI Hardware Silicon Validation Engineer, SI Hardware (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493314431/",
+      "url": "https://trueinterview.io/jobs/d9ce0e6a-8d9a-44f1-8f43-d087ca113869",
+      "postedAt": "2026-11-22T00:26:00.000Z",
+      "updatedAt": "2026-11-22T00:26:00.000Z"
+    },
+    {
+      "id": "442ccd2d-8ca5-42c6-9c71-b73d78824aae",
+      "company": "Tesla",
+      "title": "Internship, System Integration & Test Automation Engineer, Energy Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493316236/",
+      "url": "https://trueinterview.io/jobs/442ccd2d-8ca5-42c6-9c71-b73d78824aae",
+      "postedAt": "2026-11-22T00:26:00.000Z",
+      "updatedAt": "2026-11-22T00:26:00.000Z"
+    },
+    {
+      "id": "f74d1386-81e2-4aad-9aa3-4e55fd25a0af",
+      "company": "Tesla",
+      "title": "Internship, Technical Construction Project Manager, Energy Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493315319/",
+      "url": "https://trueinterview.io/jobs/f74d1386-81e2-4aad-9aa3-4e55fd25a0af",
+      "postedAt": "2026-11-22T00:26:00.000Z",
+      "updatedAt": "2026-11-22T00:26:00.000Z"
+    },
+    {
+      "id": "3bed34f2-21c5-4d25-b653-e1af8476f85c",
+      "company": "EVOC LABS",
+      "title": "Full Stack Developer Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493314354/",
+      "url": "https://trueinterview.io/jobs/3bed34f2-21c5-4d25-b653-e1af8476f85c",
+      "postedAt": "2026-11-22T00:00:00.000Z",
+      "updatedAt": "2026-11-22T00:00:00.000Z"
+    },
     {
       "id": "7e736614-867a-49d2-945c-a9c769d7abab",
       "company": "Orlin Circle",
@@ -3078,6 +3211,31 @@
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
+      "id": "ce58a884-9c06-41f1-a98b-2af2d244ffbf",
+      "company": "Metrea",
+      "title": "Engineering CoOp",
+      "locations": [
+        "Victor, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/zhni4bws9us",
+      "url": "https://trueinterview.io/jobs/ce58a884-9c06-41f1-a98b-2af2d244ffbf",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "ab8cfa5c-3198-4118-bf44-8f72ec19f070",
       "company": "North Point Technology",
       "title": "Manufacturing Engineer Co-Op",
@@ -3149,33 +3307,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.skyworksinc.com/job/RF-Application-SummerFall-Co-op/79134-en_US",
       "url": "https://trueinterview.io/jobs/79f682cf-7995-4d46-98a4-d9125242430f",
-      "postedAt": "2026-11-20T06:00:00.000Z",
-      "updatedAt": "2026-11-20T06:00:00.000Z"
-    },
-    {
-      "id": "1b8b5337-0195-474c-a85a-d58af1f904d7",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, SI Hardware Architecture Simulation (Winter/Spring 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.tesla.com/careers/search/job/290756",
-      "url": "https://trueinterview.io/jobs/1b8b5337-0195-474c-a85a-d58af1f904d7",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -40893,9 +41024,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -40970,9 +41101,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -40984,29 +41115,32 @@
       "updatedAt": "2026-11-06T19:45:00.000Z"
     },
     {
-      "id": "2027370d-a4fd-4e02-a66a-01c7c0300c4c",
-      "company": "Abbvie",
-      "title": "Engineering Internship Program (Chemical, Electromechanical, Data science, AI)",
+      "id": "938ee294-72bf-4779-8993-6af00b06c8c4",
+      "company": "Lila Sciences",
+      "title": "Co-op, AI for Protein Design",
       "locations": [
-        "Heredia, Heredia Province, Costa Rica"
+        "San Francisco, CA",
+        "San Francisco, CA USA"
       ],
-      "cities": [],
+      "cities": [
+        "San Francisco, CA"
+      ],
       "countries": [
-        "Other"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016703746-engineering-internship-program-chemical-electromechanical-data-science-ai-",
-      "url": "https://trueinterview.io/jobs/2027370d-a4fd-4e02-a66a-01c7c0300c4c",
-      "postedAt": "2026-11-06T19:39:54.000Z",
-      "updatedAt": "2026-11-06T19:39:54.000Z"
+      "source": "linkedin",
+      "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
+      "url": "https://trueinterview.io/jobs/938ee294-72bf-4779-8993-6af00b06c8c4",
+      "postedAt": "2026-11-06T19:43:00.000Z",
+      "updatedAt": "2026-11-06T19:43:00.000Z"
     },
     {
       "id": "f625647f-04a5-4aa7-972f-9e7f91d23695",
@@ -41046,7 +41180,7 @@
       "countries": [],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -41070,9 +41204,9 @@
         "Canada"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -41097,7 +41231,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -110429,31 +110563,6 @@
       "url": "https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50",
       "postedAt": "2026-09-23T12:57:37.000Z",
       "updatedAt": "2026-09-23T12:57:37.000Z"
-    },
-    {
-      "id": "b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556",
-      "company": "Hermeus",
-      "title": "Propulsion Test Engineering Intern - Spring/Summer/Fall 2027",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
-      "url": "https://trueinterview.io/jobs/b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556",
-      "postedAt": "2026-09-23T01:00:25.000Z",
-      "updatedAt": "2026-09-23T01:00:25.000Z"
     }
   ]
 }
