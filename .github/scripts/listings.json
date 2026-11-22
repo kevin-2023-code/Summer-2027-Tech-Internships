@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T03:06:01.683Z",
-  "count": 4274,
+  "listingsChangedAt": "2026-11-22T04:06:04.003Z",
+  "count": 4292,
   "listings": [
+    {
+      "id": "bb2497c6-fbcd-4a64-b080-169d0b87e490",
+      "company": "Neros Technologies",
+      "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Torrance, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "url": "https://trueinterview.io/jobs/bb2497c6-fbcd-4a64-b080-169d0b87e490",
+      "postedAt": "2026-11-22T01:46:05.000Z",
+      "updatedAt": "2026-11-22T01:46:05.000Z"
+    },
     {
       "id": "1b4e4d3c-8bbd-4ec0-987d-cc0a9da79087",
       "company": "Tesla",
@@ -140,6 +165,56 @@
       "url": "https://trueinterview.io/jobs/3bed34f2-21c5-4d25-b653-e1af8476f85c",
       "postedAt": "2026-11-22T00:00:00.000Z",
       "updatedAt": "2026-11-22T00:00:00.000Z"
+    },
+    {
+      "id": "f827d929-8d07-4308-a9b1-66df1e136a4f",
+      "company": "Neros Technologies",
+      "title": "Mechanical Engineer Intern - Summer 2027",
+      "locations": [
+        "Torrance, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
+      "url": "https://trueinterview.io/jobs/f827d929-8d07-4308-a9b1-66df1e136a4f",
+      "postedAt": "2026-11-21T22:39:11.000Z",
+      "updatedAt": "2026-11-21T22:39:11.000Z"
+    },
+    {
+      "id": "7bda377d-a2c2-4a21-901f-cbb1364f9b02",
+      "company": "Neros Technologies",
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "locations": [
+        "Torrance, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+      "url": "https://trueinterview.io/jobs/7bda377d-a2c2-4a21-901f-cbb1364f9b02",
+      "postedAt": "2026-11-21T22:38:17.000Z",
+      "updatedAt": "2026-11-21T22:38:17.000Z"
     },
     {
       "id": "7e736614-867a-49d2-945c-a9c769d7abab",
@@ -693,6 +768,31 @@
       "url": "https://trueinterview.io/jobs/4dbc2a88-ddba-42f2-8982-d6939b78c618",
       "postedAt": "2026-11-21T10:24:00.000Z",
       "updatedAt": "2026-11-21T10:24:00.000Z"
+    },
+    {
+      "id": "0402e690-7372-422d-ade8-a0041c077db2",
+      "company": "Sequans",
+      "title": "AI tools & RF Test Automation Intern – Reading (UK) or Zurich (Switzerland)",
+      "locations": [
+        "Zürich, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://sequans.com/job/ai-tools-rf-test-automation-intern-reading-uk-or-zurich-switzerland/",
+      "url": "https://trueinterview.io/jobs/0402e690-7372-422d-ade8-a0041c077db2",
+      "postedAt": "2026-11-21T06:00:00.000Z",
+      "updatedAt": "2026-11-21T06:00:00.000Z"
     },
     {
       "id": "c0785ff2-e124-4f3e-a207-ab195310872d",
@@ -2416,9 +2516,9 @@
         "Canada"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2434,7 +2534,8 @@
       "company": "Apple",
       "title": "Intern - Software Development Engineer",
       "locations": [
-        "Munich, Bavaria-Bayern, 80335, Germany"
+        "Munich, Bavaria-Bayern, 80335, Germany",
+        "München, Deutschland"
       ],
       "cities": [
         "Munich"
@@ -3058,6 +3159,31 @@
       "updatedAt": "2026-11-20T07:00:00.000Z"
     },
     {
+      "id": "37870cc4-68e6-4141-ac10-2a32941ae091",
+      "company": "Autodesk",
+      "title": "Intern, DevOps - Stagiaire, DevOps",
+      "locations": [
+        "Montréal, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.autodesk.com/careers/job/1443154637901",
+      "url": "https://trueinterview.io/jobs/37870cc4-68e6-4141-ac10-2a32941ae091",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "28fe76c6-d180-492e-9dcc-345111063a2b",
       "company": "BXP",
       "title": "Network Operations Co-Op",
@@ -3108,6 +3234,29 @@
       "source": "indeed",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1",
       "url": "https://trueinterview.io/jobs/fea56431-3af7-4ffb-9bde-5fe226180cb1",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "be2e920d-2319-4ed1-a888-8a2940d0c0b4",
+      "company": "CARIAD",
+      "title": "Internship - Test Automation (m/f/d)",
+      "locations": [
+        "Ingolstadt, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333/",
+      "url": "https://trueinterview.io/jobs/be2e920d-2319-4ed1-a888-8a2940d0c0b4",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -3187,6 +3336,31 @@
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
+      "id": "82a7e396-23e5-441d-a9fa-0fb2a916ab23",
+      "company": "Green Infrastructure Partners",
+      "title": "Risk Analyst Intern",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://gipi.wd3.myworkdayjobs.com/en-US/Careers/job/Markham-ON/Risk-Analyst-Intern_R10380",
+      "url": "https://trueinterview.io/jobs/82a7e396-23e5-441d-a9fa-0fb2a916ab23",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "73ca2965-0bac-48a7-a9ab-7347ce2c29a2",
       "company": "Greenheck Group",
       "title": "Data Analyst Co-op",
@@ -3233,6 +3407,54 @@
       "source": "indeed",
       "applyUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/External/job/Schofield-WI/IT-Intern--WI-_JR105139",
       "url": "https://trueinterview.io/jobs/eb6e5b62-52e9-4ec3-b07f-411f3f4d3b63",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "e8aab170-987c-4fab-953f-7562e0bfdd4f",
+      "company": "Keysight Technologies",
+      "title": "Software Engineering Intern - Veriloga Compiler with Full Coverage Testing suites",
+      "locations": [
+        "Dresden, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.keysight.com/jobs/54577/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/e8aab170-987c-4fab-953f-7562e0bfdd4f",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "6972761f-dba3-4ff8-a6a6-514ad0203782",
+      "company": "Mackenzie Investments",
+      "title": "Winter 2027 Intern – AI Program",
+      "locations": [
+        "Greater Toronto Area, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/6972761f-dba3-4ff8-a6a6-514ad0203782",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -3333,6 +3555,58 @@
       "source": "indeed",
       "applyUrl": "https://careers.skyworksinc.com/job/RF-Application-SummerFall-Co-op/79134-en_US",
       "url": "https://trueinterview.io/jobs/79f682cf-7995-4d46-98a4-d9125242430f",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "321edba2-6354-4ff6-b122-8b407daf5fb9",
+      "company": "TAIT",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Montréal, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.taittowers.com/en/jobs/18503479-software-developer-intern?tm_job=3971&tm_event=view&tm_company=92544",
+      "url": "https://trueinterview.io/jobs/321edba2-6354-4ff6-b122-8b407daf5fb9",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "5011b7e3-088c-4b4e-a34a-5eb9fc3b80a7",
+      "company": "TMX GROUP",
+      "title": "Junior Vulnerability Management Analyst Intern",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Vulnerability-Management-Analyst-Intern_R-6742",
+      "url": "https://trueinterview.io/jobs/5011b7e3-088c-4b4e-a34a-5eb9fc3b80a7",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -5977,6 +6251,31 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "5dff9ccb-609f-42de-b2a4-a0f3f4821772",
+      "company": "Beyond Gravity Services AG",
+      "title": "Intern Materials & Processes Engineer (all genders)",
+      "locations": [
+        "Flughafen Zürich, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.beyondgravity.com/BeyondGravity/job/Z%C3%BCrich-Flughafen-Intern-Materials-&-Processes-Engineer-%28all-genders%29-ZH/1458931733/",
+      "url": "https://trueinterview.io/jobs/5dff9ccb-609f-42de-b2a4-a0f3f4821772",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "ddedc024-7a61-4863-9f3d-95ca8fba968f",
       "company": "BMW Group",
       "title": "Internship in Industry AI Fine-Tuning LoRA Adapters and Embedding Models (f/m/x)",
@@ -6245,7 +6544,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9203,6 +9502,29 @@
       "source": "indeed",
       "applyUrl": "https://jobs.tenethealth.com/job/-/-/1127/103453803840",
       "url": "https://trueinterview.io/jobs/7407680c-3e18-482e-b4de-39e97b104dd2",
+      "postedAt": "2026-11-18T06:00:00.000Z",
+      "updatedAt": "2026-11-18T06:00:00.000Z"
+    },
+    {
+      "id": "1b6ebb21-5ff9-4c82-a79a-73ec0b79fb7c",
+      "company": "Tesla",
+      "title": "Software Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg",
+      "locations": [
+        "Grünheide (Mark), Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.tesla.com/careers/search/job/290546",
+      "url": "https://trueinterview.io/jobs/1b6ebb21-5ff9-4c82-a79a-73ec0b79fb7c",
       "postedAt": "2026-11-18T06:00:00.000Z",
       "updatedAt": "2026-11-18T06:00:00.000Z"
     },
@@ -42189,6 +42511,31 @@
       "updatedAt": "2026-11-06T15:10:00.000Z"
     },
     {
+      "id": "3315b2b4-15f0-4468-8527-2ca668dc9786",
+      "company": "Siemens Digital Industries Software",
+      "title": "Strategic Student Program: Software Development Co-Op (EBS; Spring 2027)",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479125876/",
+      "url": "https://trueinterview.io/jobs/3315b2b4-15f0-4468-8527-2ca668dc9786",
+      "postedAt": "2026-11-06T15:02:00.000Z",
+      "updatedAt": "2026-11-06T15:02:00.000Z"
+    },
+    {
       "id": "3503fcbf-dd96-4811-b18d-c7425aeafb89",
       "company": "Rivian and Volkswagen Group Technologies",
       "title": "Mechatronics Lab Engineering Intern (January - August 2027)",
@@ -42202,9 +42549,9 @@
         "Canada"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -42244,6 +42591,31 @@
       "updatedAt": "2026-11-06T14:34:00.000Z"
     },
     {
+      "id": "a0f2f49e-7072-4659-b423-dc276a6ebbb9",
+      "company": "UKG",
+      "title": "Global Security Internship - Summer 2027",
+      "locations": [
+        "Sunrise,FL,United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ukg.eightfold.ai/careers/job/893398050384",
+      "url": "https://trueinterview.io/jobs/a0f2f49e-7072-4659-b423-dc276a6ebbb9",
+      "postedAt": "2026-11-06T14:32:38.000Z",
+      "updatedAt": "2026-11-06T14:32:38.000Z"
+    },
+    {
       "id": "ab88a95c-386c-4aad-af9c-dafdcc6fd610",
       "company": "IBM",
       "title": "Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027",
@@ -42257,9 +42629,9 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Data Scientist",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -42294,6 +42666,56 @@
       "updatedAt": "2026-11-06T14:16:00.000Z"
     },
     {
+      "id": "6b7fa8a3-937c-4bfd-989e-46e878ab96d0",
+      "company": "Bosch",
+      "title": "Motorsport Software and Data Analytics Graduate Intern",
+      "locations": [
+        "Farmington Hills, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440-motorsport-software-and-data-analytics-graduate-intern-",
+      "url": "https://trueinterview.io/jobs/6b7fa8a3-937c-4bfd-989e-46e878ab96d0",
+      "postedAt": "2026-11-06T13:56:59.000Z",
+      "updatedAt": "2026-11-06T13:56:59.000Z"
+    },
+    {
+      "id": "e0461b75-7f42-492b-b389-6b4f34f3d2de",
+      "company": "Keenfinity",
+      "title": "Finance Data Analytics Internship (m./f./div.)",
+      "locations": [
+        "Ovar, Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000160203349-finance-data-analytics-internship-m-f-div-",
+      "url": "https://trueinterview.io/jobs/e0461b75-7f42-492b-b389-6b4f34f3d2de",
+      "postedAt": "2026-11-06T13:33:13.000Z",
+      "updatedAt": "2026-11-06T13:33:13.000Z"
+    },
+    {
       "id": "9ef4bcf4-7073-45d0-86f6-f7ea184bb778",
       "company": "Duolingo",
       "title": "Data Scientist, Intern",
@@ -42318,6 +42740,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4480310279/",
       "url": "https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778",
+      "postedAt": "2026-11-06T13:04:12.000Z",
+      "updatedAt": "2026-11-06T13:04:12.000Z"
+    },
+    {
+      "id": "2b6ead53-cb60-4de8-b24c-7c97b72249f9",
+      "company": "General Motors",
+      "title": "2027 Summer Intern, AI Research, Embodied AI (Masters)",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480157590/",
+      "url": "https://trueinterview.io/jobs/2b6ead53-cb60-4de8-b24c-7c97b72249f9",
       "postedAt": "2026-11-06T13:04:12.000Z",
       "updatedAt": "2026-11-06T13:04:12.000Z"
     },
