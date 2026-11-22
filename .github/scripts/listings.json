@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T06:07:01.515Z",
-  "count": 4319,
+  "listingsChangedAt": "2026-11-22T07:04:36.761Z",
+  "count": 4315,
   "listings": [
+    {
+      "id": "020ee6e5-12e9-4bca-81d5-1fe5ec0fd192",
+      "company": "NVIDIA",
+      "title": "Accounting AI Solution Engineer Intern - Summer 2027",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493163396/",
+      "url": "https://trueinterview.io/jobs/020ee6e5-12e9-4bca-81d5-1fe5ec0fd192",
+      "postedAt": "2026-11-22T06:32:00.000Z",
+      "updatedAt": "2026-11-22T06:32:00.000Z"
+    },
     {
       "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
       "company": "Moody's",
@@ -44003,7 +44028,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -48104,31 +48129,6 @@
       "url": "https://trueinterview.io/jobs/9508195b-c9b9-4a40-8bd9-91071907bd0a",
       "postedAt": "2026-11-05T06:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
-    },
-    {
-      "id": "f50d8a38-1ea6-4b0a-adc8-a2032c472a38",
-      "company": "Northrop Grumman",
-      "title": "2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD",
-      "locations": [
-        "Baltimore, MD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487708730/",
-      "url": "https://trueinterview.io/jobs/f50d8a38-1ea6-4b0a-adc8-a2032c472a38",
-      "postedAt": "2026-11-05T05:55:00.000Z",
-      "updatedAt": "2026-11-05T05:55:00.000Z"
     },
     {
       "id": "63ac2891-dc50-47d6-9593-61f7b5138a26",
@@ -63818,31 +63818,6 @@
       "updatedAt": "2026-10-31T05:00:00.000Z"
     },
     {
-      "id": "1d748393-8f68-4eb1-b932-9346b7ca12e9",
-      "company": "GenPark",
-      "title": "Frontend Developer Intern",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485139309/",
-      "url": "https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9",
-      "postedAt": "2026-10-31T04:42:00.000Z",
-      "updatedAt": "2026-10-31T04:42:00.000Z"
-    },
-    {
       "id": "d5d77f82-abbc-4785-abce-b334e1b557a4",
       "company": "Bayer",
       "title": "Computer Vision and Data Analysis Co-Op",
@@ -77484,37 +77459,6 @@
       "url": "https://trueinterview.io/jobs/6dc6bcad-d069-481f-b635-39f5d6dc6ec4",
       "postedAt": "2026-10-29T10:32:00.000Z",
       "updatedAt": "2026-10-29T10:32:00.000Z"
-    },
-    {
-      "id": "ab973969-7885-4b44-951d-36aa0aeaf143",
-      "company": "DRW",
-      "title": "Quantitative Research Intern",
-      "locations": [
-        "Singapore, Singapore",
-        "London, England, United Kingdom",
-        "London",
-        "Chicago, New York City",
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "url": "https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143",
-      "postedAt": "2026-10-28T10:41:00.000Z",
-      "updatedAt": "2026-10-29T10:31:00.000Z"
     },
     {
       "id": "9b1bf3f4-5d73-42bc-8395-b5344a8bfbab",
@@ -91168,33 +91112,6 @@
       "updatedAt": "2026-10-27T19:02:40.000Z"
     },
     {
-      "id": "6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
-      "company": "Cirrus Logic",
-      "title": "2027 Internship - Formal Verification Engineer",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf",
-      "url": "https://trueinterview.io/jobs/6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
-      "postedAt": "2026-10-27T19:02:21.000Z",
-      "updatedAt": "2026-10-27T19:02:21.000Z"
-    },
-    {
       "id": "4533ffc9-86a7-4981-a835-3a86bff8a395",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
@@ -98541,33 +98458,6 @@
       "url": "https://trueinterview.io/jobs/aedd6dd6-2fc1-4929-bf62-79b85f11cac8",
       "postedAt": "2026-10-19T16:33:06.000Z",
       "updatedAt": "2026-10-19T16:33:06.000Z"
-    },
-    {
-      "id": "107376f2-982b-44d5-adc7-d9ba8f584cae",
-      "company": "Meta",
-      "title": "Thermal Engineer Intern",
-      "locations": [
-        "Sunnyvale, CA, United States"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1866779221408793/",
-      "url": "https://trueinterview.io/jobs/107376f2-982b-44d5-adc7-d9ba8f584cae",
-      "postedAt": "2026-10-19T15:23:32.000Z",
-      "updatedAt": "2026-10-19T15:23:32.000Z"
     },
     {
       "id": "45808ad7-cd61-4b6d-9af3-646c8ee9e71e",
