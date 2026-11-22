@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T17:03:45.732Z",
-  "count": 4337,
+  "listingsChangedAt": "2026-11-22T18:05:34.179Z",
+  "count": 4343,
   "listings": [
+    {
+      "id": "a3d97f24-e1ca-4af2-bbd7-478283d1fdd3",
+      "company": "AMD",
+      "title": "Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4492354674/",
+      "url": "https://trueinterview.io/jobs/a3d97f24-e1ca-4af2-bbd7-478283d1fdd3",
+      "postedAt": "2026-11-22T16:43:00.000Z",
+      "updatedAt": "2026-11-22T16:43:00.000Z"
+    },
+    {
+      "id": "08540a8d-8fff-4985-919c-f0fd0304cb1c",
+      "company": "University of Alaska Fairbanks Petroleum Engineering",
+      "title": "Security Verification/Validation Engineer Intern - Bachelors Degree (2604148)",
+      "locations": [
+        "Security, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493367656/",
+      "url": "https://trueinterview.io/jobs/08540a8d-8fff-4985-919c-f0fd0304cb1c",
+      "postedAt": "2026-11-22T16:38:00.000Z",
+      "updatedAt": "2026-11-22T16:38:00.000Z"
+    },
     {
       "id": "82a27c9a-d695-432f-bcba-f2ad9f0649f9",
       "company": "Elevated Web Design",
@@ -6941,6 +6993,31 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "bf0d7e5b-86d6-4079-862a-54612bef25bd",
+      "company": "Danone",
+      "title": "IT & Data Internship - GTI Enterprise Platforms Tech Advisory",
+      "locations": [
+        "Warszawa, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://enapply-danone.icims.com/jobs/29299/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/bf0d7e5b-86d6-4079-862a-54612bef25bd",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "9d67f602-eb9c-49e3-b44d-78114aea51ac",
       "company": "Eneco",
       "title": "Internship Data Scientist - HR Health & Wellbeing",
@@ -7329,6 +7406,33 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "9bb0d6f0-635a-45e8-bb65-6772cf89fbc0",
+      "company": "Regeneron",
+      "title": "Intern, HR Technology and Analytics",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.regeneron.com/en/jobs/r52961/intern-hr-technology-and-analytics/",
+      "url": "https://trueinterview.io/jobs/9bb0d6f0-635a-45e8-bb65-6772cf89fbc0",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "81d143fc-6d72-4e69-ada2-549402232f71",
       "company": "Relinns Technologies",
       "title": "Java Developer Intern",
@@ -7507,6 +7611,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.tenethealth.com/job/-/-/1127/103501022144",
       "url": "https://trueinterview.io/jobs/e2638d1c-0587-415d-a725-dce2ceae332e",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "7396d768-341a-483f-b334-0f45076132bf",
+      "company": "Thermo Fisher Scientific",
+      "title": "IT Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.thermofisher.com/global/en/job/R-01372316/IT-Intern",
+      "url": "https://trueinterview.io/jobs/7396d768-341a-483f-b334-0f45076132bf",
       "postedAt": "2026-11-19T06:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
@@ -13251,6 +13380,33 @@
       "source": "indeed",
       "applyUrl": "https://tdwilliamson.wd1.myworkdayjobs.com/es/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern---Summer-2027_REQ-04014",
       "url": "https://trueinterview.io/jobs/1448eebd-5990-4c28-ae27-8bf7dde96a87",
+      "postedAt": "2026-11-17T06:00:00.000Z",
+      "updatedAt": "2026-11-17T06:00:00.000Z"
+    },
+    {
+      "id": "fcf3373c-4f9c-4f25-8606-81a1cf5d675b",
+      "company": "Tesla",
+      "title": "Service, Performance Data Internship",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.tesla.com/careers/search/job/290181",
+      "url": "https://trueinterview.io/jobs/fcf3373c-4f9c-4f25-8606-81a1cf5d675b",
       "postedAt": "2026-11-17T06:00:00.000Z",
       "updatedAt": "2026-11-17T06:00:00.000Z"
     },
@@ -45652,12 +45808,9 @@
       "locations": [
         "Cambridge, MA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Hardware & Engineering",
@@ -96271,7 +96424,9 @@
       "locations": [
         "Fremont, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Fremont, CA"
+      ],
       "countries": [
         "United States"
       ],
