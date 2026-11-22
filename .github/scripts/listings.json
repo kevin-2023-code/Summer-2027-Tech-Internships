@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T13:04:26.098Z",
+  "listingsChangedAt": "2026-11-22T14:04:27.628Z",
   "count": 4328,
   "listings": [
+    {
+      "id": "417cbc40-1041-4bdc-b167-5da23b7e7bbf",
+      "company": "InfoHash",
+      "title": "Vulnerability Assessment And Penetration Testing Intern",
+      "locations": [
+        "Remote, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493193536/",
+      "url": "https://trueinterview.io/jobs/417cbc40-1041-4bdc-b167-5da23b7e7bbf",
+      "postedAt": "2026-11-22T13:09:00.000Z",
+      "updatedAt": "2026-11-22T13:09:00.000Z"
+    },
     {
       "id": "13b4f43e-d6f7-4e7e-90a5-d4334d8f461e",
       "company": "Qualcomm",
@@ -34,6 +59,31 @@
       "url": "https://trueinterview.io/jobs/13b4f43e-d6f7-4e7e-90a5-d4334d8f461e",
       "postedAt": "2026-11-22T11:53:00.000Z",
       "updatedAt": "2026-11-22T11:53:00.000Z"
+    },
+    {
+      "id": "c795323c-6571-4355-bf1f-741e6504267b",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Low Power AI Software Development Internship - Canada (16 months)",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467861834/",
+      "url": "https://trueinterview.io/jobs/c795323c-6571-4355-bf1f-741e6504267b",
+      "postedAt": "2026-11-22T11:35:00.000Z",
+      "updatedAt": "2026-11-22T11:35:00.000Z"
     },
     {
       "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
@@ -10137,7 +10187,9 @@
         "Santa Clara, California, United States of America",
         "Raritan, New Jersey, United States of America"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States",
         "Canada"
@@ -45887,6 +45939,32 @@
       "updatedAt": "2026-11-05T19:04:00.000Z"
     },
     {
+      "id": "ba938976-623d-4a7f-a5e4-fa96e54c6712",
+      "company": "Ballotpedia",
+      "title": "GIS Analyst Spring 2027 Internship (Paid/Remote)",
+      "locations": [
+        "United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.workable.com/view/cZZbcdpzJNGSpwX3BWdMpz/gis-analyst-spring-2027-internship-(paid%2Fremote)-in-united-states-at-ballotpedia",
+      "url": "https://trueinterview.io/jobs/ba938976-623d-4a7f-a5e4-fa96e54c6712",
+      "postedAt": "2026-11-05T18:59:25.000Z",
+      "updatedAt": "2026-11-05T18:59:25.000Z"
+    },
+    {
       "id": "7e93c300-bbcd-4528-b673-6703ebb8a328",
       "company": "onsemi",
       "title": "Spring 2027 - Semiconductor AI Specialist Intern",
@@ -61199,7 +61277,9 @@
       "locations": [
         "Cupertino, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Cupertino, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -62719,34 +62799,6 @@
       "url": "https://trueinterview.io/jobs/4b39f308-a5b1-4b4a-9586-d5f458eecb6e",
       "postedAt": "2026-10-31T15:22:00.000Z",
       "updatedAt": "2026-10-31T15:22:00.000Z"
-    },
-    {
-      "id": "377d2bad-ecdc-413f-946b-6e06df0a85b4",
-      "company": "GCM Grosvenor",
-      "title": "2027 Software Engineering Summer Intern",
-      "locations": [
-        "Chicago, IL",
-        "Chicago, Illinois, United States"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
-      "url": "https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4",
-      "postedAt": "2026-10-31T15:20:00.000Z",
-      "updatedAt": "2026-10-31T15:20:00.000Z"
     },
     {
       "id": "fd1bd01e-5632-413b-86bf-17de96fa7c3f",
@@ -112048,57 +112100,6 @@
       "url": "https://trueinterview.io/jobs/bc9df6cc-3890-4fee-8ff6-80d9a1c7b390",
       "postedAt": "2026-09-23T14:10:21.000Z",
       "updatedAt": "2026-09-23T14:10:21.000Z"
-    },
-    {
-      "id": "be8a8e74-f239-4d90-a76d-b88385a7e25d",
-      "company": "Smiths Group",
-      "title": "Engineering Intern",
-      "locations": [
-        "603 Hendee Street, Springfield, Massachusetts, United States",
-        "Coyol, Alajuela, Costa Rica"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389-engineering-intern",
-      "url": "https://trueinterview.io/jobs/be8a8e74-f239-4d90-a76d-b88385a7e25d",
-      "postedAt": "2026-09-23T13:41:33.000Z",
-      "updatedAt": "2026-09-23T13:41:33.000Z"
-    },
-    {
-      "id": "4a181cf8-cde4-4463-9376-d3c5d129c4ab",
-      "company": "Smiths Group",
-      "title": "Engineering Intern – Braid Design",
-      "locations": [
-        "603 Hendee Street, Springfield, Massachusetts, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/SmithsGroup2/744000151383182-engineering-intern-braid-design",
-      "url": "https://trueinterview.io/jobs/4a181cf8-cde4-4463-9376-d3c5d129c4ab",
-      "postedAt": "2026-09-23T13:40:25.000Z",
-      "updatedAt": "2026-09-23T13:40:25.000Z"
     }
   ]
 }
