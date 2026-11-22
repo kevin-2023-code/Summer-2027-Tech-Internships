@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-22T14:04:27.628Z",
+  "listingsChangedAt": "2026-11-22T15:04:20.698Z",
   "count": 4328,
   "listings": [
     {
@@ -84,6 +84,31 @@
       "url": "https://trueinterview.io/jobs/c795323c-6571-4355-bf1f-741e6504267b",
       "postedAt": "2026-11-22T11:35:00.000Z",
       "updatedAt": "2026-11-22T11:35:00.000Z"
+    },
+    {
+      "id": "584f1c3d-1257-4971-9957-8d4db1e2d39b",
+      "company": "Green Ping Solutions",
+      "title": "Data Science Internship",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=538e6ca26cfa30b6",
+      "url": "https://trueinterview.io/jobs/584f1c3d-1257-4971-9957-8d4db1e2d39b",
+      "postedAt": "2026-11-22T08:52:50.000Z",
+      "updatedAt": "2026-11-22T08:52:50.000Z"
     },
     {
       "id": "f5e8588c-ca40-4c93-8146-6c85f981ebc7",
@@ -2097,7 +2122,8 @@
       "company": "Siemens",
       "title": "Software Engineer Intern",
       "locations": [
-        "Noida, Uttar Pradesh, India"
+        "Noida, Uttar Pradesh, India",
+        "India"
       ],
       "cities": [],
       "countries": [
@@ -2112,7 +2138,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4492808596/",
+      "applyUrl": "https://jobs.siemens.com/externaljobs/JobDetail/530239",
       "url": "https://trueinterview.io/jobs/33d1c634-1752-43da-a764-2e3538ade0fc",
       "postedAt": "2026-11-20T17:34:00.000Z",
       "updatedAt": "2026-11-20T17:34:00.000Z"
@@ -3415,6 +3441,31 @@
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
     {
+      "id": "f30fe3ea-595f-4bc4-b931-efd9688359c2",
+      "company": "Futures First",
+      "title": "Quant Intern - Options",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://futuresfirst.com/job-details/?job_id=0134",
+      "url": "https://trueinterview.io/jobs/f30fe3ea-595f-4bc4-b931-efd9688359c2",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
       "id": "01260ad4-5949-4488-a74d-0be899a215c7",
       "company": "GlobalFoundries",
       "title": "AI-Enabled PDK Development Intern (Summer 2027)",
@@ -3511,6 +3562,31 @@
       "source": "indeed",
       "applyUrl": "https://greenheckgroup.wd5.myworkdayjobs.com/External/job/Schofield-WI/IT-Intern--WI-_JR105139",
       "url": "https://trueinterview.io/jobs/eb6e5b62-52e9-4ec3-b07f-411f3f4d3b63",
+      "postedAt": "2026-11-20T06:00:00.000Z",
+      "updatedAt": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "66a41eeb-464f-4eb9-aef1-29709141df91",
+      "company": "Greenheck Group",
+      "title": "Product Development Engineer Co-Op",
+      "locations": [
+        "Marion, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://greenheckgroup.myworkdayjobs.com/External/job/Marion-NC/Product-Development-Engineer-Co-Op_JR104708",
+      "url": "https://trueinterview.io/jobs/66a41eeb-464f-4eb9-aef1-29709141df91",
       "postedAt": "2026-11-20T06:00:00.000Z",
       "updatedAt": "2026-11-20T06:00:00.000Z"
     },
@@ -4888,7 +4964,8 @@
       "company": "ServiceNow",
       "title": "Associate Accessibility Engineer Intern",
       "locations": [
-        "Dublin, Ireland"
+        "Dublin, Ireland",
+        "DUBLIN 2, Ireland"
       ],
       "cities": [
         "Dublin"
@@ -4908,7 +4985,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000162586889-associate-accessibility-engineer-intern",
       "url": "https://trueinterview.io/jobs/9054d113-f695-45ca-ad67-910b514b78cd",
       "postedAt": "2026-11-19T19:07:07.000Z",
-      "updatedAt": "2026-11-19T19:07:07.000Z"
+      "updatedAt": "2026-11-19T19:07:10.000Z"
     },
     {
       "id": "d2b9149a-33cb-4dc6-85b1-8f1467ffc392",
@@ -6635,6 +6712,33 @@
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
     {
+      "id": "9d67f602-eb9c-49e3-b44d-78114aea51ac",
+      "company": "Eneco",
+      "title": "Internship Data Scientist - HR Health & Wellbeing",
+      "locations": [
+        "Rotterdam, Netherlands"
+      ],
+      "cities": [
+        "Rotterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.werkenbijeneco.nl/vacatures/internship-data-scientist-hr-health-wellbeing-3383",
+      "url": "https://trueinterview.io/jobs/9d67f602-eb9c-49e3-b44d-78114aea51ac",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
       "id": "0d2e2e6f-63cb-4595-9af5-a8c9c98493fe",
       "company": "Falcata",
       "title": "Mechanical/Aerospace Engineering Co-Op (Spring 2027)",
@@ -6992,6 +7096,31 @@
       "source": "indeed",
       "applyUrl": "https://quantumsurgical.teamtailor.com/jobs/8766393-data-scientist-intern-h-f-x",
       "url": "https://trueinterview.io/jobs/20940f4f-cfd4-4540-a87b-f59b247aa747",
+      "postedAt": "2026-11-19T06:00:00.000Z",
+      "updatedAt": "2026-11-19T06:00:00.000Z"
+    },
+    {
+      "id": "81d143fc-6d72-4e69-ada2-549402232f71",
+      "company": "Relinns Technologies",
+      "title": "Java Developer Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.relinns.com/apply/engineering/intern/Java-Developer-Intern",
+      "url": "https://trueinterview.io/jobs/81d143fc-6d72-4e69-ada2-549402232f71",
       "postedAt": "2026-11-19T06:00:00.000Z",
       "updatedAt": "2026-11-19T06:00:00.000Z"
     },
@@ -46121,6 +46250,34 @@
       "updatedAt": "2026-11-05T17:29:00.000Z"
     },
     {
+      "id": "5f4202b7-4d5f-41b8-9e4d-3cd0758a0729",
+      "company": "Apple",
+      "title": "Cellular Baseband Security Research Intern",
+      "locations": [
+        "Paris, Ile-de-France, France",
+        "Paris, Ile-de-France, 75008, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200693660",
+      "url": "https://trueinterview.io/jobs/5f4202b7-4d5f-41b8-9e4d-3cd0758a0729",
+      "postedAt": "2026-11-05T17:15:44.000Z",
+      "updatedAt": "2026-11-05T17:15:44.000Z"
+    },
+    {
       "id": "ae216860-baad-4890-a279-5c9812e7347f",
       "company": "Legrand",
       "title": "Firmware Engineering Intern",
@@ -55359,32 +55516,6 @@
       "url": "https://trueinterview.io/jobs/e0559e01-3913-437c-bcaa-fb8dcbc9f38b",
       "postedAt": "2026-11-03T13:34:51.000Z",
       "updatedAt": "2026-11-03T13:34:51.000Z"
-    },
-    {
-      "id": "832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
-      "company": "Spearmint technologies",
-      "title": "Full Stack AI Developer Intern",
-      "locations": [
-        "Remote, India",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=7cb2271a0ae03786",
-      "url": "https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
-      "postedAt": "2026-11-03T12:47:15.000Z",
-      "updatedAt": "2026-11-03T12:47:15.000Z"
     },
     {
       "id": "8bd3fae5-b2d5-4073-a067-959c6df2fe35",
@@ -68047,10 +68178,12 @@
         "Melbourne, Australia"
       ],
       "cities": [
-        "Singapore"
+        "Singapore",
+        "Melbourne"
       ],
       "countries": [
-        "Singapore"
+        "Singapore",
+        "Australia"
       ],
       "remote": "onsite",
       "category": "Software",
@@ -97377,6 +97510,7 @@
         "New York, NY, United States"
       ],
       "cities": [
+        "Menlo Park, CA",
         "New York, NY"
       ],
       "countries": [
@@ -104474,6 +104608,7 @@
         "New York, NY, United States"
       ],
       "cities": [
+        "Menlo Park, CA",
         "New York, NY"
       ],
       "countries": [
@@ -111973,133 +112108,6 @@
       "url": "https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a",
       "postedAt": "2026-09-23T20:06:02.000Z",
       "updatedAt": "2026-09-23T20:06:02.000Z"
-    },
-    {
-      "id": "e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1",
-      "company": "Meta",
-      "title": "Network Production Engineer Intern",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1412139847020398/",
-      "url": "https://trueinterview.io/jobs/e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1",
-      "postedAt": "2026-09-23T14:51:26.000Z",
-      "updatedAt": "2026-09-23T14:51:26.000Z"
-    },
-    {
-      "id": "ee0a5f2a-b598-492d-a6f6-294cd8f1225d",
-      "company": "CRB",
-      "title": "Mechanical Engineer Intern - Winter",
-      "locations": [
-        "Toronto, Ontario, Canada"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/CRB/744000151401119-mechanical-engineer-intern-winter",
-      "url": "https://trueinterview.io/jobs/ee0a5f2a-b598-492d-a6f6-294cd8f1225d",
-      "postedAt": "2026-09-23T14:29:13.000Z",
-      "updatedAt": "2026-09-23T14:29:13.000Z"
-    },
-    {
-      "id": "bf105919-49b9-4b03-a2b4-d84edd8a49a4",
-      "company": "Keenfinity",
-      "title": "Electrical Test Engineering Co-Op",
-      "locations": [
-        "Fairport, New York, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000151397415-electrical-test-engineering-co-op",
-      "url": "https://trueinterview.io/jobs/bf105919-49b9-4b03-a2b4-d84edd8a49a4",
-      "postedAt": "2026-09-23T14:15:18.000Z",
-      "updatedAt": "2026-09-23T14:15:18.000Z"
-    },
-    {
-      "id": "698c73fd-4184-4d48-925d-cb3490f45cb3",
-      "company": "Keenfinity",
-      "title": "Embedded Firmware Engineer Co-Op",
-      "locations": [
-        "Fairport, New York, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000151397189-embedded-firmware-engineer-co-op",
-      "url": "https://trueinterview.io/jobs/698c73fd-4184-4d48-925d-cb3490f45cb3",
-      "postedAt": "2026-09-23T14:13:47.000Z",
-      "updatedAt": "2026-09-23T14:13:47.000Z"
-    },
-    {
-      "id": "bc9df6cc-3890-4fee-8ff6-80d9a1c7b390",
-      "company": "Keenfinity",
-      "title": "Software Test Automation Co-Op",
-      "locations": [
-        "Fairport, New York, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op",
-      "url": "https://trueinterview.io/jobs/bc9df6cc-3890-4fee-8ff6-80d9a1c7b390",
-      "postedAt": "2026-09-23T14:10:21.000Z",
-      "updatedAt": "2026-09-23T14:10:21.000Z"
     }
   ]
 }
