@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-26T17:46:20.768Z",
-  "count": 4364,
+  "listingsChangedAt": "2026-11-26T18:11:26.241Z",
+  "count": 4365,
   "listings": [
     {
       "id": "4ee41f7a-4366-44ed-ae9f-7fb5d7fee8a8",
@@ -476,6 +476,33 @@
       "updatedAt": "2026-11-25T08:40:25.000Z"
     },
     {
+      "id": "1d9d739c-afb4-4f2b-9078-531afa3b5a2f",
+      "company": "Keenfinity",
+      "title": "Imaging Software Intern",
+      "locations": [
+        "Eindhoven, North Brabant, Netherlands"
+      ],
+      "cities": [
+        "Eindhoven"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000163626266-imaging-software-intern",
+      "url": "https://trueinterview.io/jobs/1d9d739c-afb4-4f2b-9078-531afa3b5a2f",
+      "postedAt": "2026-11-25T08:34:46.000Z",
+      "updatedAt": "2026-11-25T08:34:46.000Z"
+    },
+    {
       "id": "a429e82a-8136-4423-b5b5-e1e1c763172b",
       "company": "GeoComply",
       "title": "Data Analyst Intern",
@@ -526,31 +553,6 @@
       "url": "https://trueinterview.io/jobs/0570b199-87d8-408d-82dc-1a30be7e8e0b",
       "postedAt": "2026-11-25T06:18:11.000Z",
       "updatedAt": "2026-11-25T06:18:11.000Z"
-    },
-    {
-      "id": "0416b221-29fe-4621-8b63-47e3966f7e98",
-      "company": "Nbcuniversal",
-      "title": "Universal Studios Hollywood, Finance & Strategy, Business Analytics & Industrial Engineering Internship – Summer 2027",
-      "locations": [
-        "Universal City, CALIFORNIA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000163602429-universal-studios-hollywood-finance-strategy-business-analytics-industrial-engineering-internship-summer-2027",
-      "url": "https://trueinterview.io/jobs/0416b221-29fe-4621-8b63-47e3966f7e98",
-      "postedAt": "2026-11-25T03:09:48.000Z",
-      "updatedAt": "2026-11-25T03:09:48.000Z"
     },
     {
       "id": "ae86739e-69bc-4ee8-8ad5-62876f3912ee",
@@ -643,7 +645,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -702,6 +704,31 @@
       "source": "ats-boards",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40388",
       "url": "https://trueinterview.io/jobs/a9a22c8b-4f12-443c-b88c-c32c8c587641",
+      "postedAt": "2026-11-25T00:00:00.000Z",
+      "updatedAt": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "id": "30828d4e-8252-4fa0-93d2-23769c51f95a",
+      "company": "Nokia",
+      "title": "Student Intern – AI and Innovation",
+      "locations": [
+        "South Africa"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40392",
+      "url": "https://trueinterview.io/jobs/30828d4e-8252-4fa0-93d2-23769c51f95a",
       "postedAt": "2026-11-25T00:00:00.000Z",
       "updatedAt": "2026-11-25T00:00:00.000Z"
     },
