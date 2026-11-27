@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T13:10:01.308Z",
-  "count": 4520,
+  "listingsChangedAt": "2026-11-27T14:10:16.929Z",
+  "count": 4521,
   "listings": [
     {
       "id": "023186c0-fe4a-437f-88e6-1520a9df3ae5",
@@ -23589,9 +23589,7 @@
       "locations": [
         "Sunnyvale, TX, United States"
       ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
@@ -44485,33 +44483,6 @@
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
     {
-      "id": "06df4f51-97f9-46af-8d74-5b2dc7a25b5d",
-      "company": "Crossbeam",
-      "title": "Data Analyst, Revenue Operations Intern (M/F/X)",
-      "locations": [
-        "Paris, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.kula.ai/crossbeam/66895",
-      "url": "https://trueinterview.io/jobs/crossbeam-data-analyst-revenue-operations-intern-m-f-x-06df4f5197f9",
-      "postedAt": "2026-11-09T06:00:00.000Z",
-      "updatedAt": "2026-11-09T06:00:00.000Z"
-    },
-    {
       "id": "e274cd07-58c9-420c-89fc-580382d66a99",
       "company": "MT",
       "title": "Summer 2027 Intern - Embedded Software Engineering (Oakland, CA)",
@@ -57890,7 +57861,9 @@
       ],
       "cities": [
         "Chicago, IL",
-        "Boston, MA"
+        "Boston, MA",
+        "New York, NY",
+        "Los Angeles, CA"
       ],
       "countries": [
         "United States"
@@ -59232,7 +59205,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -59270,31 +59243,6 @@
       "url": "https://trueinterview.io/jobs/tiktok-usds-joint-venture-security-engineer-intern-security-fc06ea8b0252",
       "postedAt": "2026-11-04T12:11:00.000Z",
       "updatedAt": "2026-11-04T12:11:00.000Z"
-    },
-    {
-      "id": "0c0d5e8f-747c-43e3-ae33-671e0492446d",
-      "company": "Bosch",
-      "title": "Undergraduate Placement Year 2027 – Production Engineer",
-      "locations": [
-        "Chesterfield, England, United Kingdom"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000159615519-undergraduate-placement-year-2027-production-engineer",
-      "url": "https://trueinterview.io/jobs/bosch-undergraduate-placement-year-2027-production-engineer-0c0d5e8f747c",
-      "postedAt": "2026-11-04T12:10:52.000Z",
-      "updatedAt": "2026-11-04T12:10:52.000Z"
     },
     {
       "id": "4211a774-d0bc-4b69-83de-03a7628d3a65",
@@ -59380,6 +59328,31 @@
       "updatedAt": "2026-11-04T11:57:00.000Z"
     },
     {
+      "id": "cfa13877-e9c3-4245-942c-c7e954063763",
+      "company": "Pratt & Whitney",
+      "title": "Intern: Summer 2027 - Control/Diagnostic Software (Onsite)",
+      "locations": [
+        "Jupiter, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487235986/",
+      "url": "https://trueinterview.io/jobs/pratt-and-whitney-intern-summer-2027-control-diagnostic-software-cfa13877e9c3",
+      "postedAt": "2026-11-04T11:50:00.000Z",
+      "updatedAt": "2026-11-04T11:50:00.000Z"
+    },
+    {
       "id": "147bc7c3-d68c-44c0-b541-a607e95bbc67",
       "company": "Beckman Coulter Diagnostics",
       "title": "IT Data Analyst Intern",
@@ -59393,7 +59366,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59403,31 +59376,6 @@
       "url": "https://trueinterview.io/jobs/beckman-coulter-diagnostics-it-data-analyst-intern-147bc7c3d68c",
       "postedAt": "2026-11-04T11:37:00.000Z",
       "updatedAt": "2026-11-04T11:37:00.000Z"
-    },
-    {
-      "id": "db199445-0a8c-4eb8-b125-43efee7b890f",
-      "company": "Bosch",
-      "title": "Undergraduate Placement Year 2027 – Manufacturing Engineering Intern",
-      "locations": [
-        "Chesterfield, England, United Kingdom"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000159609659-undergraduate-placement-year-2027-manufacturing-engineering-intern",
-      "url": "https://trueinterview.io/jobs/bosch-undergraduate-placement-year-2027-manufacturing-engineering-db1994450a8c",
-      "postedAt": "2026-11-04T11:32:42.000Z",
-      "updatedAt": "2026-11-04T11:32:42.000Z"
     },
     {
       "id": "42f0a346-81ec-412a-9f6d-d63da77f7d9b",
@@ -59443,9 +59391,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59470,9 +59418,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59498,7 +59446,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Scientist",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -59507,6 +59455,33 @@
       "url": "https://trueinterview.io/jobs/ensemble-health-partners-data-scientist-intern-7a1c46976182",
       "postedAt": "2026-11-04T11:07:00.000Z",
       "updatedAt": "2026-11-04T11:07:00.000Z"
+    },
+    {
+      "id": "8e93e9fe-c941-469a-9be4-36400409efda",
+      "company": "Georgia Tech Research Institute",
+      "title": "Assured Software and Information Division Graduate Intern – Spring 2027 - CIPHER",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479206096/",
+      "url": "https://trueinterview.io/jobs/georgia-tech-research-institute-assured-software-and-information-8e93e9fec941",
+      "postedAt": "2026-11-04T10:44:00.000Z",
+      "updatedAt": "2026-11-04T10:44:00.000Z"
     },
     {
       "id": "be57c8c4-6ead-46a2-845e-d9d66f82965b",
@@ -59520,9 +59495,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59532,6 +59507,31 @@
       "url": "https://trueinterview.io/jobs/rivian-software-engineering-intern-enterprise-applications-spring-be57c8c46ead",
       "postedAt": "2026-11-04T10:28:00.000Z",
       "updatedAt": "2026-11-04T10:28:00.000Z"
+    },
+    {
+      "id": "3ae4f8e2-2db3-444d-b36f-5ba06906fe81",
+      "company": "FieldAI",
+      "title": "Robotics Research, Embodied AI Intern (Spring & Summer 2027)",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704",
+      "url": "https://trueinterview.io/jobs/fieldai-robotics-research-embodied-ai-intern-spring-and-summer-2027-3ae4f8e22db3",
+      "postedAt": "2026-11-04T10:25:00.000Z",
+      "updatedAt": "2026-11-04T10:25:00.000Z"
     },
     {
       "id": "ca58a2a6-88bc-4295-af30-6b2c5bbc171e",
@@ -59571,7 +59571,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -59582,6 +59582,31 @@
       "url": "https://trueinterview.io/jobs/medpace-python-developer-internship-summer-2027-5bd393727acb",
       "postedAt": "2026-11-04T10:22:00.000Z",
       "updatedAt": "2026-11-04T10:22:00.000Z"
+    },
+    {
+      "id": "059813fe-9963-49b1-aebf-72d3cdf8b2ae",
+      "company": "Optiver",
+      "title": "2027 Shanghai Performance Researcher Summer Internship",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467394705/",
+      "url": "https://trueinterview.io/jobs/optiver-2027-shanghai-performance-researcher-summer-internship-059813fe9963",
+      "postedAt": "2026-11-04T10:12:00.000Z",
+      "updatedAt": "2026-11-04T10:12:00.000Z"
     },
     {
       "id": "58583ed9-0dcc-4645-b152-104354969d2c",
@@ -59597,7 +59622,7 @@
       "remote": "onsite",
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Quantitative Trader",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59622,7 +59647,7 @@
       "remote": "onsite",
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Quantitative Trader",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -59650,7 +59675,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -95662,7 +95687,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -100744,12 +100771,9 @@
       "locations": [
         "Manchester, NH, United States"
       ],
-      "cities": [
-        "Manchester"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -102381,7 +102405,9 @@
       "locations": [
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
