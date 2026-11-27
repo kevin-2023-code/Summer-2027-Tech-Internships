@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T21:08:52.109Z",
-  "count": 4538,
+  "listingsChangedAt": "2026-11-27T22:09:11.488Z",
+  "count": 4536,
   "listings": [
+    {
+      "id": "552d7020-a5f8-4cf2-bd44-75a8aa9c571b",
+      "company": "Marketeq Talent",
+      "title": "Software QA Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495846754/",
+      "url": "https://trueinterview.io/jobs/marketeq-talent-software-qa-intern-u-s-a-only-552d7020a5f8",
+      "postedAt": "2026-11-27T20:18:00.000Z",
+      "updatedAt": "2026-11-27T20:18:00.000Z"
+    },
     {
       "id": "36270461-ab73-4cf8-88ee-81bef5705c6a",
       "company": "SAP",
@@ -92,7 +117,8 @@
       "company": "Celonis",
       "title": "Intern AI Solutions & Value Engineering (Agentic Customer Journey)",
       "locations": [
-        "Madrid, Community of Madrid, Spain"
+        "Madrid, Community of Madrid, Spain",
+        "Madrid, Spain"
       ],
       "cities": [
         "Madrid"
@@ -109,7 +135,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4494215423/",
+      "applyUrl": "https://job-boards.greenhouse.io/celonis/jobs/8213877003?gh_jid=8213877003",
       "url": "https://trueinterview.io/jobs/celonis-intern-ai-solutions-and-value-engineering-agentic-customer-aff40421ae75",
       "postedAt": "2026-11-27T18:13:00.000Z",
       "updatedAt": "2026-11-27T18:13:00.000Z"
@@ -366,6 +392,31 @@
       "url": "https://trueinterview.io/jobs/aether-field-ai-enablement-graduate-intern-ee816025893b",
       "postedAt": "2026-11-27T15:31:00.000Z",
       "updatedAt": "2026-11-27T15:31:00.000Z"
+    },
+    {
+      "id": "a2f38795-74fb-48a7-8238-f77428154c1c",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - IT End-User Support Associate (limited full-time)",
+      "locations": [
+        "Prague, Czechia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000164058979-sap-ixp-intern-it-end-user-support-associate-limited-full-time-",
+      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-sap-ixp-intern-it-end-user-support-a2f3879574fb",
+      "postedAt": "2026-11-27T15:17:55.000Z",
+      "updatedAt": "2026-11-27T15:17:55.000Z"
     },
     {
       "id": "cfe8af78-892a-4149-8423-9fa5107dbb70",
@@ -2368,7 +2419,7 @@
       "remote": "remote",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Engineer",
+      "role": "Data Analyst",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2394,7 +2445,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "IT & Support",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2968,6 +3019,33 @@
       "url": "https://trueinterview.io/jobs/xona-space-systems-software-engineering-engineering-productivity-b02a05759fce",
       "postedAt": "2026-11-25T19:32:27.000Z",
       "updatedAt": "2026-11-25T19:32:27.000Z"
+    },
+    {
+      "id": "c171ceed-b104-4d95-9659-edb5aca4bd1b",
+      "company": "Veolia",
+      "title": "Energy Management Co-Op",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751568-energy-management-co-op",
+      "url": "https://trueinterview.io/jobs/veolia-energy-management-co-op-c171ceedb104",
+      "postedAt": "2026-11-25T19:10:14.000Z",
+      "updatedAt": "2026-11-25T19:10:14.000Z"
     },
     {
       "id": "3dcb397e-95fe-4b42-a98f-73b01ac9ac88",
@@ -19812,7 +19890,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -49476,31 +49556,6 @@
       "updatedAt": "2026-11-06T19:58:00.000Z"
     },
     {
-      "id": "ca8c5a05-0101-4559-b734-763ad3edeb93",
-      "company": "National Laboratory of the Rockies",
-      "title": "Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity",
-      "locations": [
-        "Golden, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479151937/",
-      "url": "https://trueinterview.io/jobs/national-laboratory-of-the-rockies-graduate-10-12-weeks-intern-ai-ca8c5a050101",
-      "postedAt": "2026-11-06T19:56:00.000Z",
-      "updatedAt": "2026-11-06T19:56:00.000Z"
-    },
-    {
       "id": "a01ca690-2b7a-414b-84ab-2f09d575ad3e",
       "company": "Shure",
       "title": "Automated Test Software Engineering Intern",
@@ -52405,33 +52460,6 @@
       "url": "https://trueinterview.io/jobs/riverside-research-software-applications-intern-af5fbbf4ca1b",
       "postedAt": "2026-11-06T00:20:35.000Z",
       "updatedAt": "2026-11-06T00:20:35.000Z"
-    },
-    {
-      "id": "9b2fe2f8-ad03-4bbd-b56f-e13769d232f7",
-      "company": "Citi",
-      "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486926247/",
-      "url": "https://trueinterview.io/jobs/citi-markets-quantitative-analysis-summer-analyst-new-york-city-us-9b2fe2f8ad03",
-      "postedAt": "2026-11-06T00:18:00.000Z",
-      "updatedAt": "2026-11-06T00:18:00.000Z"
     },
     {
       "id": "9d664c2e-c6a2-4721-87cd-de5cb213b1bb",
@@ -94726,32 +94754,6 @@
       "updatedAt": "2026-10-28T15:36:00.000Z"
     },
     {
-      "id": "065b187f-259e-4a64-8a58-ec1b1213ff83",
-      "company": "NOV",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Houston, TX",
-        "Houston, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/44449",
-      "url": "https://trueinterview.io/jobs/nov-software-engineering-intern-065b187f259e",
-      "postedAt": "2026-10-28T15:22:00.000Z",
-      "updatedAt": "2026-10-28T15:22:00.000Z"
-    },
-    {
       "id": "453128b0-389e-44ad-a25d-7f824b9229a1",
       "company": "Tenstorrent",
       "title": "AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)",
@@ -117512,60 +117514,6 @@
       "url": "https://trueinterview.io/jobs/nvidia-phd-research-intern-ai-accelerator-design-and-vlsi-2027-95dbfbaf1c8c",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "3103bc83-c75d-45cc-b58e-edd946de7182",
-      "company": "Lyft",
-      "title": "Industrialization Engineer Intern (Summer 2027)",
-      "locations": [
-        "Longueuil, Canada",
-        "Longueuil Office"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
-      "url": "https://trueinterview.io/jobs/lyft-industrialization-engineer-intern-summer-2027-3103bc83c75d",
-      "postedAt": "2026-09-28T22:08:48.000Z",
-      "updatedAt": "2026-09-28T22:08:48.000Z"
-    },
-    {
-      "id": "efd81f7f-8f26-4a37-9be4-549cb527777d",
-      "company": "Lyft",
-      "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
-      "locations": [
-        "Toronto, Canada",
-        "Toronto Coworking"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
-      "url": "https://trueinterview.io/jobs/lyft-business-systems-engineer-intern-finance-technology-summer-efd81f7f8f26",
-      "postedAt": "2026-09-28T21:33:25.000Z",
-      "updatedAt": "2026-09-28T21:33:25.000Z"
     }
   ]
 }
