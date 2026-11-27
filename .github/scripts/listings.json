@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T06:16:10.184Z",
-  "count": 4505,
+  "listingsChangedAt": "2026-11-27T07:11:13.766Z",
+  "count": 4502,
   "listings": [
+    {
+      "id": "1c6e559a-9e29-4580-8dd2-4ccfce6fbf10",
+      "company": "Vigilon Cyber",
+      "title": "Cyber Security Engineer Intern",
+      "locations": [
+        "St. Petersburg, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495574751/",
+      "url": "https://trueinterview.io/jobs/vigilon-cyber-cyber-security-engineer-intern-1c6e559a9e29",
+      "postedAt": "2026-11-27T06:07:00.000Z",
+      "updatedAt": "2026-11-27T06:07:00.000Z"
+    },
+    {
+      "id": "9715da3a-33e2-48a7-a8a2-8030514a5787",
+      "company": "Northrop Grumman",
+      "title": "2027 Configuration Management Data Analyst Intern - Falls Church VA",
+      "locations": [
+        "Falls Church, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "IT & Support",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495590266/",
+      "url": "https://trueinterview.io/jobs/northrop-grumman-2027-configuration-management-data-analyst-intern-9715da3a33e2",
+      "postedAt": "2026-11-27T05:44:00.000Z",
+      "updatedAt": "2026-11-27T05:44:00.000Z"
+    },
     {
       "id": "6bfab6bd-f7a0-4164-8f89-c873662e6cf5",
       "company": "JPMorganChase",
@@ -3793,7 +3843,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3896,9 +3946,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4336,7 +4386,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Product & Design",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4480,6 +4530,33 @@
       "updatedAt": "2026-11-24T06:00:00.000Z"
     },
     {
+      "id": "be8870f3-dcd5-4e46-a20d-4a4ad50315dc",
+      "company": "Syenta",
+      "title": "Metrology Technician (Part Time - Internship)",
+      "locations": [
+        "Sydney, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/syenta/70407901-b4e8-4da2-a762-24763280d299",
+      "url": "https://trueinterview.io/jobs/syenta-metrology-technician-part-time-internship-be8870f3dcd5",
+      "postedAt": "2026-11-24T06:00:00.000Z",
+      "updatedAt": "2026-11-24T06:00:00.000Z"
+    },
+    {
       "id": "51f23ee9-5f37-440d-8120-a7a9bd3f87ca",
       "company": "Technip Energies",
       "title": "Internship – Digitalization of Documentation for Ethane Cracker Proposals - F/M",
@@ -4516,9 +4593,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -13802,7 +13879,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -81634,81 +81713,6 @@
       "updatedAt": "2026-10-29T15:30:00.000Z"
     },
     {
-      "id": "bd53629f-23cd-4381-b500-5630c4bb42d9",
-      "company": "JR Automation",
-      "title": "Applications Engineering Internship/Co-op",
-      "locations": [
-        "Holland, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484973455/",
-      "url": "https://trueinterview.io/jobs/jr-automation-applications-engineering-internship-co-op-bd53629f23cd",
-      "postedAt": "2026-10-29T15:29:00.000Z",
-      "updatedAt": "2026-10-29T15:29:00.000Z"
-    },
-    {
-      "id": "b6081c05-4f7e-4e6a-a0fb-07136897d5dd",
-      "company": "JR Automation",
-      "title": "Co-op - Component Engineering",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484966796/",
-      "url": "https://trueinterview.io/jobs/jr-automation-co-op-component-engineering-b6081c054f7e",
-      "postedAt": "2026-10-29T15:29:00.000Z",
-      "updatedAt": "2026-10-29T15:29:00.000Z"
-    },
-    {
-      "id": "ecd738cd-9e1e-4ed2-a203-dd2e3c86704b",
-      "company": "Sandhills Global",
-      "title": "Data Scientist Intern - In Office, Scottsdale, AZ only",
-      "locations": [
-        "Scottsdale, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4447368270/",
-      "url": "https://trueinterview.io/jobs/sandhills-global-data-scientist-intern-in-office-scottsdale-az-only-ecd738cd9e1e",
-      "postedAt": "2026-10-29T15:29:00.000Z",
-      "updatedAt": "2026-10-29T15:29:00.000Z"
-    },
-    {
       "id": "6a0a01f4-c07e-45d9-8938-e2a41f1d35b3",
       "company": "Grimco, Inc.",
       "title": "IT Support Intern",
@@ -98583,56 +98587,6 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
-      "id": "2bf69c4b-a9b7-489c-998f-7b77b292c58d",
-      "company": "Ciena",
-      "title": "Intern - Software Developer Technician",
-      "locations": [
-        "Quebec City, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
-      "url": "https://trueinterview.io/jobs/ciena-intern-software-developer-technician-2bf69c4ba9b7",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
-      "id": "0bfb265d-9a90-4865-95e7-63db1f14f38b",
-      "company": "City of Cincinnati",
-      "title": "COLLEGE CO-OP (WASTEWATER ENGINEERING) Project Management",
-      "locations": [
-        "Cincinnati, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.governmentjobs.com/careers/cincinnati/jobs/5529891/college-co-op-wastewater-engineering-project-management",
-      "url": "https://trueinterview.io/jobs/city-of-cincinnati-college-co-op-wastewater-engineering-project-0bfb265d9a90",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
       "id": "ac4cb1a8-1afb-4858-82b7-ec0d6cb0d498",
       "company": "City of Cincinnati",
       "title": "COLLEGE CO-OP WASTEWATER ENGINEERING (GIS/Acoustic Sound/LiDar)",
@@ -98906,31 +98860,6 @@
       "source": "indeed",
       "applyUrl": "https://jpmorganchase.contacthr.com/154044752",
       "url": "https://trueinterview.io/jobs/jpmorganchase-2027-machine-learning-center-of-excellence-time-6714a10e83e8",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
-      "id": "f5394e03-4b4f-46e9-8c25-0aa2eb065a13",
-      "company": "Mayo Clinic",
-      "title": "Graduate Engineering Intern - Software Development",
-      "locations": [
-        "Rochester, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.mayoclinic.org/job/rochester/graduate-engineering-intern-software-development/33647/102511819760",
-      "url": "https://trueinterview.io/jobs/mayo-clinic-graduate-engineering-intern-software-development-f5394e034b4f",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -116421,7 +116350,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
