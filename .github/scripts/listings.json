@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T08:13:08.199Z",
+  "listingsChangedAt": "2026-11-27T09:11:00.571Z",
   "count": 4512,
   "listings": [
     {
@@ -57,6 +57,31 @@
       "url": "https://trueinterview.io/jobs/biospace-2027-summer-intern-nces-statistician-expert-in-ai-4cf60fc25db1",
       "postedAt": "2026-11-27T06:13:00.000Z",
       "updatedAt": "2026-11-27T06:13:00.000Z"
+    },
+    {
+      "id": "fff6247f-3959-4361-aa9f-9062503540bb",
+      "company": "Bosch",
+      "title": "Internship 2027 (International), Engineering in Manufacturing, Power Solutions (HmjP/PJM1)",
+      "locations": [
+        "Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000163965739-internship-2027-international-engineering-in-manufacturing-power-solutions-hmjp-pjm1-",
+      "url": "https://trueinterview.io/jobs/bosch-internship-2027-international-engineering-in-manufacturing-fff6247f3959",
+      "postedAt": "2026-11-27T06:11:17.000Z",
+      "updatedAt": "2026-11-27T06:11:17.000Z"
     },
     {
       "id": "1c6e559a-9e29-4580-8dd2-4ccfce6fbf10",
@@ -3777,33 +3802,6 @@
       "updatedAt": "2026-11-24T09:52:16.000Z"
     },
     {
-      "id": "ef946fca-7d1f-4239-ae04-a7453a4c9387",
-      "company": "SAP IT Business Systeme",
-      "title": "Full Stack Developer Intern (AI topics)",
-      "locations": [
-        "Singapore, Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000163397919-full-stack-developer-intern-ai-topics-",
-      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-full-stack-developer-intern-ai-topics-ef946fca7d1f",
-      "postedAt": "2026-11-24T07:57:57.000Z",
-      "updatedAt": "2026-11-24T07:57:57.000Z"
-    },
-    {
       "id": "2a0a5a80-5b9d-461a-876d-2417ddb0fc66",
       "company": "Bosch",
       "title": "【VM/EQM1-JP】Internship at the Vehicle Motion Engineering Quality Management",
@@ -4948,7 +4946,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4998,7 +4996,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5125,7 +5123,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5134,6 +5132,31 @@
       "source": "career-sites",
       "applyUrl": "https://lockheed.jobs.hr.cloud.sap/job/Systems-Engineering-Intern/27769-en_US",
       "url": "https://trueinterview.io/jobs/lockheed-martin-job-title-systems-engineering-intern-d5806a8b6146",
+      "postedAt": "2026-11-24T00:00:00.000Z",
+      "updatedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "id": "6bc7a911-eb6e-47d9-ad52-3b6ffd08b964",
+      "company": "Lockheed Martin",
+      "title": "Job Title: Test/Networking Intern",
+      "locations": [
+        "King of Prussia, PA, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://lockheed.jobs.hr.cloud.sap/job/TestNetworking-Intern/22836-en_US",
+      "url": "https://trueinterview.io/jobs/lockheed-martin-job-title-test-networking-intern-6bc7a911eb6e",
       "postedAt": "2026-11-24T00:00:00.000Z",
       "updatedAt": "2026-11-24T00:00:00.000Z"
     },
@@ -5149,9 +5172,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5175,7 +5198,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5295,33 +5318,6 @@
       "updatedAt": "2026-11-23T23:42:27.000Z"
     },
     {
-      "id": "5f03716b-ad31-4e65-a484-3157c2e74ea6",
-      "company": "Illumio",
-      "title": "Technical Program Manager Intern",
-      "locations": [
-        "Sunnyvale, California - HQ"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/illumio/c7efc869-b5da-48ca-a6ce-defc15525a34",
-      "url": "https://trueinterview.io/jobs/illumio-technical-program-manager-intern-5f03716bad31",
-      "postedAt": "2026-11-23T23:31:26.000Z",
-      "updatedAt": "2026-11-23T23:31:26.000Z"
-    },
-    {
       "id": "e4ee83b3-0b53-405f-855e-c127b837cae2",
       "company": "Contoro Inc.",
       "title": "Robotics Software Engineer Intern, Autonomy [Automation]",
@@ -5389,7 +5385,7 @@
       "remote": "hybrid",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Scientist",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5399,6 +5395,60 @@
       "url": "https://trueinterview.io/jobs/capital-technology-group-summer-internship-data-engineering-da5c92e37582",
       "postedAt": "2026-11-23T21:32:43.000Z",
       "updatedAt": "2026-11-23T21:32:43.000Z"
+    },
+    {
+      "id": "f7a93622-0f04-438d-815a-f24e534e2ac5",
+      "company": "Capital Technology Group",
+      "title": "Summer Internship - Software Development",
+      "locations": [
+        "Hybrid (Silver Spring, MD)",
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007",
+      "url": "https://trueinterview.io/jobs/capital-technology-group-summer-internship-software-development-f7a936220f04",
+      "postedAt": "2026-11-23T21:32:28.000Z",
+      "updatedAt": "2026-11-23T21:32:28.000Z"
+    },
+    {
+      "id": "1e01658d-b3d4-4950-bd64-6ea24dbbf687",
+      "company": "Brave",
+      "title": "Software Development Intern - Waterloo University - Web3 Core",
+      "locations": [
+        "Canada",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/brave/jobs/8412532",
+      "url": "https://trueinterview.io/jobs/brave-software-development-intern-waterloo-university-web3-core-1e01658db3d4",
+      "postedAt": "2026-11-23T21:31:25.000Z",
+      "updatedAt": "2026-11-23T21:31:25.000Z"
     },
     {
       "id": "79fca948-e523-4211-bba4-d5d413662efc",
@@ -5414,9 +5464,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5440,7 +5490,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5476,6 +5526,29 @@
       "url": "https://trueinterview.io/jobs/milliman-data-scientist-intern-5732d4726c0d",
       "postedAt": "2026-11-23T19:07:31.000Z",
       "updatedAt": "2026-11-23T19:07:31.000Z"
+    },
+    {
+      "id": "9bbaf993-1766-4d4f-95b4-b2e795915869",
+      "company": "Spanglish Events",
+      "title": "AI & Web Development Intern (Remote or Medellín, Colombia)",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=3fb215f5d81b3a0b",
+      "url": "https://trueinterview.io/jobs/spanglish-events-ai-and-web-development-intern-remote-or-medellin-9bbaf9931766",
+      "postedAt": "2026-11-23T18:46:11.000Z",
+      "updatedAt": "2026-11-23T18:46:11.000Z"
     },
     {
       "id": "1c933fd9-af4c-401e-9149-e68765f5f1a8",
@@ -5649,7 +5722,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5660,6 +5733,31 @@
       "url": "https://trueinterview.io/jobs/aecom-engineering-intern-i-13a34f82bd76",
       "postedAt": "2026-11-23T16:54:11.000Z",
       "updatedAt": "2026-11-23T16:54:11.000Z"
+    },
+    {
+      "id": "ebe76d65-533f-4c35-b5f7-309fe7181768",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - Strategic AI Initiatives",
+      "locations": [
+        "New York – Hudson Yards, New York, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000163268054-sap-ixp-intern-strategic-ai-initiatives",
+      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-sap-ixp-intern-strategic-ai-initiatives-ebe76d65533f",
+      "postedAt": "2026-11-23T16:18:18.000Z",
+      "updatedAt": "2026-11-23T16:18:18.000Z"
     },
     {
       "id": "72568422-c88b-4118-8d33-4178a79d8602",
@@ -15365,30 +15463,6 @@
       "updatedAt": "2026-11-18T17:00:00.000Z"
     },
     {
-      "id": "b49f6a30-f095-4525-9b54-9798aa3510ee",
-      "company": "Asymmetrica Investments AG",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Remote",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=646b8a5ceaa1d38c",
-      "url": "https://trueinterview.io/jobs/asymmetrica-investments-ag-software-engineering-intern-b49f6a30f095",
-      "postedAt": "2026-11-18T16:53:52.000Z",
-      "updatedAt": "2026-11-18T16:53:52.000Z"
-    },
-    {
       "id": "18603344-9231-4df5-9726-49fa7b19cd37",
       "company": "Futurepillar",
       "title": "Full Stack Software Engineer Intern - Summer 2027",
@@ -20124,7 +20198,9 @@
         "Santa Clara, CALIFORNIA, United States",
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -76540,31 +76616,6 @@
       "updatedAt": "2026-10-30T00:58:00.000Z"
     },
     {
-      "id": "97cc1a42-3ac8-4538-823f-97a0be6f3138",
-      "company": "Loft Orbital",
-      "title": "Summer 2027 Internship – Mechanical Engineering",
-      "locations": [
-        "Golden, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/loftorbital/34edd0b7-2a5b-4efa-a379-860097784534",
-      "url": "https://trueinterview.io/jobs/loft-orbital-summer-2027-internship-mechanical-engineering-97cc1a423ac8",
-      "postedAt": "2026-10-30T00:58:00.000Z",
-      "updatedAt": "2026-10-30T00:58:00.000Z"
-    },
-    {
       "id": "d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b",
       "company": "Mission Technologies, a division of HII",
       "title": "Software Engineer, Intern - Summer 2027 - 30942",
@@ -76686,31 +76737,6 @@
       "url": "https://trueinterview.io/jobs/v2x-inc-project-engineering-intern-college-career-fair-6c383f66ddcf",
       "postedAt": "2026-10-30T00:47:00.000Z",
       "updatedAt": "2026-10-30T00:47:00.000Z"
-    },
-    {
-      "id": "96f05c60-c052-4ea1-a6d7-bc8bd8f3748c",
-      "company": "Loft Orbital",
-      "title": "Summer 2027 Internship – Test Engineering",
-      "locations": [
-        "Golden, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9",
-      "url": "https://trueinterview.io/jobs/loft-orbital-summer-2027-internship-test-engineering-96f05c60c052",
-      "postedAt": "2026-10-30T00:44:00.000Z",
-      "updatedAt": "2026-10-30T00:44:00.000Z"
     },
     {
       "id": "3a56b46e-08d0-4198-a7a2-dc3aa049f741",
@@ -77247,31 +77273,6 @@
       "url": "https://trueinterview.io/jobs/sharkninja-france-spring-2027-product-design-engineering-co-op-44020652fadc",
       "postedAt": "2026-10-30T00:35:00.000Z",
       "updatedAt": "2026-10-30T00:35:00.000Z"
-    },
-    {
-      "id": "b6c95ae3-cd57-4309-b2d2-0a0641c6c508",
-      "company": "Loft Orbital Solutions",
-      "title": "Summer 2027 Internship – Thermal & Manufacturing Engineering",
-      "locations": [
-        "Golden, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71",
-      "url": "https://trueinterview.io/jobs/loft-orbital-solutions-summer-2027-internship-thermal-b6c95ae3cd57",
-      "postedAt": "2026-10-30T00:33:01.000Z",
-      "updatedAt": "2026-10-30T00:33:01.000Z"
     },
     {
       "id": "4a897e0a-b81b-4407-8a61-faff155fa714",
