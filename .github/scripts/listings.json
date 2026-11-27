@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T22:09:11.488Z",
-  "count": 4536,
+  "listingsChangedAt": "2026-11-27T23:08:41.878Z",
+  "count": 4539,
   "listings": [
+    {
+      "id": "d9e0632c-f4bd-4d2b-9178-d03dafe98ea5",
+      "company": "Stevens Capital Management",
+      "title": "Developer Internship",
+      "locations": [
+        "Radnor, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/scm/jobs/721888",
+      "url": "https://trueinterview.io/jobs/stevens-capital-management-developer-internship-d9e0632cf4bd",
+      "postedAt": "2026-11-27T22:43:40.000Z",
+      "updatedAt": "2026-11-27T22:43:40.000Z"
+    },
+    {
+      "id": "79b0c69b-e54a-4a16-a7b4-85855c7f7c79",
+      "company": "Stevens Capital Management",
+      "title": "Quantitative Research Analyst Internship",
+      "locations": [
+        "Radnor, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/scm/jobs/721895",
+      "url": "https://trueinterview.io/jobs/stevens-capital-management-quantitative-research-analyst-internship-79b0c69be54a",
+      "postedAt": "2026-11-27T22:43:40.000Z",
+      "updatedAt": "2026-11-27T22:43:40.000Z"
+    },
     {
       "id": "552d7020-a5f8-4cf2-bd44-75a8aa9c571b",
       "company": "Marketeq Talent",
@@ -3428,9 +3478,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3661,7 +3711,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -28056,6 +28106,31 @@
       "updatedAt": "2026-11-13T21:29:00.000Z"
     },
     {
+      "id": "2a4527d7-c1b2-4cd2-9c12-b6ff8e16c6eb",
+      "company": "ExodusPoint Capital",
+      "title": "Quantitative Internship – Hong Kong",
+      "locations": [
+        "Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+      "url": "https://trueinterview.io/jobs/exoduspoint-capital-quantitative-internship-hong-kong-2a4527d7c1b2",
+      "postedAt": "2026-11-13T21:13:38.000Z",
+      "updatedAt": "2026-11-13T21:13:38.000Z"
+    },
+    {
       "id": "1aad881a-efed-4c6f-a3a2-61d3d709c84d",
       "company": "Munich Re",
       "title": "Application Support Intern",
@@ -46681,7 +46756,9 @@
       "locations": [
         "Menlo Park, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Menlo Park, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -59864,35 +59941,6 @@
       "updatedAt": "2026-11-04T12:11:00.000Z"
     },
     {
-      "id": "4211a774-d0bc-4b69-83de-03a7628d3a65",
-      "company": "Roku",
-      "title": "Software Engineering Internship Program (Summer 2027)",
-      "locations": [
-        "Cambridge, United Kingdom",
-        "Manchester, United Kingdom"
-      ],
-      "cities": [
-        "Cambridge",
-        "Manchester"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
-      "url": "https://trueinterview.io/jobs/roku-software-engineering-internship-program-summer-2027-4211a774d0bc",
-      "postedAt": "2026-11-04T11:58:10.000Z",
-      "updatedAt": "2026-11-04T11:59:03.000Z"
-    },
-    {
       "id": "ade32c38-efc3-437d-b177-d85d60522f9b",
       "company": "Meta",
       "title": "Research Scientist Intern, Ads Quality (PhD)",
@@ -60276,35 +60324,6 @@
       "url": "https://trueinterview.io/jobs/optiver-quantitative-trading-internship-taiwan-2027-5a79bfe899f6",
       "postedAt": "2026-11-04T10:12:00.000Z",
       "updatedAt": "2026-11-04T10:12:00.000Z"
-    },
-    {
-      "id": "6ba5009c-0bfb-4bd4-b72f-70aa59583577",
-      "company": "Roku",
-      "title": "AI Engineering Internship Program (Summer 2027)",
-      "locations": [
-        "Manchester, United Kingdom",
-        "Cambridge, United Kingdom"
-      ],
-      "cities": [
-        "Manchester",
-        "Cambridge"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
-      "url": "https://trueinterview.io/jobs/roku-ai-engineering-internship-program-summer-2027-6ba5009c0bfb",
-      "postedAt": "2026-11-04T10:10:25.000Z",
-      "updatedAt": "2026-11-04T10:10:25.000Z"
     },
     {
       "id": "54946cac-8765-4c9a-9c35-61f9f70c418a",
@@ -79403,7 +79422,9 @@
         "San Mateo, CA",
         "San Mateo County, CA"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -94754,6 +94775,32 @@
       "updatedAt": "2026-10-28T15:36:00.000Z"
     },
     {
+      "id": "065b187f-259e-4a64-8a58-ec1b1213ff83",
+      "company": "NOV",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Houston, TX",
+        "Houston, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/44449",
+      "url": "https://trueinterview.io/jobs/nov-software-engineering-intern-065b187f259e",
+      "postedAt": "2026-10-28T15:22:00.000Z",
+      "updatedAt": "2026-10-28T15:22:00.000Z"
+    },
+    {
       "id": "453128b0-389e-44ad-a25d-7f824b9229a1",
       "company": "Tenstorrent",
       "title": "AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA)",
@@ -102172,7 +102219,9 @@
       "locations": [
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -109584,6 +109633,33 @@
       "url": "https://trueinterview.io/jobs/western-digital-spring-co-op-recording-electronics-data-analytics-01b4515569b7",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "f77d5495-c54b-4aee-b257-c0fb96286aa3",
+      "company": "Hex",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+      "url": "https://trueinterview.io/jobs/hex-ai-engineer-intern-f77d5495c54b",
+      "postedAt": "2026-10-12T22:39:24.000Z",
+      "updatedAt": "2026-10-12T22:39:24.000Z"
     },
     {
       "id": "021a7b61-f472-4ac6-acb2-da536124a6b8",
