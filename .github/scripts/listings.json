@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T16:10:32.469Z",
-  "count": 4526,
+  "listingsChangedAt": "2026-11-27T17:08:49.767Z",
+  "count": 4528,
   "listings": [
     {
       "id": "4a013945-c563-40f4-a61a-e848b4d8b389",
@@ -57,6 +57,34 @@
       "url": "https://trueinterview.io/jobs/sap-it-business-systeme-diploma-student-intern-sap-and-ai-917a10a754f7",
       "postedAt": "2026-11-27T05:16:44.000Z",
       "updatedAt": "2026-11-27T13:39:17.000Z"
+    },
+    {
+      "id": "ae8fa41d-b4ca-4850-9511-52b812cc70b7",
+      "company": "Voodoo",
+      "title": "Product Data Analyst - Midcore & Puzzle Games - Internship",
+      "locations": [
+        "Paris",
+        "Lisboa"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/voodoo/517d9ff3-7632-4225-a31e-3f1da873d157",
+      "url": "https://trueinterview.io/jobs/voodoo-product-data-analyst-midcore-and-puzzle-games-internship-ae8fa41db4ca",
+      "postedAt": "2026-11-27T13:37:03.000Z",
+      "updatedAt": "2026-11-27T13:37:03.000Z"
     },
     {
       "id": "13074d01-ac73-4e48-9266-2c3d59b6c3bc",
@@ -60166,9 +60194,9 @@
         "France"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -60396,7 +60424,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -60457,6 +60485,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.roche.com/de/de/job/202610-127127",
       "url": "https://trueinterview.io/jobs/roche-internship-process-engineer-for-12-months-in-basel-a65b1050f080",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "7e3eeaaf-1730-45d4-abb2-4a3e6bea1b54",
+      "company": "Skyworks Solutions",
+      "title": "RF Design Automation & Validation Summer/Fall Co-Op (June - Dec '27)",
+      "locations": [
+        "Andover, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.skyworksinc.com/job/RF-Design-Automation-&-Validation-SummerFall-Co-Op-%28June-Dec-'27%29/78990-en_US",
+      "url": "https://trueinterview.io/jobs/skyworks-solutions-rf-design-automation-and-validation-summer-fall-7e3eeaaf1730",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -60526,7 +60579,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -60553,7 +60606,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -76589,7 +76642,8 @@
         "Cambridge"
       ],
       "countries": [
-        "Germany"
+        "Germany",
+        "United Kingdom"
       ],
       "remote": "onsite",
       "category": "Data & AI",
@@ -100359,7 +100413,9 @@
         "Seattle, WA, United States"
       ],
       "cities": [
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "New York, NY",
+        "Seattle, WA"
       ],
       "countries": [
         "United States"
