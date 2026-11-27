@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T15:09:23.853Z",
-  "count": 4525,
+  "listingsChangedAt": "2026-11-27T16:10:32.469Z",
+  "count": 4526,
   "listings": [
     {
       "id": "4a013945-c563-40f4-a61a-e848b4d8b389",
@@ -32,6 +32,56 @@
       "url": "https://trueinterview.io/jobs/tomtom-software-engineering-intern-4a013945c563",
       "postedAt": "2026-11-27T14:16:20.000Z",
       "updatedAt": "2026-11-27T14:16:20.000Z"
+    },
+    {
+      "id": "917a10a7-54f7-4d72-ab29-1c0c90398377",
+      "company": "SAP IT Business Systeme",
+      "title": "Diploma Student / Intern-SAP & AI Development Intern – Oil & Gas Field Logistics",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000163962509-diploma-student-intern-sap-ai-development-intern-oil-gas-field-logistics",
+      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-diploma-student-intern-sap-and-ai-917a10a754f7",
+      "postedAt": "2026-11-27T05:16:44.000Z",
+      "updatedAt": "2026-11-27T13:39:17.000Z"
+    },
+    {
+      "id": "13074d01-ac73-4e48-9266-2c3d59b6c3bc",
+      "company": "SAP IT Business Systeme",
+      "title": "Internship – Research Intern & Machine Learning Scientist",
+      "locations": [
+        "Levallois-Perret, Île-de-France, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000164019029-internship-research-intern-machine-learning-scientist",
+      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-internship-research-intern-and-machine-13074d01ac73",
+      "postedAt": "2026-11-27T11:56:23.000Z",
+      "updatedAt": "2026-11-27T11:56:23.000Z"
     },
     {
       "id": "023186c0-fe4a-437f-88e6-1520a9df3ae5",
@@ -207,31 +257,6 @@
       "url": "https://trueinterview.io/jobs/northrop-grumman-2027-configuration-management-data-analyst-intern-9715da3a33e2",
       "postedAt": "2026-11-27T05:44:00.000Z",
       "updatedAt": "2026-11-27T05:44:00.000Z"
-    },
-    {
-      "id": "917a10a7-54f7-4d72-ab29-1c0c90398377",
-      "company": "SAP IT Business Systeme",
-      "title": "Diploma Student / Intern-SAP & AI Development Intern – Oil & Gas Field Logistics",
-      "locations": [
-        "Bangalore, India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000163962509-diploma-student-intern-sap-ai-development-intern-oil-gas-field-logistics",
-      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-diploma-student-intern-sap-and-ai-917a10a754f7",
-      "postedAt": "2026-11-27T05:16:44.000Z",
-      "updatedAt": "2026-11-27T05:16:44.000Z"
     },
     {
       "id": "6bfab6bd-f7a0-4164-8f89-c873662e6cf5",
@@ -14815,7 +14840,9 @@
       "locations": [
         "Santa Clara, CA, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -38162,31 +38189,6 @@
       "updatedAt": "2026-11-11T10:13:00.000Z"
     },
     {
-      "id": "c6663aa6-fd60-4ee0-9aaa-3ea3befa0c91",
-      "company": "SAP IT Business Systeme",
-      "title": "AI Developer – Student Internship (Joule Studio)",
-      "locations": [
-        "Sofia, Sofia City Province, Bulgaria"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160896559-ai-developer-student-internship-",
-      "url": "https://trueinterview.io/jobs/sap-it-business-systeme-ai-developer-student-internship-joule-c6663aa6fd60",
-      "postedAt": "2026-11-10T14:54:23.000Z",
-      "updatedAt": "2026-11-11T10:12:21.000Z"
-    },
-    {
       "id": "ee88c224-550b-4b20-b5ea-7ebae302eb31",
       "company": "Bosch",
       "title": "Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis",
@@ -60178,6 +60180,33 @@
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
+      "id": "08ac8fa5-382b-4580-a5b5-8fe0fad3b6e0",
+      "company": "caravelo",
+      "title": "Internship Customer Support - Customer Operations",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://t.gohiring.com/h/32a82d8c29a4145e8dc2231840840d9d7400762e10550bd1fcf0948d0fde8775",
+      "url": "https://trueinterview.io/jobs/caravelo-internship-customer-support-customer-operations-08ac8fa5382b",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "ad2e24c5-1d4c-462c-b2d1-47bc16faa56b",
       "company": "Charter Manufacturing",
       "title": "Automation and Controls Engineer Intern - Year Round",
@@ -60267,7 +60296,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -60457,6 +60486,31 @@
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
+      "id": "2feae985-e244-4b0c-8d92-b5237542e881",
+      "company": "Swiss Re",
+      "title": "Group Underwriting Intern, Zurich (Zurich, CH)",
+      "locations": [
+        "Zürich, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.swissre.com/careers/job/Group-Underwriting-Intern/1454221533",
+      "url": "https://trueinterview.io/jobs/swiss-re-group-underwriting-intern-zurich-zurich-ch-2feae985e244",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "6f1834a7-2467-4b59-8365-bf2849f29be0",
       "company": "Teledyne FLIR",
       "title": "Software Engineering Coop",
@@ -60525,9 +60579,9 @@
         "Canada"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -71483,7 +71537,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -117201,40 +117257,6 @@
       "url": "https://trueinterview.io/jobs/man-group-investment-risk-2027-summer-internship-456c72183f9e",
       "postedAt": "2026-09-28T17:09:06.000Z",
       "updatedAt": "2026-09-28T17:09:06.000Z"
-    },
-    {
-      "id": "8628193c-cf7a-427e-a203-968b172fd64d",
-      "company": "Morrison Maierle",
-      "title": "Civil Engineer Internship",
-      "locations": [
-        "Spokane, WA",
-        "Bozeman, MT",
-        "Sheridan, WY",
-        "Gillette, WY",
-        "Bend, OR",
-        "Kalispell, MT",
-        "Helena, MT",
-        "Great Falls, MT",
-        "Billings, MT",
-        "Missoula, MT"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422540009",
-      "url": "https://trueinterview.io/jobs/morrison-maierle-civil-engineer-internship-8628193ccf7a",
-      "postedAt": "2026-09-28T15:34:46.000Z",
-      "updatedAt": "2026-09-28T15:50:11.000Z"
     }
   ]
 }
