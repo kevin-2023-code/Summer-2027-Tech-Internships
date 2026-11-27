@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T07:11:13.766Z",
-  "count": 4502,
+  "listingsChangedAt": "2026-11-27T08:13:08.199Z",
+  "count": 4512,
   "listings": [
+    {
+      "id": "39c09d47-6846-4a33-a097-4024c4f45ca1",
+      "company": "Archer",
+      "title": "Information Security Engineer Intern",
+      "locations": [
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495082289/",
+      "url": "https://trueinterview.io/jobs/archer-information-security-engineer-intern-39c09d476846",
+      "postedAt": "2026-11-27T06:42:00.000Z",
+      "updatedAt": "2026-11-27T06:42:00.000Z"
+    },
+    {
+      "id": "4cf60fc2-5db1-4e1f-9ec2-97e7431fdaca",
+      "company": "BioSpace",
+      "title": "2027 Summer Intern NCES statistician expert in AI Cambridge MA",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495573742/",
+      "url": "https://trueinterview.io/jobs/biospace-2027-summer-intern-nces-statistician-expert-in-ai-4cf60fc25db1",
+      "postedAt": "2026-11-27T06:13:00.000Z",
+      "updatedAt": "2026-11-27T06:13:00.000Z"
+    },
     {
       "id": "1c6e559a-9e29-4580-8dd2-4ccfce6fbf10",
       "company": "Vigilon Cyber",
@@ -3985,6 +4035,31 @@
       "updatedAt": "2026-11-24T06:00:00.000Z"
     },
     {
+      "id": "ef6aebfe-1290-4119-9a4e-52e196bb57d7",
+      "company": "Capital Blue Cross",
+      "title": "Intern-AI-Assisted Development",
+      "locations": [
+        "Harrisburg, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-capbluecross.icims.com/jobs/5237/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/capital-blue-cross-intern-ai-assisted-development-ef6aebfe1290",
+      "postedAt": "2026-11-24T06:00:00.000Z",
+      "updatedAt": "2026-11-24T06:00:00.000Z"
+    },
+    {
       "id": "23ed606c-c564-4ce9-b10a-0ee9abaae760",
       "company": "comstruct ICT",
       "title": "Architecture Intern - AI Building Design",
@@ -4031,6 +4106,31 @@
       "source": "indeed",
       "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Data-and-Business-Intelligence-Analyst--Intern_R0151457",
       "url": "https://trueinterview.io/jobs/hitachi-energy-data-and-business-intelligence-analyst-intern-b99250055fcb",
+      "postedAt": "2026-11-24T06:00:00.000Z",
+      "updatedAt": "2026-11-24T06:00:00.000Z"
+    },
+    {
+      "id": "d3423434-d998-40fb-9db4-07fe5265a990",
+      "company": "Hong Kong Productivity Council",
+      "title": "Intern, (Tech) HealthTech and TCM",
+      "locations": [
+        "Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.hkpc.org/job/Intern%2C-%28Tech%29-HealthTech-and-TCM/1370822966/",
+      "url": "https://trueinterview.io/jobs/hong-kong-productivity-council-intern-tech-healthtech-and-tcm-d3423434d998",
       "postedAt": "2026-11-24T06:00:00.000Z",
       "updatedAt": "2026-11-24T06:00:00.000Z"
     },
@@ -4204,9 +4304,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4694,7 +4794,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4771,7 +4871,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4795,9 +4895,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4922,9 +5022,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5100,7 +5200,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -12672,12 +12772,9 @@
       "locations": [
         "Brisbane, CA"
       ],
-      "cities": [
-        "Brisbane"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "Australia"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Software",
@@ -66857,12 +66954,9 @@
       "locations": [
         "Cambridge, MA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -77836,7 +77930,8 @@
         "McLean, VA"
       ],
       "cities": [
-        "San Jose, CA"
+        "San Jose, CA",
+        "New York, NY"
       ],
       "countries": [
         "United States"
@@ -81711,6 +81806,81 @@
       "url": "https://trueinterview.io/jobs/south-jersey-industries-renewable-energy-engineering-process-safety-7ac43e71c200",
       "postedAt": "2026-10-29T15:30:00.000Z",
       "updatedAt": "2026-10-29T15:30:00.000Z"
+    },
+    {
+      "id": "bd53629f-23cd-4381-b500-5630c4bb42d9",
+      "company": "JR Automation",
+      "title": "Applications Engineering Internship/Co-op",
+      "locations": [
+        "Holland, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484973455/",
+      "url": "https://trueinterview.io/jobs/jr-automation-applications-engineering-internship-co-op-bd53629f23cd",
+      "postedAt": "2026-10-29T15:29:00.000Z",
+      "updatedAt": "2026-10-29T15:29:00.000Z"
+    },
+    {
+      "id": "b6081c05-4f7e-4e6a-a0fb-07136897d5dd",
+      "company": "JR Automation",
+      "title": "Co-op - Component Engineering",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484966796/",
+      "url": "https://trueinterview.io/jobs/jr-automation-co-op-component-engineering-b6081c054f7e",
+      "postedAt": "2026-10-29T15:29:00.000Z",
+      "updatedAt": "2026-10-29T15:29:00.000Z"
+    },
+    {
+      "id": "ecd738cd-9e1e-4ed2-a203-dd2e3c86704b",
+      "company": "Sandhills Global",
+      "title": "Data Scientist Intern - In Office, Scottsdale, AZ only",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447368270/",
+      "url": "https://trueinterview.io/jobs/sandhills-global-data-scientist-intern-in-office-scottsdale-az-only-ecd738cd9e1e",
+      "postedAt": "2026-10-29T15:29:00.000Z",
+      "updatedAt": "2026-10-29T15:29:00.000Z"
     },
     {
       "id": "6a0a01f4-c07e-45d9-8938-e2a41f1d35b3",
@@ -98587,6 +98757,56 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "2bf69c4b-a9b7-489c-998f-7b77b292c58d",
+      "company": "Ciena",
+      "title": "Intern - Software Developer Technician",
+      "locations": [
+        "Quebec City, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1",
+      "url": "https://trueinterview.io/jobs/ciena-intern-software-developer-technician-2bf69c4ba9b7",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "0bfb265d-9a90-4865-95e7-63db1f14f38b",
+      "company": "City of Cincinnati",
+      "title": "COLLEGE CO-OP (WASTEWATER ENGINEERING) Project Management",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.governmentjobs.com/careers/cincinnati/jobs/5529891/college-co-op-wastewater-engineering-project-management",
+      "url": "https://trueinterview.io/jobs/city-of-cincinnati-college-co-op-wastewater-engineering-project-0bfb265d9a90",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "ac4cb1a8-1afb-4858-82b7-ec0d6cb0d498",
       "company": "City of Cincinnati",
       "title": "COLLEGE CO-OP WASTEWATER ENGINEERING (GIS/Acoustic Sound/LiDar)",
@@ -98860,6 +99080,31 @@
       "source": "indeed",
       "applyUrl": "https://jpmorganchase.contacthr.com/154044752",
       "url": "https://trueinterview.io/jobs/jpmorganchase-2027-machine-learning-center-of-excellence-time-6714a10e83e8",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "f5394e03-4b4f-46e9-8c25-0aa2eb065a13",
+      "company": "Mayo Clinic",
+      "title": "Graduate Engineering Intern - Software Development",
+      "locations": [
+        "Rochester, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.mayoclinic.org/job/rochester/graduate-engineering-intern-software-development/33647/102511819760",
+      "url": "https://trueinterview.io/jobs/mayo-clinic-graduate-engineering-intern-software-development-f5394e034b4f",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -103407,7 +103652,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -107363,7 +107610,9 @@
         "New York, NY"
       ],
       "cities": [
-        "Boston, MA"
+        "Boston, MA",
+        "Sunnyvale, CA",
+        "New York, NY"
       ],
       "countries": [
         "United States"
