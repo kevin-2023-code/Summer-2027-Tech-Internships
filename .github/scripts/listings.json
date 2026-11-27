@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T12:14:25.166Z",
-  "count": 4518,
+  "listingsChangedAt": "2026-11-27T13:10:01.308Z",
+  "count": 4520,
   "listings": [
     {
       "id": "023186c0-fe4a-437f-88e6-1520a9df3ae5",
@@ -6682,9 +6682,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6824,6 +6824,33 @@
       "url": "https://trueinterview.io/jobs/bosch-engineering-intern-20e6865b59a6",
       "postedAt": "2026-11-23T02:23:34.000Z",
       "updatedAt": "2026-11-23T02:23:34.000Z"
+    },
+    {
+      "id": "d83f4dad-356c-44ab-8137-7658af0900cf",
+      "company": "JPMorgan Chase",
+      "title": "2027 Applied AI - HR CDAO - Summer Associate",
+      "locations": [
+        "New York, NY, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+      "url": "https://trueinterview.io/jobs/jpmorgan-chase-2027-applied-ai-hr-cdao-summer-associate-d83f4dad356c",
+      "postedAt": "2026-11-23T00:00:00.000Z",
+      "updatedAt": "2026-11-23T00:00:00.000Z"
     },
     {
       "id": "98ebec07-9fd3-4ce3-afb1-54f228706a09",
@@ -7157,33 +7184,6 @@
       "url": "https://trueinterview.io/jobs/green-ping-solutions-data-science-internship-584f1c3d1257",
       "postedAt": "2026-11-22T08:52:50.000Z",
       "updatedAt": "2026-11-22T08:52:50.000Z"
-    },
-    {
-      "id": "05024481-f02d-4d92-a22a-f36828449e09",
-      "company": "Meta",
-      "title": "Research Scientist Intern, uLED Display Characterization (PhD)",
-      "locations": [
-        "Cork, Ireland"
-      ],
-      "cities": [
-        "Cork"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.metacareers.com/jobs/1296888565955935/",
-      "url": "https://trueinterview.io/jobs/meta-research-scientist-intern-uled-display-characterization-phd-05024481f02d",
-      "postedAt": "2026-11-22T06:00:00.000Z",
-      "updatedAt": "2026-11-22T06:00:00.000Z"
     },
     {
       "id": "bb2497c6-fbcd-4a64-b080-169d0b87e490",
@@ -8380,6 +8380,31 @@
       "updatedAt": "2026-11-20T23:17:00.000Z"
     },
     {
+      "id": "03a52abd-a045-470c-9d54-05a00f7729d2",
+      "company": "Zoox",
+      "title": "Supply Chain AI Intern [Summer 2027]",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+      "url": "https://trueinterview.io/jobs/zoox-supply-chain-ai-intern-summer-2027-03a52abda045",
+      "postedAt": "2026-11-20T23:15:03.000Z",
+      "updatedAt": "2026-11-20T23:15:03.000Z"
+    },
+    {
       "id": "e001e048-9d55-4efa-8a71-0d41f87085de",
       "company": "AeroFlux Innovations",
       "title": "Firmware Engineering Intern",
@@ -8649,7 +8674,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -27177,6 +27202,29 @@
       "url": "https://trueinterview.io/jobs/incomm-payments-software-engineering-intern-8358b3b2604f",
       "postedAt": "2026-11-13T19:28:00.000Z",
       "updatedAt": "2026-11-13T19:28:00.000Z"
+    },
+    {
+      "id": "a084dbf6-1be5-4b78-861f-75ebb984a523",
+      "company": "Strava",
+      "title": "Software Engineering Intern, Server, Security",
+      "locations": [
+        "Strava SF"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
+      "url": "https://trueinterview.io/jobs/strava-software-engineering-intern-server-security-a084dbf61be5",
+      "postedAt": "2026-11-13T19:25:55.000Z",
+      "updatedAt": "2026-11-13T19:25:55.000Z"
     },
     {
       "id": "8d88be61-3b69-45f1-bd4d-117e3cea5241",
@@ -71869,7 +71917,9 @@
         "San Mateo, California, United States",
         "San Mateo, California"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -100540,12 +100590,9 @@
       "locations": [
         "Cambridge, MA USA"
       ],
-      "cities": [
-        "Cambridge"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "United Kingdom"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -110207,7 +110254,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
