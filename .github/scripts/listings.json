@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-26T23:08:59.473Z",
-  "count": 4421,
+  "listingsChangedAt": "2026-11-27T00:23:18.371Z",
+  "count": 4426,
   "listings": [
+    {
+      "id": "986d1604-4b03-4bb5-a23b-315a37d9e613",
+      "company": "CliquePrize - Local Giveaway Marketing for Small Businesses",
+      "title": "Backend Software Engineer Intern – Auto Dialer, API & Systems Integration",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495052345/",
+      "url": "https://trueinterview.io/jobs/cliqueprize-local-giveaway-marketing-for-small-businesses-backend-986d16044b03",
+      "postedAt": "2026-11-26T20:22:00.000Z",
+      "updatedAt": "2026-11-26T20:22:00.000Z"
+    },
     {
       "id": "1b25ac0a-073e-481a-a07f-b68f972a3047",
       "company": "Takeda",
@@ -59,6 +84,33 @@
       "url": "https://trueinterview.io/jobs/carrier-software-and-controls-engineering-intern-summer-175d9b405881",
       "postedAt": "2026-11-26T16:30:00.000Z",
       "updatedAt": "2026-11-26T18:13:00.000Z"
+    },
+    {
+      "id": "8c2b4d2c-82f2-4ff4-a1b8-a34e069a2d04",
+      "company": "Tesla",
+      "title": "Internship, Fullstack Engineer, Applications Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Fremont, CA"
+      ],
+      "cities": [
+        "Fremont, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4494691651/",
+      "url": "https://trueinterview.io/jobs/tesla-internship-fullstack-engineer-applications-engineering-winter-8c2b4d2c82f2",
+      "postedAt": "2026-11-26T17:27:00.000Z",
+      "updatedAt": "2026-11-26T17:27:00.000Z"
     },
     {
       "id": "7d95c19e-82f4-4763-b76a-69f37de6e5ec",
@@ -193,6 +245,61 @@
       "updatedAt": "2026-11-26T17:10:00.000Z"
     },
     {
+      "id": "0afed8ca-ad37-4452-be7e-c65eba852449",
+      "company": "Harmattan Ai",
+      "title": "Drone System Validation Engineer Intern",
+      "locations": [
+        "Paris",
+        "Lausanne"
+      ],
+      "cities": [
+        "Paris",
+        "Lausanne"
+      ],
+      "countries": [
+        "France",
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/harmattan-ai/74931833-01b9-4787-ac03-141347db1408",
+      "url": "https://trueinterview.io/jobs/harmattan-ai-drone-system-validation-engineer-intern-0afed8caad37",
+      "postedAt": "2026-11-26T16:30:13.000Z",
+      "updatedAt": "2026-11-26T16:32:42.000Z"
+    },
+    {
+      "id": "8e249527-2466-4102-bbcd-03d23657a1cc",
+      "company": "Lockheed Martin",
+      "title": "FPGA Engineer (Security Focus) - Intern",
+      "locations": [
+        "Owego, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493841136/",
+      "url": "https://trueinterview.io/jobs/lockheed-martin-fpga-engineer-security-focus-intern-8e2495272466",
+      "postedAt": "2026-11-26T16:28:00.000Z",
+      "updatedAt": "2026-11-26T16:28:00.000Z"
+    },
+    {
       "id": "63fbb219-08ec-4aa1-9588-179bb0097a7d",
       "company": "Western National Insurance",
       "title": "UX Intern",
@@ -241,6 +348,31 @@
       "url": "https://trueinterview.io/jobs/formlabs-technical-support-specialist-intern-french-speaking-798a26ee624c",
       "postedAt": "2026-11-26T16:08:25.000Z",
       "updatedAt": "2026-11-26T16:08:25.000Z"
+    },
+    {
+      "id": "900d9fcd-7f7c-429e-9fa4-d299b57d2f37",
+      "company": "Formlabs",
+      "title": "Technical Support Specialist Intern - Italian speaking",
+      "locations": [
+        "Budapest, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://careers.formlabs.com/job/8419345/apply/?gh_jid=8419345",
+      "url": "https://trueinterview.io/jobs/formlabs-technical-support-specialist-intern-italian-speaking-900d9fcd7f7c",
+      "postedAt": "2026-11-26T16:06:34.000Z",
+      "updatedAt": "2026-11-26T16:06:34.000Z"
     },
     {
       "id": "8074a659-b560-40ef-8615-876b753f9c9a",
@@ -575,6 +707,31 @@
       "source": "ats-boards",
       "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/45933",
       "url": "https://trueinterview.io/jobs/nov-vacation-intern-engineering-student-83ea581feec2",
+      "postedAt": "2026-11-26T00:00:00.000Z",
+      "updatedAt": "2026-11-26T00:00:00.000Z"
+    },
+    {
+      "id": "7b2f1cf7-7a1a-4439-bd08-d3cf140b3d7f",
+      "company": "Texas Instruments",
+      "title": "DevOps SW Engineer for WiFi & MCU System-on-Chip Hardware Development Group Intern",
+      "locations": [
+        "Ra'anana, Israel"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014498",
+      "url": "https://trueinterview.io/jobs/texas-instruments-devops-sw-engineer-for-wifi-and-mcu-system-7b2f1cf77a1a",
       "postedAt": "2026-11-26T00:00:00.000Z",
       "updatedAt": "2026-11-26T00:00:00.000Z"
     },
@@ -983,7 +1140,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1166,7 +1323,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1191,7 +1348,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1264,9 +1421,9 @@
         "Spain"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1275,6 +1432,80 @@
       "applyUrl": "https://jobs.keysight.com/jobs/56610/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/keysight-technologies-software-engineering-intern-computer-science-25e58bf905b8",
       "postedAt": "2026-11-25T06:00:00.000Z",
+      "updatedAt": "2026-11-25T06:00:00.000Z"
+    },
+    {
+      "id": "58abfb8b-370b-463a-bffa-be5f08fba328",
+      "company": "Qualcomm",
+      "title": "FY27 Intern – Automated Driving Functions - 6 months, Munich, Germany",
+      "locations": [
+        "München, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446722334540?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/qualcomm-fy27-intern-automated-driving-functions-6-months-munich-58abfb8b370b",
+      "postedAt": "2026-11-25T06:00:00.000Z",
+      "updatedAt": "2026-11-25T06:00:00.000Z"
+    },
+    {
+      "id": "51865796-5b45-4c4d-9fe6-0fb83556f6de",
+      "company": "Standard Chartered Bank",
+      "title": "AI Research Internship Programme Germany 2027",
+      "locations": [
+        "Frankfurt am Main, Deutschland"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.standardchartered.com/job/AI-Research-Internship-Programme-Germany-2027/66021-en_GB",
+      "url": "https://trueinterview.io/jobs/standard-chartered-bank-ai-research-internship-programme-germany-518657965b45",
+      "postedAt": "2026-11-25T06:00:00.000Z",
+      "updatedAt": "2026-11-25T06:00:00.000Z"
+    },
+    {
+      "id": "4c1d7efd-ef9f-4d88-b97d-a1e7663a5743",
+      "company": "Waters",
+      "title": "Intern, IT Digital",
+      "locations": [
+        "US",
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://uscareers-waters.icims.com/jobs/30387/intern%2c-it-digital/job?in_iframe=1",
+      "url": "https://trueinterview.io/jobs/waters-intern-it-digital-4c1d7efdef9f",
+      "postedAt": "2026-11-25T05:00:00.000Z",
       "updatedAt": "2026-11-25T06:00:00.000Z"
     },
     {
@@ -2163,6 +2394,31 @@
       "source": "indeed",
       "applyUrl": "https://global-sas.icims.com/jobs/42693/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/sas-technical-support-intern-careerstart-internship-program-2027-6dcdcb98915d",
+      "postedAt": "2026-11-24T06:00:00.000Z",
+      "updatedAt": "2026-11-24T06:00:00.000Z"
+    },
+    {
+      "id": "8ac87261-52f3-41c3-8b3c-68e096251ae1",
+      "company": "Shield",
+      "title": "June 2027 Co-op - Mission Systems Engineering - 5813",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/7378153f-32ca-426c-a157-8069d5b284c8",
+      "url": "https://trueinterview.io/jobs/shield-june-2027-co-op-mission-systems-engineering-5813-8ac8726152f3",
       "postedAt": "2026-11-24T06:00:00.000Z",
       "updatedAt": "2026-11-24T06:00:00.000Z"
     },
@@ -3151,6 +3407,33 @@
       "updatedAt": "2026-11-23T06:00:00.000Z"
     },
     {
+      "id": "887de592-f1ef-44df-bcac-ba4db352577b",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineering Intern - Circuit Simulation",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251-1",
+      "url": "https://trueinterview.io/jobs/cadence-design-systems-software-engineering-intern-circuit-887de592f1ef",
+      "postedAt": "2026-11-23T06:00:00.000Z",
+      "updatedAt": "2026-11-23T06:00:00.000Z"
+    },
+    {
       "id": "1dd91b0c-8185-4714-9871-00610b20f90d",
       "company": "City of Brampton",
       "title": "CO-OP Assistant Asset Management Data Analyst",
@@ -3324,6 +3607,33 @@
       "source": "indeed",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686445/LineVision-Inc/Grid-Data-Operations-Analyst-Coop-Spring-2027",
       "url": "https://trueinterview.io/jobs/linevision-grid-data-operations-analyst-co-op-spring-2027-528290764b5b",
+      "postedAt": "2026-11-23T06:00:00.000Z",
+      "updatedAt": "2026-11-23T06:00:00.000Z"
+    },
+    {
+      "id": "8cf7f243-40ec-4eeb-9c8a-f18d3d8528d8",
+      "company": "PACCAR",
+      "title": "2027 Spring Internship: Vehicle Software Integration Engineer",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.paccar.com/job/Sunnyvale-2027-Spring-Internship-Vehicle-Software-Integration-Engineer-CA-94089/1459888133/",
+      "url": "https://trueinterview.io/jobs/paccar-2027-spring-internship-vehicle-software-integration-engineer-8cf7f24340ec",
       "postedAt": "2026-11-23T06:00:00.000Z",
       "updatedAt": "2026-11-23T06:00:00.000Z"
     },
@@ -26063,10 +26373,12 @@
         "London, England, United Kingdom"
       ],
       "cities": [
-        "Singapore"
+        "Singapore",
+        "London"
       ],
       "countries": [
-        "Singapore"
+        "Singapore",
+        "United Kingdom"
       ],
       "remote": "onsite",
       "category": "Data & AI",
@@ -44604,31 +44916,6 @@
       "updatedAt": "2026-11-07T00:18:00.000Z"
     },
     {
-      "id": "6a787920-4101-48be-a134-e875ba9e7fc8",
-      "company": "Ryzoe",
-      "title": "Trainee (Intern) Full Stack Developer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487350747/",
-      "url": "https://trueinterview.io/jobs/ryzoe-trainee-intern-full-stack-developer-6a7879204101",
-      "postedAt": "2026-11-07T00:15:00.000Z",
-      "updatedAt": "2026-11-07T00:15:00.000Z"
-    },
-    {
       "id": "6845ceaa-dc5d-48b6-b1ef-3610f3589914",
       "company": "T-Mobile",
       "title": "Summer 2027 Software Engineer HR Data Products Internship",
@@ -59146,31 +59433,6 @@
       "url": "https://trueinterview.io/jobs/kabam-operations-product-manager-co-op-2a2cc2077c2e",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T20:00:04.000Z"
-    },
-    {
-      "id": "8cb1f11f-bd27-4b7e-8b16-a4061c73eb3a",
-      "company": "Newrez",
-      "title": "2027 Summer Internship - Software Developer",
-      "locations": [
-        "Coppell, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4461782716/",
-      "url": "https://trueinterview.io/jobs/newrez-2027-summer-internship-software-developer-8cb1f11fbd27",
-      "postedAt": "2026-11-03T19:56:00.000Z",
-      "updatedAt": "2026-11-03T19:56:00.000Z"
     },
     {
       "id": "9f89f1eb-2ec1-44b4-a138-92b0b23ef74c",
@@ -74387,7 +74649,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -102649,7 +102913,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -106139,31 +106405,6 @@
       "updatedAt": "2026-10-12T17:07:20.000Z"
     },
     {
-      "id": "862f0ab2-42fc-4182-939f-b61fd522c56e",
-      "company": "Rf Smart",
-      "title": "Software Developer Internship- Summer 2027",
-      "locations": [
-        "Highlands Ranch, Colorado, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
-      "url": "https://trueinterview.io/jobs/rf-smart-software-developer-internship-summer-2027-862f0ab242fc",
-      "postedAt": "2026-10-12T14:48:59.000Z",
-      "updatedAt": "2026-10-12T14:48:59.000Z"
-    },
-    {
       "id": "021a7b61-f472-4ac6-acb2-da536124a6b8",
       "company": "Meta",
       "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
@@ -107482,7 +107723,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -114403,108 +114646,6 @@
       "url": "https://trueinterview.io/jobs/morrison-maierle-civil-engineer-internship-8628193ccf7a",
       "postedAt": "2026-09-28T15:34:46.000Z",
       "updatedAt": "2026-09-28T15:50:11.000Z"
-    },
-    {
-      "id": "a36dfb04-1efe-42fd-9a18-01c9a7fefc91",
-      "company": "Keysight",
-      "title": "Process AI Automation, Intern",
-      "locations": [
-        "Austin, Texas, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54637?lang=en-us",
-      "url": "https://trueinterview.io/jobs/keysight-process-ai-automation-intern-a36dfb041efe",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "updatedAt": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "id": "63e9eca4-61a7-4d31-a984-7aa10a4c3e06",
-      "company": "Micron Technology",
-      "title": "Intern - Signal Integrity",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44702761",
-      "url": "https://trueinterview.io/jobs/micron-technology-intern-signal-integrity-63e9eca461a7",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "updatedAt": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "id": "58322058-d385-4509-8b7c-75b5c7fd8d46",
-      "company": "Panasonic",
-      "title": "Quality Control Intern",
-      "locations": [
-        "De Soto, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/51283?lang=en-us",
-      "url": "https://trueinterview.io/jobs/panasonic-quality-control-intern-58322058d385",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "updatedAt": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "id": "e503c6ad-0d6d-4a37-9a26-71d8294c42a9",
-      "company": "Texas Instruments",
-      "title": "Digital Design Engineering Intern",
-      "locations": [
-        "OSLO, Norway"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485",
-      "url": "https://trueinterview.io/jobs/texas-instruments-digital-design-engineering-intern-e503c6ad0d6d",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "updatedAt": "2026-09-28T00:00:00.000Z"
     }
   ]
 }
