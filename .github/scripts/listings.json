@@ -5,9 +5,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T17:08:49.767Z",
-  "count": 4528,
+  "listingsChangedAt": "2026-11-27T18:11:14.396Z",
+  "count": 4517,
   "listings": [
+    {
+      "id": "94b772ab-302c-4a61-abc2-9e0c67820df5",
+      "company": "POZzlePiece Inc",
+      "title": "Q&A Beta Tester / App Developer Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495829701/",
+      "url": "https://trueinterview.io/jobs/pozzlepiece-inc-q-and-a-beta-tester-app-developer-intern-94b772ab302c",
+      "postedAt": "2026-11-27T17:31:00.000Z",
+      "updatedAt": "2026-11-27T17:31:00.000Z"
+    },
+    {
+      "id": "cc591242-2c56-4577-8ec7-64645bae9b05",
+      "company": "Propopia",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495818691/",
+      "url": "https://trueinterview.io/jobs/propopia-ai-engineer-intern-cc5912422c56",
+      "postedAt": "2026-11-27T16:58:00.000Z",
+      "updatedAt": "2026-11-27T16:58:00.000Z"
+    },
+    {
+      "id": "35905da2-b2ab-499b-badc-dd3746c771be",
+      "company": "Astraventa Global",
+      "title": "Programmer Analyst Intern",
+      "locations": [
+        "Waller, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4493885982/",
+      "url": "https://trueinterview.io/jobs/astraventa-global-programmer-analyst-intern-35905da2b2ab",
+      "postedAt": "2026-11-27T16:32:00.000Z",
+      "updatedAt": "2026-11-27T16:32:00.000Z"
+    },
+    {
+      "id": "99314f67-d039-47db-8071-a5461d71fb37",
+      "company": "Insulet Corporation",
+      "title": "Intern, DevOps Engineer: June-August 2027 (Onsite)",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469606818/",
+      "url": "https://trueinterview.io/jobs/insulet-corporation-intern-devops-engineer-june-august-2027-onsite-99314f67d039",
+      "postedAt": "2026-11-27T15:39:00.000Z",
+      "updatedAt": "2026-11-27T15:39:00.000Z"
+    },
     {
       "id": "4a013945-c563-40f4-a61a-e848b4d8b389",
       "company": "TomTom",
@@ -85,6 +187,31 @@
       "url": "https://trueinterview.io/jobs/voodoo-product-data-analyst-midcore-and-puzzle-games-internship-ae8fa41db4ca",
       "postedAt": "2026-11-27T13:37:03.000Z",
       "updatedAt": "2026-11-27T13:37:03.000Z"
+    },
+    {
+      "id": "ade99b11-3679-4a97-9e42-139bf9eea678",
+      "company": "Nissan Motor Corporation",
+      "title": "Financial AI Engineering Intern - Summer 2027 - Franklin, TN",
+      "locations": [
+        "Franklin, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479532581/",
+      "url": "https://trueinterview.io/jobs/nissan-motor-corporation-financial-ai-engineering-intern-summer-ade99b113679",
+      "postedAt": "2026-11-27T13:31:00.000Z",
+      "updatedAt": "2026-11-27T13:31:00.000Z"
     },
     {
       "id": "13074d01-ac73-4e48-9266-2c3d59b6c3bc",
@@ -308,7 +435,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4495576425/",
+      "applyUrl": "https://jpmorganchase.contacthr.com/154347323",
       "url": "https://trueinterview.io/jobs/jpmorganchase-2027-applied-ai-hr-cdao-summer-associate-6bfab6bdf7a0",
       "postedAt": "2026-11-27T04:53:23.000Z",
       "updatedAt": "2026-11-27T04:53:23.000Z"
@@ -530,6 +657,31 @@
       "updatedAt": "2026-11-27T00:13:00.000Z"
     },
     {
+      "id": "23c5e86c-9847-4457-aead-4ba6c6ffa7ce",
+      "company": "BetaNXT",
+      "title": "Intern, Product Engineering",
+      "locations": [
+        "Cary, NC, 27518"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=21b5e71b-5e64-4d33-b8de-26ea145e664a&jobId=624274",
+      "url": "https://trueinterview.io/jobs/betanxt-intern-product-engineering-23c5e86c9847",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "updatedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
       "id": "07a0570e-a3f1-4b0c-8bf2-125c1633ec18",
       "company": "Dell Technologies",
       "title": "AI Engineering Undergraduate Intern",
@@ -553,6 +705,56 @@
       "source": "ats-boards",
       "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11246",
       "url": "https://trueinterview.io/jobs/dell-technologies-ai-engineering-undergraduate-intern-07a0570ea3f1",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "updatedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "9f85df08-3e55-400c-baa1-dcd85b98264e",
+      "company": "Expedition Technology",
+      "title": "Summer 2027 Internship in Digital Signal Processing and Machine Learning - R148",
+      "locations": [
+        "Herndon, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477344458/",
+      "url": "https://trueinterview.io/jobs/expedition-technology-summer-2027-internship-in-digital-signal-9f85df083e55",
+      "postedAt": "2026-11-27T00:00:00.000Z",
+      "updatedAt": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "46163f74-45d4-4c61-b189-8bb2db37d863",
+      "company": "Holland, L.P.",
+      "title": "Summer 2027 Computer Vision Engineering Intern",
+      "locations": [
+        "University Park, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479316017/",
+      "url": "https://trueinterview.io/jobs/holland-l-p-summer-2027-computer-vision-engineering-intern-46163f7445d4",
       "postedAt": "2026-11-27T00:00:00.000Z",
       "updatedAt": "2026-11-27T00:00:00.000Z"
     },
@@ -2773,31 +2975,6 @@
       "updatedAt": "2026-11-25T06:00:00.000Z"
     },
     {
-      "id": "b94df98a-237e-45bf-b05c-7f22d7a61b2e",
-      "company": "KIDDE-FENWAL",
-      "title": "Embedded Software Engineering Co-Op/Intern",
-      "locations": [
-        "Ashland, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9c811143-29d4-4b53-a728-29426c33870e&ccId=19000101_000001&jobId=635579&lang=en_US",
-      "url": "https://trueinterview.io/jobs/kidde-fenwal-embedded-software-engineering-co-op-intern-b94df98a237e",
-      "postedAt": "2026-11-25T06:00:00.000Z",
-      "updatedAt": "2026-11-25T06:00:00.000Z"
-    },
-    {
       "id": "cb8bc355-e193-4f56-bbe5-7d731886e861",
       "company": "Natixis",
       "title": "Internship - 6 months - Data analyst F/M - NIM",
@@ -3720,7 +3897,8 @@
       "company": "Quera Computing, Inc",
       "title": "Site Reliability Engineer Co-op",
       "locations": [
-        "Boston, MA, USA"
+        "Boston, MA, USA",
+        "Boston, MA"
       ],
       "cities": [
         "Boston, MA"
@@ -22713,12 +22891,9 @@
         "Van Wert, OH 45891, USA",
         "Dublin, OH, USA"
       ],
-      "cities": [
-        "Dublin"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "Ireland"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Data & AI",
@@ -25498,33 +25673,6 @@
       "url": "https://trueinterview.io/jobs/bytedance-fullstack-engineer-intern-global-payment-2027-start-87ff97a6c4ff",
       "postedAt": "2026-11-14T12:57:00.000Z",
       "updatedAt": "2026-11-14T12:57:00.000Z"
-    },
-    {
-      "id": "1b117e45-e39e-4c7a-9f2b-235ff63792fb",
-      "company": "ByteDance",
-      "title": "Frontend Development Software Engineer Intern (BytePlus) - 2027 Start",
-      "locations": [
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475060229/",
-      "url": "https://trueinterview.io/jobs/bytedance-frontend-development-software-engineer-intern-byteplus-1b117e45e39e",
-      "postedAt": "2026-11-14T12:55:00.000Z",
-      "updatedAt": "2026-11-14T12:55:00.000Z"
     },
     {
       "id": "c5c9ce4a-f03e-4898-9bf4-6f43a750b952",
@@ -33423,34 +33571,6 @@
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
-      "id": "07aaacf7-1806-4703-bf6c-621389be8446",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)",
-      "locations": [
-        "Sydney, New South Wales, Australia"
-      ],
-      "cities": [
-        "Sydney"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4380094470/",
-      "url": "https://trueinterview.io/jobs/tiktok-backend-software-engineer-intern-platform-engineering-2027-07aaacf71806",
-      "postedAt": "2026-11-11T12:14:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
       "id": "70d43e6f-14b5-4f62-bcae-c7f64f8715c4",
       "company": "TikTok",
       "title": "Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)",
@@ -38373,7 +38493,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -45721,33 +45843,6 @@
       "updatedAt": "2026-11-08T05:08:00.000Z"
     },
     {
-      "id": "22f3da15-b0a2-4aff-9bda-519950b63088",
-      "company": "IBM",
-      "title": "Product Manager Intern 2027",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4450177477/",
-      "url": "https://trueinterview.io/jobs/ibm-product-manager-intern-2027-22f3da15b0a2",
-      "postedAt": "2026-11-08T04:20:00.000Z",
-      "updatedAt": "2026-11-08T04:20:00.000Z"
-    },
-    {
       "id": "19f56944-1158-4a36-815a-facc3e1b373e",
       "company": "Tencent",
       "title": "Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Indoensia)",
@@ -48269,33 +48364,6 @@
       "updatedAt": "2026-11-06T20:37:00.000Z"
     },
     {
-      "id": "5fe500af-193c-4a3c-ade0-cbc146932d76",
-      "company": "Inversion",
-      "title": "Avionics Embedded Software Engineer - Summer Internship 2027",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4480180604/",
-      "url": "https://trueinterview.io/jobs/inversion-avionics-embedded-software-engineer-summer-internship-5fe500af193c",
-      "postedAt": "2026-11-06T20:33:00.000Z",
-      "updatedAt": "2026-11-06T20:33:00.000Z"
-    },
-    {
       "id": "23fb1890-9156-4b1f-838c-a9faa2ec1afa",
       "company": "Shure",
       "title": "Cloud Software Engineering Intern",
@@ -49112,31 +49180,6 @@
       "updatedAt": "2026-11-06T16:23:16.000Z"
     },
     {
-      "id": "a0902e51-f81c-4a44-afa5-9408b7243381",
-      "company": "The Exploration Company",
-      "title": "Spring 2027 Internship (Software)",
-      "locations": [
-        "California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4461930084/",
-      "url": "https://trueinterview.io/jobs/the-exploration-company-spring-2027-internship-software-a0902e51f81c",
-      "postedAt": "2026-11-06T16:18:55.000Z",
-      "updatedAt": "2026-11-06T16:18:55.000Z"
-    },
-    {
       "id": "8d0b56c5-ef59-4686-902c-8bfdf026559d",
       "company": "IBM",
       "title": "Back End Developer Intern - NY POK RK - 2027",
@@ -49394,31 +49437,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4480316717/",
       "url": "https://trueinterview.io/jobs/axiom-space-software-engineering-intern-summer-2027-36afd26112e8",
-      "postedAt": "2026-11-06T15:49:00.000Z",
-      "updatedAt": "2026-11-06T15:49:00.000Z"
-    },
-    {
-      "id": "01406246-689e-4f15-b8de-4ebc76d8313e",
-      "company": "Raft",
-      "title": "Full Stack Engineering Intern - Summer 2027",
-      "locations": [
-        "McLean, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486925957/",
-      "url": "https://trueinterview.io/jobs/raft-full-stack-engineering-intern-summer-2027-01406246689e",
       "postedAt": "2026-11-06T15:49:00.000Z",
       "updatedAt": "2026-11-06T15:49:00.000Z"
     },
@@ -50177,33 +50195,6 @@
       "updatedAt": "2026-11-06T12:53:00.000Z"
     },
     {
-      "id": "499c3bd6-f961-4630-b1c4-351cc2a347ba",
-      "company": "NVIDIA",
-      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [
-        "Santa Clara, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486951856/",
-      "url": "https://trueinterview.io/jobs/nvidia-deep-learning-scientist-intern-llm-multimodal-and-agentic-ai-499c3bd6f961",
-      "postedAt": "2026-11-06T12:49:00.000Z",
-      "updatedAt": "2026-11-06T12:49:00.000Z"
-    },
-    {
       "id": "358ae83c-4fee-4a13-b955-f17c7c84a0d5",
       "company": "Advanced Energy",
       "title": "Intern - Firmware Engineer, Undergraduate",
@@ -50279,33 +50270,6 @@
       "url": "https://trueinterview.io/jobs/general-motors-2027-summer-intern-ai-ml-engineer-mapping-masters-e9f64c8f72b8",
       "postedAt": "2026-11-06T12:27:00.000Z",
       "updatedAt": "2026-11-06T12:27:00.000Z"
-    },
-    {
-      "id": "820b6394-228c-40ae-a740-ba8d65eb250a",
-      "company": "Nissan Motor Corporation",
-      "title": "Machine Learning Research Perception Intern - Spring 2027 - Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [
-        "Santa Clara, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479828836/",
-      "url": "https://trueinterview.io/jobs/nissan-motor-corporation-machine-learning-research-perception-820b6394228c",
-      "postedAt": "2026-11-06T12:26:00.000Z",
-      "updatedAt": "2026-11-06T12:26:00.000Z"
     },
     {
       "id": "a34511f5-d27e-440d-a9a5-41aaf6cc2574",
@@ -50385,33 +50349,6 @@
       "url": "https://trueinterview.io/jobs/nissan-motor-corporation-machine-learning-research-mapping-intern-aed3c1dcd897",
       "postedAt": "2026-11-06T12:18:00.000Z",
       "updatedAt": "2026-11-06T12:18:00.000Z"
-    },
-    {
-      "id": "26ae9e81-08ee-4ea0-8d5c-169a072aeccc",
-      "company": "HoYoverse",
-      "title": "Research Scientist Intern - Video Generation",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486972902/",
-      "url": "https://trueinterview.io/jobs/hoyoverse-research-scientist-intern-video-generation-26ae9e8108ee",
-      "postedAt": "2026-11-06T12:10:00.000Z",
-      "updatedAt": "2026-11-06T12:10:00.000Z"
     },
     {
       "id": "6c59de2a-2401-4247-b814-5d2c4981aa5d",
@@ -51459,31 +51396,6 @@
       "updatedAt": "2026-11-06T00:58:57.000Z"
     },
     {
-      "id": "7fb1b7e5-b10a-4d36-8a2e-f2373d3e3165",
-      "company": "Daiichi Sankyo",
-      "title": "AI/ML Automation Pipelines Intern",
-      "locations": [
-        "Basking Ridge, NJ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488039990/",
-      "url": "https://trueinterview.io/jobs/daiichi-sankyo-ai-ml-automation-pipelines-intern-7fb1b7e5b10a",
-      "postedAt": "2026-11-06T00:56:00.000Z",
-      "updatedAt": "2026-11-06T00:56:00.000Z"
-    },
-    {
       "id": "7e64e3ef-5ec0-41e5-8268-b63aff0656f7",
       "company": "V2X Inc",
       "title": "AI Intern - Junior",
@@ -51532,31 +51444,6 @@
       "url": "https://trueinterview.io/jobs/v2x-inc-ai-intern-senior-15a81a1a0b71",
       "postedAt": "2026-11-06T00:53:00.000Z",
       "updatedAt": "2026-11-06T00:53:00.000Z"
-    },
-    {
-      "id": "fc88522a-21be-4c54-b897-3e71db64eb6d",
-      "company": "Raft",
-      "title": "AI/ML Intern - Summer 2027",
-      "locations": [
-        "McLean, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486948062/",
-      "url": "https://trueinterview.io/jobs/raft-ai-ml-intern-summer-2027-fc88522a21be",
-      "postedAt": "2026-11-06T00:51:00.000Z",
-      "updatedAt": "2026-11-06T00:51:00.000Z"
     },
     {
       "id": "3fb4704e-04df-4433-b365-930c403a332e",
@@ -51794,31 +51681,6 @@
       "url": "https://trueinterview.io/jobs/citi-markets-quantitative-analysis-summer-analyst-new-york-city-us-9b2fe2f8ad03",
       "postedAt": "2026-11-06T00:18:00.000Z",
       "updatedAt": "2026-11-06T00:18:00.000Z"
-    },
-    {
-      "id": "f9e61823-5d2c-4f3d-b3a5-b5005faec3c3",
-      "company": "Daiichi Sankyo",
-      "title": "Data Scientist and AI Developer Intern",
-      "locations": [
-        "Basking Ridge, NJ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488052402/",
-      "url": "https://trueinterview.io/jobs/daiichi-sankyo-data-scientist-and-ai-developer-intern-f9e618235d2c",
-      "postedAt": "2026-11-06T00:13:00.000Z",
-      "updatedAt": "2026-11-06T00:13:00.000Z"
     },
     {
       "id": "9d664c2e-c6a2-4721-87cd-de5cb213b1bb",
@@ -53179,33 +53041,6 @@
       "updatedAt": "2026-11-05T16:17:00.000Z"
     },
     {
-      "id": "1f3f3915-36f4-4d6a-98f4-d0b7630d10d6",
-      "company": "Rippling",
-      "title": "Machine Learning Software Engineer Intern - Summer 2027",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4470483813/",
-      "url": "https://trueinterview.io/jobs/rippling-machine-learning-software-engineer-intern-summer-2027-1f3f391536f4",
-      "postedAt": "2026-11-05T16:12:00.000Z",
-      "updatedAt": "2026-11-05T16:12:00.000Z"
-    },
-    {
       "id": "2f1596cc-4294-48dd-aba6-2206c19e89d7",
       "company": "MonoSol LLC.",
       "title": "Application Development Intern",
@@ -53231,31 +53066,6 @@
       "url": "https://trueinterview.io/jobs/monosol-llc-application-development-intern-2f1596cc4294",
       "postedAt": "2026-11-05T16:10:13.000Z",
       "updatedAt": "2026-11-05T16:10:13.000Z"
-    },
-    {
-      "id": "ef2c4529-1806-4644-9e91-ea5bd889cde2",
-      "company": "FDB (First Databank, Inc.)",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Carmel, IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "IT & Support",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486752865/",
-      "url": "https://trueinterview.io/jobs/fdb-first-databank-inc-software-engineering-intern-ef2c45291806",
-      "postedAt": "2026-11-05T16:10:00.000Z",
-      "updatedAt": "2026-11-05T16:10:00.000Z"
     },
     {
       "id": "f39e4a39-024b-4502-974b-2823c2b08774",
@@ -60247,7 +60057,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -60256,6 +60066,31 @@
       "source": "indeed",
       "applyUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Automation-and-Controls-Engineer-Intern---Year-Round_R08074",
       "url": "https://trueinterview.io/jobs/charter-manufacturing-automation-and-controls-engineer-intern-year-ad2e24c51d4c",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "ac7fe778-a640-4ecc-8998-33aaed1378d2",
+      "company": "Charter Manufacturing",
+      "title": "Digital Integration Intern (Year-Round)",
+      "locations": [
+        "Mequon, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129",
+      "url": "https://trueinterview.io/jobs/charter-manufacturing-digital-integration-intern-year-round-ac7fe778a640",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -60301,8 +60136,8 @@
       "category": "Software",
       "family": "Software",
       "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "indeed",
@@ -60458,33 +60293,6 @@
       "source": "indeed",
       "applyUrl": "https://app.eightfold.ai/careers/job/446721969461?domain=qualcomm.com",
       "url": "https://trueinterview.io/jobs/qualcomm-fy27-intern-machine-learning-engineering-internship-canada-f27f21a9549d",
-      "postedAt": "2026-11-04T06:00:00.000Z",
-      "updatedAt": "2026-11-04T06:00:00.000Z"
-    },
-    {
-      "id": "a65b1050-f080-4b4c-8081-f7b6500aa5b0",
-      "company": "Roche",
-      "title": "Internship Process Engineer (for 12 months in Basel)",
-      "locations": [
-        "Basel, Switzerland"
-      ],
-      "cities": [
-        "Basel"
-      ],
-      "countries": [
-        "Switzerland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.roche.com/de/de/job/202610-127127",
-      "url": "https://trueinterview.io/jobs/roche-internship-process-engineer-for-12-months-in-basel-a65b1050f080",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -64328,34 +64136,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.leidos.com/jobs/18440465-graduate-engineer?tm_job=R-00196094&tm_event=view&tm_company=2502",
       "url": "https://trueinterview.io/jobs/leidos-intern-engineer-700291490444",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
-      "id": "38959fe8-186b-4c82-a7ab-e55f53b91921",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Spatial Reasoning & Localization (PhD)",
-      "locations": [
-        "Redmond, WA",
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.metacareers.com/jobs/1218542847568705/",
-      "url": "https://trueinterview.io/jobs/meta-research-scientist-intern-spatial-reasoning-and-localization-38959fe8186b",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -85763,31 +85543,6 @@
       "url": "https://trueinterview.io/jobs/infineon-technologies-internship-data-scientist-8a0403e9415c",
       "postedAt": "2026-10-29T09:49:00.000Z",
       "updatedAt": "2026-10-29T09:49:00.000Z"
-    },
-    {
-      "id": "9afbf0c5-e3d4-4318-98eb-4478fe931768",
-      "company": "Collins Aerospace",
-      "title": "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467158872/",
-      "url": "https://trueinterview.io/jobs/collins-aerospace-systems-engineering-co-op-summer-fall-2027-onsite-9afbf0c5e3d4",
-      "postedAt": "2026-10-29T09:44:00.000Z",
-      "updatedAt": "2026-10-29T09:44:00.000Z"
     },
     {
       "id": "37d10c5a-633a-414d-90d9-110aec1ecf89",
@@ -117261,58 +117016,6 @@
       "url": "https://trueinterview.io/jobs/morrison-maierle-bridge-engineer-internship-66e5e93d352d",
       "postedAt": "2026-09-28T18:34:04.000Z",
       "updatedAt": "2026-09-28T18:34:04.000Z"
-    },
-    {
-      "id": "fe8a8f95-5c34-4d47-b419-14138b6a3cd4",
-      "company": "Keenfinity",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Lincoln, Nebraska, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Keenfinity/744000152241469-software-engineering-intern",
-      "url": "https://trueinterview.io/jobs/keenfinity-software-engineering-intern-fe8a8f955c34",
-      "postedAt": "2026-09-28T17:39:31.000Z",
-      "updatedAt": "2026-09-28T17:39:31.000Z"
-    },
-    {
-      "id": "456c7218-3f9e-4826-b5f6-576c20518272",
-      "company": "Man Group",
-      "title": "Investment Risk 2027 Summer Internship",
-      "locations": [
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101",
-      "url": "https://trueinterview.io/jobs/man-group-investment-risk-2027-summer-internship-456c72183f9e",
-      "postedAt": "2026-09-28T17:09:06.000Z",
-      "updatedAt": "2026-09-28T17:09:06.000Z"
     }
   ]
 }
