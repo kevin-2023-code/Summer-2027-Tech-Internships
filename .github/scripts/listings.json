@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T11:09:32.169Z",
-  "count": 4519,
+  "listingsChangedAt": "2026-11-27T12:14:25.166Z",
+  "count": 4518,
   "listings": [
     {
       "id": "023186c0-fe4a-437f-88e6-1520a9df3ae5",
@@ -6050,7 +6050,7 @@
       "remote": "remote",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6058,6 +6058,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/31996",
       "url": "https://trueinterview.io/jobs/asrc-federal-software-developer-intern-b5764f9fc4e4",
+      "postedAt": "2026-11-23T06:00:00.000Z",
+      "updatedAt": "2026-11-23T06:00:00.000Z"
+    },
+    {
+      "id": "f24118a7-b779-4116-a43c-d71f8d8e5d87",
+      "company": "ASRC Federal",
+      "title": "Software Development & Data Applications Intern – CECOM",
+      "locations": [
+        "Aberdeen Proving Ground, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/31986",
+      "url": "https://trueinterview.io/jobs/asrc-federal-software-development-and-data-applications-intern-f24118a7b779",
       "postedAt": "2026-11-23T06:00:00.000Z",
       "updatedAt": "2026-11-23T06:00:00.000Z"
     },
@@ -6073,9 +6098,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6302,7 +6327,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -6455,7 +6480,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -36384,7 +36409,9 @@
       "locations": [
         "Oakland, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Oakland, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -39030,33 +39057,6 @@
       "source": "career-sites",
       "applyUrl": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
       "url": "https://trueinterview.io/jobs/daimler-truck-cybersecurity-intern-governance-risk-and-compliance-1737ce304c2a",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "updatedAt": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "11f2cbe1-972a-4af8-b441-3c59a26b841a",
-      "company": "Grant Thornton",
-      "title": "Cybersecurity and Privacy Intern - Summer 2027",
-      "locations": [
-        "New York, NY, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandExperiencedHires/job/115637",
-      "url": "https://trueinterview.io/jobs/grant-thornton-cybersecurity-and-privacy-intern-summer-2027-11f2cbe1972a",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },
@@ -50317,7 +50317,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -59282,7 +59284,9 @@
       "locations": [
         "Menlo Park, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Menlo Park, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -101394,7 +101398,9 @@
       "locations": [
         "Santa Clara, CA, United States of America"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -103142,7 +103148,9 @@
       "locations": [
         "Menlo Park, CA, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Menlo Park, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -108852,33 +108860,6 @@
       "url": "https://trueinterview.io/jobs/western-digital-spring-co-op-recording-electronics-data-analytics-01b4515569b7",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "e540c605-6543-4ac5-84fb-395a037d6d62",
-      "company": "Figure",
-      "title": "Deployment Engineering Intern",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
-      "url": "https://trueinterview.io/jobs/figure-deployment-engineering-intern-e540c6056543",
-      "postedAt": "2026-10-12T17:07:20.000Z",
-      "updatedAt": "2026-10-12T17:07:20.000Z"
     },
     {
       "id": "021a7b61-f472-4ac6-acb2-da536124a6b8",
