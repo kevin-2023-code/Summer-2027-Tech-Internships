@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T11:08:46.735Z",
-  "count": 4557,
+  "listingsChangedAt": "2026-11-28T12:12:46.056Z",
+  "count": 4553,
   "listings": [
     {
       "id": "9d96d6ad-7c42-4763-8ba6-c6c4b40c0b1a",
@@ -28011,29 +28011,6 @@
       "updatedAt": "2026-11-14T00:00:00.000Z"
     },
     {
-      "id": "724b3689-6474-4425-8612-8dc76c679784",
-      "company": "Strava",
-      "title": "Software Engineering Intern, AI/ML Data Products",
-      "locations": [
-        "Strava SF"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
-      "url": "https://trueinterview.io/jobs/strava-software-engineering-intern-ai-ml-data-products-724b36896474",
-      "postedAt": "2026-11-13T23:41:20.000Z",
-      "updatedAt": "2026-11-13T23:41:20.000Z"
-    },
-    {
       "id": "15d0b949-89fd-4a03-8ddb-f490ea80ec15",
       "company": "ServiceNow",
       "title": "AI Identity Intern",
@@ -28519,29 +28496,6 @@
       "url": "https://trueinterview.io/jobs/incomm-payments-software-engineering-intern-8358b3b2604f",
       "postedAt": "2026-11-13T19:28:00.000Z",
       "updatedAt": "2026-11-13T19:28:00.000Z"
-    },
-    {
-      "id": "a084dbf6-1be5-4b78-861f-75ebb984a523",
-      "company": "Strava",
-      "title": "Software Engineering Intern, Server, Security",
-      "locations": [
-        "Strava SF"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
-      "url": "https://trueinterview.io/jobs/strava-software-engineering-intern-server-security-a084dbf61be5",
-      "postedAt": "2026-11-13T19:25:55.000Z",
-      "updatedAt": "2026-11-13T19:25:55.000Z"
     },
     {
       "id": "8d88be61-3b69-45f1-bd4d-117e3cea5241",
@@ -65250,31 +65204,6 @@
       "updatedAt": "2026-11-03T08:04:00.000Z"
     },
     {
-      "id": "1045f4aa-2a03-47da-b366-45c563396551",
-      "company": "WoodmenLife",
-      "title": "2027 Summer Product Owner Intern",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486032133/",
-      "url": "https://trueinterview.io/jobs/woodmenlife-2027-summer-product-owner-intern-1045f4aa2a03",
-      "postedAt": "2026-11-03T08:04:00.000Z",
-      "updatedAt": "2026-11-03T08:04:00.000Z"
-    },
-    {
       "id": "aea1021e-d69b-4334-8dfb-f4b4cb8d9a38",
       "company": "WoodmenLife",
       "title": "2027 Summer Software Engineer Intern",
@@ -65313,9 +65242,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -65390,7 +65319,7 @@
       "remote": "remote",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -65416,7 +65345,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Product & Design",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -65478,6 +65407,33 @@
       "source": "indeed",
       "applyUrl": "https://www.amazon.jobs/jobs/10597379/software-development-engineer-intern--summer-?cmpid=DA_INAD200785B",
       "url": "https://trueinterview.io/jobs/amazon-com-software-development-engineer-intern-summer-2027-3e4c4371ca74",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "15ad84ff-bc0f-4451-af82-d1484cdcaa4e",
+      "company": "Aptean",
+      "title": "Junior AI Go-to-Market Analyst - 6-month internship (H/F)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.aptean.com/search/jobs/7179?lang=en-us",
+      "url": "https://trueinterview.io/jobs/aptean-junior-ai-go-to-market-analyst-6-month-internship-h-f-15ad84ffbc0f",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -115899,33 +115855,6 @@
       "updatedAt": "2026-10-02T16:34:38.000Z"
     },
     {
-      "id": "04753d31-2f75-4654-9709-505db9088cfe",
-      "company": "Intuit",
-      "title": "Summer 2027: Finance Transformation & Analytics Intern",
-      "locations": [
-        "Mountain View, California"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-      "url": "https://trueinterview.io/jobs/intuit-summer-2027-finance-transformation-and-analytics-intern-04753d312f75",
-      "postedAt": "2026-10-02T15:43:40.000Z",
-      "updatedAt": "2026-10-02T15:43:40.000Z"
-    },
-    {
       "id": "a3e3727b-655a-432d-8231-e1717accfc0c",
       "company": "City of New York",
       "title": "DESIGN ENGINEER INTERN",
@@ -117362,32 +117291,6 @@
       "url": "https://trueinterview.io/jobs/muon-space-quality-engineering-intern-summer-2027-e44fd66f4d67",
       "postedAt": "2026-09-30T19:26:46.000Z",
       "updatedAt": "2026-09-30T19:26:46.000Z"
-    },
-    {
-      "id": "03e7d1eb-466b-453e-bb0d-177dac1c2c77",
-      "company": "Epic Games",
-      "title": "Technical Product Management Intern",
-      "locations": [
-        "Cary,North Carolina,United States",
-        "Cary"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
-      "url": "https://trueinterview.io/jobs/epic-games-technical-product-management-intern-03e7d1eb466b",
-      "postedAt": "2026-09-30T19:01:10.000Z",
-      "updatedAt": "2026-09-30T19:01:10.000Z"
     },
     {
       "id": "8c00d98d-f516-4d7d-ace0-14617f5e380e",
