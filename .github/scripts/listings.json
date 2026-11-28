@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T08:11:27.472Z",
+  "listingsChangedAt": "2026-11-28T09:09:57.393Z",
   "count": 4555,
   "listings": [
     {
@@ -64353,7 +64353,7 @@
       "remote": "onsite",
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Quantitative Researcher",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64431,7 +64431,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -64442,6 +64442,31 @@
       "url": "https://trueinterview.io/jobs/o-i-owens-illinois-finished-products-engineering-co-op-fff78bef8e5d",
       "postedAt": "2026-11-03T14:12:35.000Z",
       "updatedAt": "2026-11-03T14:12:35.000Z"
+    },
+    {
+      "id": "c27aa2c1-3378-45f2-a74e-ceba29b2d103",
+      "company": "Two Six Technologies",
+      "title": "Summer Research Intern",
+      "locations": [
+        "Arlington, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004",
+      "url": "https://trueinterview.io/jobs/two-six-technologies-summer-research-intern-c27aa2c13378",
+      "postedAt": "2026-11-03T13:59:34.000Z",
+      "updatedAt": "2026-11-03T13:59:34.000Z"
     },
     {
       "id": "04181187-3349-4bbb-a0c7-4c62235ae756",
@@ -64472,6 +64497,31 @@
       "updatedAt": "2026-11-03T13:56:17.000Z"
     },
     {
+      "id": "5abb9556-f95b-42a4-9179-5d73686c35b4",
+      "company": "FCCI Insurance Group",
+      "title": "Information Technology Intern - Summer 2027",
+      "locations": [
+        "Sarasota, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting.ultipro.com/FCC1000FCCI/JobBoard/2c77d453-c919-41f8-8882-b2de7a1c068a/OpportunityDetail?opportunityId=b955a865-7017-4c95-bd71-1fcf4f9eec4d&postingId=f2d578fa-6c49-4725-acf8-97380c5fb9c7",
+      "url": "https://trueinterview.io/jobs/fcci-insurance-group-information-technology-intern-summer-2027-5abb9556f95b",
+      "postedAt": "2026-11-03T13:47:10.000Z",
+      "updatedAt": "2026-11-03T13:47:10.000Z"
+    },
+    {
       "id": "e0559e01-3913-437c-bcaa-fb8dcbc9f38b",
       "company": "AECOM",
       "title": "Overhead Line Equipment Engineering Intern",
@@ -64486,7 +64536,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -64497,6 +64547,33 @@
       "url": "https://trueinterview.io/jobs/aecom-overhead-line-equipment-engineering-intern-e0559e013913",
       "postedAt": "2026-11-03T13:34:51.000Z",
       "updatedAt": "2026-11-03T13:34:51.000Z"
+    },
+    {
+      "id": "4784e938-aa89-4e0f-a5e9-8472236400a4",
+      "company": "Azul",
+      "title": "IT Intern, AI and Operations",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478719019/",
+      "url": "https://trueinterview.io/jobs/azul-it-intern-ai-and-operations-4784e938aa89",
+      "postedAt": "2026-11-03T12:47:00.000Z",
+      "updatedAt": "2026-11-03T12:47:00.000Z"
     },
     {
       "id": "8bd3fae5-b2d5-4073-a067-959c6df2fe35",
@@ -65273,81 +65350,6 @@
       "url": "https://trueinterview.io/jobs/vaccine-vets-software-engineering-intern-japanese-speaking-7ee0529af3f7",
       "postedAt": "2026-11-03T08:01:00.000Z",
       "updatedAt": "2026-11-03T08:01:00.000Z"
-    },
-    {
-      "id": "de44ae50-01da-4fcd-a5c9-88c35b9fb8a8",
-      "company": "GlobalFoundries",
-      "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
-      "locations": [
-        "Malta, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486023406/",
-      "url": "https://trueinterview.io/jobs/globalfoundries-device-engineering-intern-silicon-photonics-summer-de44ae5001da",
-      "postedAt": "2026-11-03T07:46:00.000Z",
-      "updatedAt": "2026-11-03T07:46:00.000Z"
-    },
-    {
-      "id": "df66c33e-bbe4-4376-b4e3-0fc3abcf461d",
-      "company": "WoodmenLife",
-      "title": "2027 Summer Cybersecurity Intern",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486028274/",
-      "url": "https://trueinterview.io/jobs/woodmenlife-2027-summer-cybersecurity-intern-df66c33ebbe4",
-      "postedAt": "2026-11-03T07:36:00.000Z",
-      "updatedAt": "2026-11-03T07:36:00.000Z"
-    },
-    {
-      "id": "45acc3fa-ae77-4aa8-bb5f-244a0c3756fd",
-      "company": "Valency Networks Private Limited",
-      "title": "WordPress Website Developer Intern (Remote)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484647266/",
-      "url": "https://trueinterview.io/jobs/valency-networks-private-limited-wordpress-website-developer-intern-45acc3faae77",
-      "postedAt": "2026-11-03T07:25:00.000Z",
-      "updatedAt": "2026-11-03T07:25:00.000Z"
     },
     {
       "id": "7ff7987b-7f1c-4522-be26-248a458cce9b",
