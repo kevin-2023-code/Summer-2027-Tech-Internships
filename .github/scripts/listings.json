@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T06:15:11.581Z",
-  "count": 4554,
+  "listingsChangedAt": "2026-11-28T07:09:28.939Z",
+  "count": 4555,
   "listings": [
     {
       "id": "3f4a353e-31f3-4aa6-ac4a-ff3a8b565da4",
@@ -63908,7 +63908,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -63919,6 +63919,31 @@
       "url": "https://trueinterview.io/jobs/qualcomm-fy27-intern-design-verification-engineering-internship-770ee393e5cf",
       "postedAt": "2026-11-03T17:40:00.000Z",
       "updatedAt": "2026-11-03T17:40:00.000Z"
+    },
+    {
+      "id": "640ef116-6ec8-4cc6-bc4b-d35890a160c4",
+      "company": "SAP",
+      "title": "SAP iXp Intern - Customer Service and Support (ABAP Frontend Area)",
+      "locations": [
+        "Budapest, Budapest, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484698410/",
+      "url": "https://trueinterview.io/jobs/sap-ixp-intern-customer-service-and-support-abap-frontend-area-640ef1166ec8",
+      "postedAt": "2026-11-03T17:34:00.000Z",
+      "updatedAt": "2026-11-03T17:34:00.000Z"
     },
     {
       "id": "24bef4f5-42f6-46f3-b05a-f886b2815cd2",
@@ -63944,6 +63969,31 @@
       "url": "https://trueinterview.io/jobs/new-york-air-brake-intern-software-engineer-24bef4f542f6",
       "postedAt": "2026-11-03T17:15:00.000Z",
       "updatedAt": "2026-11-03T17:15:00.000Z"
+    },
+    {
+      "id": "a5f1dd5f-63b5-4727-823d-1fbd3fa9b320",
+      "company": "Sharkninja",
+      "title": "Spring 2027:Technical Project Management Co-op (January to June)",
+      "locations": [
+        "Needham, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721697006",
+      "url": "https://trueinterview.io/jobs/sharkninja-spring-2027-technical-project-management-co-op-january-a5f1dd5f63b5",
+      "postedAt": "2026-11-03T17:11:08.000Z",
+      "updatedAt": "2026-11-03T17:11:08.000Z"
     },
     {
       "id": "e932a932-60b1-450c-af28-807183fab508",
@@ -64010,8 +64060,8 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
+      "family": "Software",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -97822,7 +97872,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -105633,6 +105685,7 @@
         "New York, NY, United States"
       ],
       "cities": [
+        "Menlo Park, CA",
         "New York, NY"
       ],
       "countries": [
@@ -117981,31 +118034,6 @@
       "url": "https://trueinterview.io/jobs/schonfeld-strategic-advisors-2027-quantitative-cpp-developer-intern-b4d9238e1ca2",
       "postedAt": "2026-09-29T14:30:14.000Z",
       "updatedAt": "2026-09-29T14:30:14.000Z"
-    },
-    {
-      "id": "e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern - Berlin (2027)",
-      "locations": [
-        "DE-Berlin-Trion Building"
-      ],
-      "cities": [],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-      "url": "https://trueinterview.io/jobs/snowflake-software-engineer-intern-berlin-2027-e86d1c1b4d94",
-      "postedAt": "2026-09-29T06:23:45.000Z",
-      "updatedAt": "2026-09-29T06:23:45.000Z"
     }
   ]
 }
