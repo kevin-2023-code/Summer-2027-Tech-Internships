@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T12:12:46.056Z",
-  "count": 4553,
+  "listingsChangedAt": "2026-11-28T13:08:51.187Z",
+  "count": 4554,
   "listings": [
     {
       "id": "9d96d6ad-7c42-4763-8ba6-c6c4b40c0b1a",
@@ -65770,6 +65770,56 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
+      "id": "31c7988f-e8f9-442e-958e-3ca78d14dc42",
+      "company": "SG Enable",
+      "title": "Intern, Data Management and Analysis",
+      "locations": [
+        "Bukit Merah, Singapore"
+      ],
+      "cities": [],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.internsg.com/job/sg-enable-ltd-intern-data-management-and-analysis/",
+      "url": "https://trueinterview.io/jobs/sg-enable-intern-data-management-and-analysis-31c7988fe8f9",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "40455fbf-efde-4df0-ba92-eaadf60a9da0",
+      "company": "TotalEnergies",
+      "title": "Structured Power Middle Office Analyst Intern",
+      "locations": [
+        "Genève, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Structured-Power-Middle-Office-Analyst-Intern/85605",
+      "url": "https://trueinterview.io/jobs/totalenergies-structured-power-middle-office-analyst-intern-40455fbfefde",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "e6a14454-1623-4ee2-88f0-663566b699b7",
       "company": "Wood",
       "title": "Instrumentation & Control Engineer - Internship",
@@ -113586,31 +113636,6 @@
       "url": "https://trueinterview.io/jobs/wsp-transmission-engineering-co-op-spring-summer-2027-f262f177876d",
       "postedAt": "2026-10-06T19:39:10.000Z",
       "updatedAt": "2026-10-06T19:39:10.000Z"
-    },
-    {
-      "id": "076f95ee-3f2f-4ff2-bbaa-a465e4a092dc",
-      "company": "Tensorwave",
-      "title": "Network Engineering Intern",
-      "locations": [
-        "Las Vegas, Nevada"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/tensorwave/27d0af24-e945-4abe-ac7c-56db3c0e636d/application",
-      "url": "https://trueinterview.io/jobs/tensorwave-network-engineering-intern-076f95ee3f2f",
-      "postedAt": "2026-10-06T18:27:14.000Z",
-      "updatedAt": "2026-10-06T18:27:14.000Z"
     },
     {
       "id": "3bd299fd-9fc8-453f-8675-1968bef23c74",
