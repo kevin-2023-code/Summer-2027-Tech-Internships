@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T14:09:11.095Z",
-  "count": 4555,
+  "listingsChangedAt": "2026-11-28T15:08:54.902Z",
+  "count": 4552,
   "listings": [
+    {
+      "id": "90aa1d9d-24aa-46ce-a04b-c4c988ebcb87",
+      "company": "ASML",
+      "title": "Machine Learning Algo Intern (internship)",
+      "locations": [
+        "Shenzhen, Guangdong, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4426329022/",
+      "url": "https://trueinterview.io/jobs/asml-machine-learning-algo-intern-internship-90aa1d9d24aa",
+      "postedAt": "2026-11-28T14:31:00.000Z",
+      "updatedAt": "2026-11-28T14:31:00.000Z"
+    },
     {
       "id": "9d96d6ad-7c42-4763-8ba6-c6c4b40c0b1a",
       "company": "Dorman Products",
@@ -59,6 +84,64 @@
       "url": "https://trueinterview.io/jobs/tesla-internship-si-hardware-physical-design-engineer-si-hardware-3f4a353e31f3",
       "postedAt": "2026-11-28T00:34:00.000Z",
       "updatedAt": "2026-11-28T00:34:00.000Z"
+    },
+    {
+      "id": "2a3b7606-5858-4664-923f-7843d0c6919e",
+      "company": "CN (Canadian National Railway)",
+      "title": "Intern-Stage Onboard and Network Developer - Développeur de systèmes de bord et de réseau",
+      "locations": [
+        "Montreal, Québec, CA, H3B 2M9",
+        "Montreal, Quebec, CA, H3B 2M9"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.cn.ca/job/Montreal-Intern-Stage-Onboard-and-Network-Developer-D%C3%A9veloppeur-de-syst%C3%A8mes-de-bord-et-de-r%C3%A9seau-Qu%C3%A9b-H3B-2M9/608482517/",
+      "url": "https://trueinterview.io/jobs/cn-canadian-national-railway-intern-stage-onboard-and-network-2a3b76065858",
+      "postedAt": "2026-11-27T23:53:18.000Z",
+      "updatedAt": "2026-11-27T23:53:18.000Z"
+    },
+    {
+      "id": "20d0b78a-20f9-45c7-914c-02aabee09cb2",
+      "company": "CN (Canadian National Railway)",
+      "title": "Intern-Stage Software Engineering Developer - Développeur en génie logiciel",
+      "locations": [
+        "Montreal, Québec, CA, H3B 2M9",
+        "Montreal, Quebec, CA, H3B 2M9"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.cn.ca/job/Montreal-Intern-Stage-Software-Engineering-Developer-D%C3%A9veloppeur-en-g%C3%A9nie-logiciel-Qu%C3%A9b-H3B-2M9/608484517/",
+      "url": "https://trueinterview.io/jobs/cn-canadian-national-railway-intern-stage-software-engineering-20d0b78a20f9",
+      "postedAt": "2026-11-27T23:53:14.000Z",
+      "updatedAt": "2026-11-27T23:53:14.000Z"
     },
     {
       "id": "2431fd75-b1e6-470c-9c78-e3df4f826bd3",
@@ -65358,6 +65441,31 @@
       "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
+      "id": "95121eb9-c114-4453-a618-f4f64601ba3c",
+      "company": "Allianz",
+      "title": "Ops WFM Forecasting Analyst Intern F/M",
+      "locations": [
+        "Saint-Ouen, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.allianz.com/global/en/job/109140",
+      "url": "https://trueinterview.io/jobs/allianz-ops-wfm-forecasting-analyst-intern-f-m-95121eb9c114",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "b283bcdb-4875-437f-80d0-dd7b5b1de048",
       "company": "Amadeus",
       "title": "Internship - AI Developer Engineer",
@@ -65434,6 +65542,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.aptean.com/search/jobs/7179?lang=en-us",
       "url": "https://trueinterview.io/jobs/aptean-junior-ai-go-to-market-analyst-6-month-internship-h-f-15ad84ffbc0f",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "a51f1c28-c60d-4ffa-9420-18854ca36e79",
+      "company": "Arch Capital Group Ltd.",
+      "title": "Originations Portal IT Intern",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
+      "url": "https://trueinterview.io/jobs/arch-capital-group-ltd-originations-portal-it-intern-a51f1c28c60d",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -65590,15 +65723,17 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
-      "id": "a8bf1d55-4976-418b-8356-443cffb81f41",
-      "company": "GMV",
-      "title": "Internship: Advanced object characterisation engineer",
+      "id": "807bb13b-02ca-4806-b187-4081909e3ba0",
+      "company": "Hitachi Energy",
+      "title": "Intern Safety Specialist (Fall 2027, 8-12 months)",
       "locations": [
-        "Ramonville-Saint-Agne, France"
+        "Toronto, Canada"
       ],
-      "cities": [],
+      "cities": [
+        "Toronto, ON"
+      ],
       "countries": [
-        "France"
+        "Canada"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -65609,8 +65744,8 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "indeed",
-      "applyUrl": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5168?c=gmv&lang=en-US",
-      "url": "https://trueinterview.io/jobs/gmv-internship-advanced-object-characterisation-engineer-a8bf1d554976",
+      "applyUrl": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Intern-Safety-Specialist--Fall-2027--8-12-months-_R0143291",
+      "url": "https://trueinterview.io/jobs/hitachi-energy-intern-safety-specialist-fall-2027-8-12-months-807bb13b02ca",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -65843,6 +65978,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Structured-Power-Middle-Office-Analyst-Intern/85605",
       "url": "https://trueinterview.io/jobs/totalenergies-structured-power-middle-office-analyst-intern-40455fbfefde",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "9a7b36d5-d2e2-4e46-945a-6caefc2bf841",
+      "company": "Wood",
+      "title": "H.O. Construction Engineer - Internship",
+      "locations": [
+        "Madrid, Spain"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33182",
+      "url": "https://trueinterview.io/jobs/wood-h-o-construction-engineer-internship-9a7b36d5d2e2",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -90730,158 +90892,6 @@
       "updatedAt": "2026-10-28T23:17:00.000Z"
     },
     {
-      "id": "178e102c-9857-4c1b-879e-79eb00bcc07e",
-      "company": "TCOM, L.P.",
-      "title": "Electrical Engineering Intern",
-      "locations": [
-        "Sioux Falls, SD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481371461/",
-      "url": "https://trueinterview.io/jobs/tcom-l-p-electrical-engineering-intern-178e102c9857",
-      "postedAt": "2026-10-28T23:14:00.000Z",
-      "updatedAt": "2026-10-28T23:14:00.000Z"
-    },
-    {
-      "id": "354ef5f0-31bd-40db-9a15-c31b919b36d8",
-      "company": "Raytheon",
-      "title": "Electrical Engineering Intern (Summer 2027)",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484742873/",
-      "url": "https://trueinterview.io/jobs/raytheon-electrical-engineering-intern-summer-2027-354ef5f031bd",
-      "postedAt": "2026-10-28T23:05:00.000Z",
-      "updatedAt": "2026-10-28T23:05:00.000Z"
-    },
-    {
-      "id": "a0cea2e8-0466-4f92-bfdc-27e1531cffee",
-      "company": "Spectral AI",
-      "title": "Hardware Engineering Intern",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482571212/",
-      "url": "https://trueinterview.io/jobs/spectral-ai-hardware-engineering-intern-a0cea2e80466",
-      "postedAt": "2026-10-28T23:05:00.000Z",
-      "updatedAt": "2026-10-28T23:05:00.000Z"
-    },
-    {
-      "id": "b7443b7b-2bcd-4b44-9906-8327b99d7385",
-      "company": "Leidos",
-      "title": "Data Engineer Intern",
-      "locations": [
-        "Fort Belvoir, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482551933/",
-      "url": "https://trueinterview.io/jobs/leidos-data-engineer-intern-b7443b7b2bcd",
-      "postedAt": "2026-10-28T23:03:00.000Z",
-      "updatedAt": "2026-10-28T23:03:00.000Z"
-    },
-    {
-      "id": "bc68ce71-0609-4573-96dc-3da07248b81a",
-      "company": "Virtu Financial",
-      "title": "2027 Internship - Frontend Engineer (UI)",
-      "locations": [
-        "New York, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484757309/",
-      "url": "https://trueinterview.io/jobs/virtu-financial-2027-internship-frontend-engineer-ui-bc68ce710609",
-      "postedAt": "2026-10-28T22:53:00.000Z",
-      "updatedAt": "2026-10-28T22:53:00.000Z"
-    },
-    {
-      "id": "0bd2188f-0ce0-4339-becc-87df84bc765c",
-      "company": "Ingersoll Rand",
-      "title": "Manufacturing Engineer Co-Op",
-      "locations": [
-        "Charleroi, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484740822/",
-      "url": "https://trueinterview.io/jobs/ingersoll-rand-manufacturing-engineer-co-op-0bd2188f0ce0",
-      "postedAt": "2026-10-28T22:52:00.000Z",
-      "updatedAt": "2026-10-28T22:52:00.000Z"
-    },
-    {
       "id": "71a98f85-db59-4d5f-8027-372714ee7494",
       "company": "Booz Allen Hamilton",
       "title": "Design and Verification Engineer Intern",
@@ -110320,31 +110330,6 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
-      "id": "12d70b31-0a49-433f-9b10-8112c514941f",
-      "company": "memx",
-      "title": "Data Engineering Intern, Summer 2027 (Hybrid, NYC)",
-      "locations": [
-        "United States, Remote, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/memx/jobs/5450442008",
-      "url": "https://trueinterview.io/jobs/memx-data-engineering-intern-summer-2027-hybrid-nyc-12d70b310a49",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
       "id": "7f7d8895-40b0-4556-97a3-e50d78c2e838",
       "company": "Micron Technology",
       "title": "Intern - Equipment Engineer",
@@ -117991,56 +117976,6 @@
       "url": "https://trueinterview.io/jobs/delivery-hero-intern-data-analyst-i-people-strategy-global-hq-c27007d19b03",
       "postedAt": "2026-09-29T15:21:03.000Z",
       "updatedAt": "2026-09-29T15:21:03.000Z"
-    },
-    {
-      "id": "28427d60-8cb2-4a29-9477-880186596087",
-      "company": "Rf Smart",
-      "title": "Service Delivery Intern (IT Helpdesk) - Summer 2027",
-      "locations": [
-        "Jacksonville, Florida, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5425409008",
-      "url": "https://trueinterview.io/jobs/rf-smart-service-delivery-intern-it-helpdesk-summer-2027-28427d608cb2",
-      "postedAt": "2026-09-29T14:35:37.000Z",
-      "updatedAt": "2026-09-29T14:35:37.000Z"
-    },
-    {
-      "id": "b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
-      "company": "Schonfeld Strategic Advisors",
-      "title": "2027 Quantitative C++ Developer Intern",
-      "locations": [
-        "Hong Kong, Hong Kong"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
-      "url": "https://trueinterview.io/jobs/schonfeld-strategic-advisors-2027-quantitative-cpp-developer-intern-b4d9238e1ca2",
-      "postedAt": "2026-09-29T14:30:14.000Z",
-      "updatedAt": "2026-09-29T14:30:14.000Z"
     }
   ]
 }
