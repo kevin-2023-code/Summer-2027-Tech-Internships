@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T13:08:51.187Z",
-  "count": 4554,
+  "listingsChangedAt": "2026-11-28T14:09:11.095Z",
+  "count": 4555,
   "listings": [
     {
       "id": "9d96d6ad-7c42-4763-8ba6-c6c4b40c0b1a",
@@ -65576,9 +65576,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -65655,9 +65655,9 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -65689,6 +65689,33 @@
       "source": "indeed",
       "applyUrl": "https://careers.mitre.org/us/en/job/MITRUSR117955EXTERNALENUS/Underwater-Sensors-Engineer-Co-op",
       "url": "https://trueinterview.io/jobs/mitre-underwater-sensors-engineer-co-op-e21342dcef72",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "70c1e178-50a1-4c77-acb9-9c3dce401335",
+      "company": "Pernod Ricard",
+      "title": "Supplier Carbon Analyst Intern - March 2027",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Supplier-Carbon-Analyst-Intern---March-2027_JR-054828",
+      "url": "https://trueinterview.io/jobs/pernod-ricard-supplier-carbon-analyst-intern-march-2027-70c1e17850a1",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
