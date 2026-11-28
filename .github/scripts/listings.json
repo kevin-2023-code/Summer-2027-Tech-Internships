@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-27T23:08:41.878Z",
-  "count": 4539,
+  "listingsChangedAt": "2026-11-28T00:22:00.192Z",
+  "count": 4538,
   "listings": [
+    {
+      "id": "2431fd75-b1e6-470c-9c78-e3df4f826bd3",
+      "company": "JERRNI",
+      "title": "Software Engineering Internship – SI & Open-Source Construction Ecosystem",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4495340576/",
+      "url": "https://trueinterview.io/jobs/jerrni-software-engineering-internship-si-and-open-source-2431fd75b1e6",
+      "postedAt": "2026-11-27T23:32:00.000Z",
+      "updatedAt": "2026-11-27T23:32:00.000Z"
+    },
     {
       "id": "d9e0632c-f4bd-4d2b-9178-d03dafe98ea5",
       "company": "Stevens Capital Management",
@@ -2968,6 +2993,31 @@
       "updatedAt": "2026-11-25T23:09:31.000Z"
     },
     {
+      "id": "d419c1ea-0a2e-4ab5-b75c-df3f9e72bf4f",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - X-BAT Engineering Avionics - 5923",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/aa894b5e-8101-4980-a716-785ce34e1286",
+      "url": "https://trueinterview.io/jobs/shield-ai-2027-summer-intern-x-bat-engineering-avionics-5923-d419c1ea0a2e",
+      "postedAt": "2026-11-25T22:23:41.000Z",
+      "updatedAt": "2026-11-25T22:23:41.000Z"
+    },
+    {
       "id": "fcb81f49-853e-44ba-bd76-6b433942f864",
       "company": "IXL Learning",
       "title": "Software Engineer, Intern",
@@ -3633,7 +3683,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3941,6 +3991,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/se3/ec3cdffe-3f5f-42df-9241-d9a0556d6e04",
       "url": "https://trueinterview.io/jobs/se3-design-working-student-intern-d4fd3e5ce35a",
+      "postedAt": "2026-11-25T06:00:00.000Z",
+      "updatedAt": "2026-11-25T06:00:00.000Z"
+    },
+    {
+      "id": "a73b59cf-d953-4630-89c0-711d9b323538",
+      "company": "Simpson Gumpertz & Heger",
+      "title": "Technical Co-op, Building Technology Fall 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/o5ngib6g2us",
+      "url": "https://trueinterview.io/jobs/simpson-gumpertz-and-heger-technical-co-op-building-technology-fall-a73b59cfd953",
       "postedAt": "2026-11-25T06:00:00.000Z",
       "updatedAt": "2026-11-25T06:00:00.000Z"
     },
@@ -4765,6 +4842,31 @@
       "url": "https://trueinterview.io/jobs/samsung-semiconductor-intern-rf-analog-circuit-design-engineer-d7651698fd15",
       "postedAt": "2026-11-24T19:08:14.000Z",
       "updatedAt": "2026-11-24T19:08:14.000Z"
+    },
+    {
+      "id": "bbc932f7-2844-4888-b61f-870e535a9703",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Mechanical Engineering - 6436",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/d5931c9e-b020-46f1-9344-9ea17768fad8",
+      "url": "https://trueinterview.io/jobs/shield-ai-2027-summer-intern-mechanical-engineering-6436-bbc932f72844",
+      "postedAt": "2026-11-24T17:03:24.000Z",
+      "updatedAt": "2026-11-24T17:03:24.000Z"
     },
     {
       "id": "b8e5fc53-a6d8-4c8a-b264-266a626e921b",
@@ -5760,7 +5862,8 @@
       "company": "Shield",
       "title": "June 2027 Co-op - Mission Systems Engineering - 5813",
       "locations": [
-        "Dallas, TX"
+        "Dallas, TX",
+        "Dallas, TX, US"
       ],
       "cities": [],
       "countries": [
@@ -5935,31 +6038,6 @@
       "updatedAt": "2026-11-24T06:00:00.000Z"
     },
     {
-      "id": "410108e4-7a1e-48e6-8fe6-6a7a6a1140b4",
-      "company": "Tetra Tech",
-      "title": "Civil or Environmental Engineering Tech Co-Op (Landfill Construction Quality) - June to December 2027 - Woodbury, MN Area",
-      "locations": [
-        "Bloomington, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://tetratech.referrals.selectminds.com/jobs/civil-or-environmental-engineering-tech-co-op-landfill-construction-quality-june-to-december-2027-woodbury-mn-area-58190",
-      "url": "https://trueinterview.io/jobs/tetra-tech-civil-or-environmental-engineering-tech-co-op-landfill-410108e47a1e",
-      "postedAt": "2026-11-24T06:00:00.000Z",
-      "updatedAt": "2026-11-24T06:00:00.000Z"
-    },
-    {
       "id": "aa8716f2-bdde-41d5-b23c-fd71b8ab0fa3",
       "company": "Veolia",
       "title": "Project Engineering Intern",
@@ -6058,6 +6136,31 @@
       "url": "https://trueinterview.io/jobs/veolia-assemblies-engineering-intern-f0403b915fd2",
       "postedAt": "2026-11-24T02:20:30.000Z",
       "updatedAt": "2026-11-24T02:20:30.000Z"
+    },
+    {
+      "id": "33504da4-66b2-4852-a8b8-a9400d014630",
+      "company": "Shield AI",
+      "title": "Electrical Engineering - 2027 January Co-Op",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+      "url": "https://trueinterview.io/jobs/shield-ai-electrical-engineering-2027-january-co-op-33504da466b2",
+      "postedAt": "2026-11-24T00:12:07.000Z",
+      "updatedAt": "2026-11-24T00:12:07.000Z"
     },
     {
       "id": "d143a62b-bcfa-484f-a747-5227b785931e",
@@ -6781,6 +6884,32 @@
       "url": "https://trueinterview.io/jobs/milliman-data-scientist-intern-5732d4726c0d",
       "postedAt": "2026-11-23T19:07:31.000Z",
       "updatedAt": "2026-11-23T19:07:31.000Z"
+    },
+    {
+      "id": "1da42f1a-9c42-4cd9-bbbb-5910e0755ea0",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Software Engineering - 5815",
+      "locations": [
+        "Dallas, TX",
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
+      "url": "https://trueinterview.io/jobs/shield-ai-2027-summer-intern-software-engineering-5815-1da42f1a9c42",
+      "postedAt": "2026-11-23T06:00:00.000Z",
+      "updatedAt": "2026-11-23T18:56:55.000Z"
     },
     {
       "id": "9bbaf993-1766-4d4f-95b4-b2e795915869",
@@ -7822,31 +7951,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.serco-na.com/us/en/job/36121",
       "url": "https://trueinterview.io/jobs/serco-software-engineering-intern-47c75c1e294e",
-      "postedAt": "2026-11-23T06:00:00.000Z",
-      "updatedAt": "2026-11-23T06:00:00.000Z"
-    },
-    {
-      "id": "1da42f1a-9c42-4cd9-bbbb-5910e0755ea0",
-      "company": "Shield",
-      "title": "2027 Summer Intern - Software Engineering - 5815",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
-      "url": "https://trueinterview.io/jobs/shield-2027-summer-intern-software-engineering-5815-1da42f1a9c42",
       "postedAt": "2026-11-23T06:00:00.000Z",
       "updatedAt": "2026-11-23T06:00:00.000Z"
     },
@@ -18514,6 +18618,31 @@
       "updatedAt": "2026-11-18T00:00:00.000Z"
     },
     {
+      "id": "9e320a61-47d9-4cab-88c7-d710ff7c9612",
+      "company": "Shield AI",
+      "title": "June 2027 Co-Op - Electrical Engineering Inter",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+      "url": "https://trueinterview.io/jobs/shield-ai-june-2027-co-op-electrical-engineering-inter-9e320a6147d9",
+      "postedAt": "2026-11-17T23:36:30.000Z",
+      "updatedAt": "2026-11-17T23:36:30.000Z"
+    },
+    {
       "id": "07a5556d-d7c7-4599-bc62-78d2cc50ddaf",
       "company": "Illumio",
       "title": "Security and Compliance Analyst Intern",
@@ -20067,6 +20196,33 @@
       "url": "https://trueinterview.io/jobs/autodesk-intern-software-developer-stagiaire-en-developpement-94e7c4e8c92d",
       "postedAt": "2026-11-17T14:08:00.000Z",
       "updatedAt": "2026-11-17T15:39:00.000Z"
+    },
+    {
+      "id": "51dd9e4c-0e33-4cda-a461-3c2e366487e6",
+      "company": "Shield AI",
+      "title": "Program Manager, Intern Experience",
+      "locations": [
+        "Seattle, WA, US"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5",
+      "url": "https://trueinterview.io/jobs/shield-ai-program-manager-intern-experience-51dd9e4c0e33",
+      "postedAt": "2026-11-17T15:34:12.000Z",
+      "updatedAt": "2026-11-17T15:34:12.000Z"
     },
     {
       "id": "324b7168-0ed4-49ec-a27e-cec34993bfce",
@@ -27565,7 +27721,8 @@
       "company": "Shield",
       "title": "June 2027 Co-op - Reliability Engineering #5953",
       "locations": [
-        "Seattle, WA"
+        "Seattle, WA",
+        "Dallas, TX, US"
       ],
       "cities": [
         "Seattle, WA"
@@ -32301,6 +32458,57 @@
       "updatedAt": "2026-11-12T21:33:18.000Z"
     },
     {
+      "id": "d80c84e2-2180-41fe-b34a-cd1bb6dc242c",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "locations": [
+        "San Diego, CA, US",
+        "Arlington, VA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
+      "url": "https://trueinterview.io/jobs/shield-ai-2027-summer-intern-solution-systems-engineer-6537-6540-d80c84e22180",
+      "postedAt": "2026-11-12T21:12:49.000Z",
+      "updatedAt": "2026-11-12T21:12:49.000Z"
+    },
+    {
+      "id": "421d5f3f-05fc-41fc-803b-c4b86c1570cb",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Electrical Engineering Intern",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/c546e532-4378-41d3-8ef3-4861cc3427e6",
+      "url": "https://trueinterview.io/jobs/shield-ai-summer-2027-electrical-engineering-intern-421d5f3f05fc",
+      "postedAt": "2026-11-12T20:55:50.000Z",
+      "updatedAt": "2026-11-12T20:55:50.000Z"
+    },
+    {
       "id": "8e169ba2-f271-467f-aaa0-8ece306b5725",
       "company": "SAP IT Business Systeme",
       "title": "SAP iXp Intern – CIS Software / AI Developer",
@@ -35436,7 +35644,9 @@
         "San Francisco, CA"
       ],
       "cities": [
-        "Seattle, WA"
+        "Seattle, WA",
+        "New York, NY",
+        "San Francisco, CA"
       ],
       "countries": [
         "United States"
@@ -44416,6 +44626,33 @@
       "updatedAt": "2026-11-09T19:05:00.000Z"
     },
     {
+      "id": "f6d8de77-3e96-4272-be11-61713326de3d",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Mechanical Engineering Intern",
+      "locations": [
+        "Seattle, WA, US"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33",
+      "url": "https://trueinterview.io/jobs/shield-ai-summer-2027-mechanical-engineering-intern-f6d8de773e96",
+      "postedAt": "2026-11-09T18:53:59.000Z",
+      "updatedAt": "2026-11-09T18:53:59.000Z"
+    },
+    {
       "id": "6fbd443a-2eca-4f73-9f6e-1ab015c25c8b",
       "company": "Nutanix",
       "title": "UX Design Intern (Summer 2027)",
@@ -45573,7 +45810,9 @@
       "locations": [
         "Oakland, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Oakland, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -48485,6 +48724,31 @@
       "url": "https://trueinterview.io/jobs/mistral-ai-scientist-intern-internship-masters-or-phd-8f25862ab95d",
       "postedAt": "2026-11-07T00:10:00.000Z",
       "updatedAt": "2026-11-07T00:49:00.000Z"
+    },
+    {
+      "id": "b684746f-56bd-45ee-b7bc-c83a520f542f",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Software Test Automation - 5796",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86",
+      "url": "https://trueinterview.io/jobs/shield-ai-2027-summer-intern-software-test-automation-5796-b684746f56bd",
+      "postedAt": "2026-11-07T00:46:10.000Z",
+      "updatedAt": "2026-11-07T00:46:10.000Z"
     },
     {
       "id": "3a46145d-a145-4b1f-ad9c-eb599500bf5d",
@@ -53771,6 +54035,31 @@
       "updatedAt": "2026-11-05T17:15:00.000Z"
     },
     {
+      "id": "ea549f29-4341-4c2f-b726-1d7378c06078",
+      "company": "Shield AI",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "locations": [
+        "Dallas, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2",
+      "url": "https://trueinterview.io/jobs/shield-ai-june-2027-co-op-software-engineer-intern-ea549f294341",
+      "postedAt": "2026-11-05T17:02:43.000Z",
+      "updatedAt": "2026-11-05T17:02:43.000Z"
+    },
+    {
       "id": "c895b3c5-4519-438d-be5d-4addeb5a89e9",
       "company": "AECOM",
       "title": "Water/Wastewater Engineering Intern",
@@ -53815,7 +54104,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4470624768/",
+      "applyUrl": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
       "url": "https://trueinterview.io/jobs/aqr-capital-management-2027-phd-summer-associate-machine-learning-88642dc7b0e9",
       "postedAt": "2026-11-05T16:33:00.000Z",
       "updatedAt": "2026-11-05T16:33:00.000Z"
@@ -55977,7 +56266,9 @@
         "San Jose, CA"
       ],
       "cities": [
-        "Austin, TX"
+        "Austin, TX",
+        "Chicago, IL",
+        "San Jose, CA"
       ],
       "countries": [
         "United States"
@@ -86112,6 +86403,33 @@
       "updatedAt": "2026-10-29T09:56:05.000Z"
     },
     {
+      "id": "46192529-6a5c-4784-8441-bb7e4b901834",
+      "company": "Pinely",
+      "title": "Quantitative Researcher (Intern)",
+      "locations": [
+        "Amsterdam"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/pinely/82ea865e-5e9b-4943-b4eb-34c5ace3d416",
+      "url": "https://trueinterview.io/jobs/pinely-quantitative-researcher-intern-461925296a5c",
+      "postedAt": "2026-10-29T09:55:43.000Z",
+      "updatedAt": "2026-10-29T09:55:43.000Z"
+    },
+    {
       "id": "2d1a3b48-2161-446f-9c7c-12638b01730f",
       "company": "Gallagher",
       "title": "Technical Support/Trainer Intern",
@@ -99483,6 +99801,34 @@
       "url": "https://trueinterview.io/jobs/commonwealth-fusion-systems-intern-systems-engineer-summer-2027-ef5d6d6ee5cb",
       "postedAt": "2026-10-27T17:12:56.000Z",
       "updatedAt": "2026-10-27T17:12:56.000Z"
+    },
+    {
+      "id": "ba032ce4-ba24-4d64-9d9e-359752d8e8b8",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Advanced Manufacturing Engineering Intern",
+      "locations": [
+        "Dallas, TX, US",
+        "Seattle, WA, US"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+      "url": "https://trueinterview.io/jobs/shield-ai-summer-2027-advanced-manufacturing-engineering-intern-ba032ce4ba24",
+      "postedAt": "2026-10-27T15:40:05.000Z",
+      "updatedAt": "2026-10-27T15:40:05.000Z"
     },
     {
       "id": "da7bdfd6-cf55-4adb-8faa-e88bcb4a397d",
@@ -117227,369 +117573,6 @@
       "url": "https://trueinterview.io/jobs/moloco-software-engineer-intern-3-months-931beaed906e",
       "postedAt": "2026-09-29T00:56:51.000Z",
       "updatedAt": "2026-09-29T00:56:51.000Z"
-    },
-    {
-      "id": "4fca36cb-e338-49bc-b878-b284fb06cf9f",
-      "company": "Amazon",
-      "title": "PhD Economics Intern – Reduced Form Causal Inference, Summer 2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027",
-      "url": "https://trueinterview.io/jobs/amazon-phd-economics-intern-reduced-form-causal-inference-summer-4fca36cbe338",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d",
-      "company": "Amazon",
-      "title": "PhD Economics Intern – Structural IO, Summer 2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
-      "url": "https://trueinterview.io/jobs/amazon-phd-economics-intern-structural-io-summer-2027-0d0a964cae6d",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "c387cac5-354e-49f4-900c-84694eb575c7",
-      "company": "Cisco",
-      "title": "Associate Applications Engineer I (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Applications-Engineer-I--Co-op----United-States_2026910",
-      "url": "https://trueinterview.io/jobs/cisco-associate-applications-engineer-i-co-op-united-states-c387cac5354e",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "8ada5d98-e787-4fa1-8c27-1448cf090b80",
-      "company": "Cisco",
-      "title": "Firmware Engineer II (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
-      "url": "https://trueinterview.io/jobs/cisco-firmware-engineer-ii-co-op-united-states-8ada5d98e787",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "bf20ae8f-1066-49b2-a574-71871d246db4",
-      "company": "Cisco",
-      "title": "Mechanical Engineer II (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Mechanical-Engineer-II--Co-op----United-States_2026912",
-      "url": "https://trueinterview.io/jobs/cisco-mechanical-engineer-ii-co-op-united-states-bf20ae8f1066",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "4ab5f848-bcc6-4088-a9b5-0473a00bf170",
-      "company": "Cisco",
-      "title": "Optics Engineer II (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914",
-      "url": "https://trueinterview.io/jobs/cisco-optics-engineer-ii-co-op-united-states-4ab5f848bcc6",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "e9a0f325-c03d-464c-b4ae-1ba7be0d360e",
-      "company": "Cisco",
-      "title": "Systems Quality Engineer I (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
-      "url": "https://trueinterview.io/jobs/cisco-systems-quality-engineer-i-co-op-united-states-e9a0f325c03d",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "51823b2b-8214-4e56-9468-bcdffa09fc54",
-      "company": "Cisco",
-      "title": "Systems Quality Engineer II (Co-op) - United States",
-      "locations": [
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
-      "url": "https://trueinterview.io/jobs/cisco-systems-quality-engineer-ii-co-op-united-states-51823b2b8214",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "f154672d-9ff2-4f00-a32d-aa5ade5f1c54",
-      "company": "Keysight",
-      "title": "EDA AI/ML Layout Engineering Intern",
-      "locations": [
-        "Calabasas, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54606?lang=en-us",
-      "url": "https://trueinterview.io/jobs/keysight-eda-ai-ml-layout-engineering-intern-f154672d9ff2",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "49e7aa29-5c25-425d-9664-27cd0ab23e38",
-      "company": "Keysight",
-      "title": "EDA AI/ML Software Intern",
-      "locations": [
-        "Calabasas, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54582?lang=en-us",
-      "url": "https://trueinterview.io/jobs/keysight-eda-ai-ml-software-intern-49e7aa295c25",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "5687feab-b7c5-4ffc-ae77-20439f62e1bb",
-      "company": "Marvell Technology",
-      "title": "AMS Validation Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Santa Clara, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1",
-      "url": "https://trueinterview.io/jobs/marvell-technology-ams-validation-intern-bs-summer-2027-5687feabb7c5",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "712bf8c8-bbf4-4754-8086-842613578e34",
-      "company": "Nokia",
-      "title": "Developer DevOps Intern",
-      "locations": [
-        "Brazil"
-      ],
-      "cities": [],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736",
-      "url": "https://trueinterview.io/jobs/nokia-developer-devops-intern-712bf8c8bbf4",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "7a9586c8-68b7-461a-91c5-dc4d57fb993b",
-      "company": "NVIDIA",
-      "title": "Image and Data Processing Libraries Intern",
-      "locations": [
-        "Warsaw, Masovian Voivodeship, PL",
-        "Berlin, Berlin, DE",
-        "Zürich, ZH, CH"
-      ],
-      "cities": [
-        "Warsaw"
-      ],
-      "countries": [
-        "Poland",
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397913168",
-      "url": "https://trueinterview.io/jobs/nvidia-image-and-data-processing-libraries-intern-7a9586c868b7",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "95dbfbaf-1c8c-4403-954e-27be9e2fed84",
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [
-        "Santa Clara, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397892835",
-      "url": "https://trueinterview.io/jobs/nvidia-phd-research-intern-ai-accelerator-design-and-vlsi-2027-95dbfbaf1c8c",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
     }
   ]
 }
