@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T02:12:57.009Z",
-  "count": 4538,
+  "listingsChangedAt": "2026-11-28T03:11:15.623Z",
+  "count": 4537,
   "listings": [
     {
       "id": "2431fd75-b1e6-470c-9c78-e3df4f826bd3",
@@ -9502,7 +9502,7 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Backend Engineer",
@@ -36632,7 +36632,9 @@
       "locations": [
         "Santa Clara, CALIFORNIA, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -47132,7 +47134,8 @@
       "cities": [
         "Seattle, WA",
         "Sunnyvale, CA",
-        "New York, NY"
+        "New York, NY",
+        "San Francisco, CA"
       ],
       "countries": [
         "United States"
@@ -61613,7 +61616,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -61624,31 +61627,6 @@
       "url": "https://trueinterview.io/jobs/bosch-r-and-d-internship-simulation-engineering-intern-e98d41f6e6a6",
       "postedAt": "2026-11-04T05:33:14.000Z",
       "updatedAt": "2026-11-04T05:33:14.000Z"
-    },
-    {
-      "id": "2f9f844a-a2fd-4cf9-ad1f-8db4ba87cb79",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Robotic Control Policy (PhD)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485063093/",
-      "url": "https://trueinterview.io/jobs/meta-research-scientist-intern-robotic-control-policy-phd-2f9f844aa2fd",
-      "postedAt": "2026-11-04T05:33:00.000Z",
-      "updatedAt": "2026-11-04T05:33:00.000Z"
     },
     {
       "id": "649453f0-6973-49f0-8cc6-8074167d4402",
@@ -61666,9 +61644,9 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Machine Learning Engineer",
+      "seniority": "senior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -61720,9 +61698,9 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Data Scientist",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -61730,6 +61708,29 @@
       "url": "https://trueinterview.io/jobs/sony-internship-research-engineer-for-data-science-and-machine-13d1faaee98c",
       "postedAt": "2026-11-04T04:46:00.000Z",
       "updatedAt": "2026-11-04T04:46:00.000Z"
+    },
+    {
+      "id": "83751e66-884d-4738-be51-5c6656eb4795",
+      "company": "JM Family Enterprises, Inc.",
+      "title": "AI Center of Excellence (COE) Delivery Team Intern",
+      "locations": [
+        "Miami-Fort Lauderdale Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487207415/",
+      "url": "https://trueinterview.io/jobs/jm-family-enterprises-inc-ai-center-of-excellence-coe-delivery-team-83751e66884d",
+      "postedAt": "2026-11-04T04:40:00.000Z",
+      "updatedAt": "2026-11-04T04:40:00.000Z"
     },
     {
       "id": "bd22b881-ae1a-4e4b-9043-5f2336bd4cd0",
@@ -61774,9 +61775,9 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Machine Learning Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -61801,9 +61802,9 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Research Scientist",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -61843,33 +61844,6 @@
       "updatedAt": "2026-11-04T04:10:00.000Z"
     },
     {
-      "id": "c1525cb9-1cda-4605-8430-b6e71ce3642a",
-      "company": "Tesla",
-      "title": "Internship, Compensation Data Analyst (Winter/Spring 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487081781/",
-      "url": "https://trueinterview.io/jobs/tesla-internship-compensation-data-analyst-winter-spring-2027-c1525cb91cda",
-      "postedAt": "2026-11-04T03:43:00.000Z",
-      "updatedAt": "2026-11-04T03:43:00.000Z"
-    },
-    {
       "id": "f684ddeb-7a34-41ae-8033-42053f0f1c9e",
       "company": "targetjobs UK",
       "title": "Software Engineering Internship",
@@ -61881,9 +61855,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -61920,31 +61894,6 @@
       "updatedAt": "2026-11-04T02:57:00.000Z"
     },
     {
-      "id": "bf6fb490-02d5-496e-b4a4-0743719dab76",
-      "company": "Trilogy Health Services, LLC",
-      "title": "Information Systems Developer of AI Intern",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487086276/",
-      "url": "https://trueinterview.io/jobs/trilogy-health-services-llc-information-systems-developer-of-ai-bf6fb49002d5",
-      "postedAt": "2026-11-04T02:57:00.000Z",
-      "updatedAt": "2026-11-04T02:57:00.000Z"
-    },
-    {
       "id": "de79c6d4-f6be-4b42-bd49-19e41f5e0282",
       "company": "AECOM",
       "title": "Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA",
@@ -61957,7 +61906,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -62060,9 +62009,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -62161,7 +62110,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -79688,12 +79637,9 @@
       "locations": [
         "Melbourne, FL"
       ],
-      "cities": [
-        "Melbourne"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "Australia"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -96547,12 +96493,9 @@
       "locations": [
         "Dublin, OH"
       ],
-      "cities": [
-        "Dublin"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "Ireland"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
@@ -114089,6 +114032,31 @@
       "updatedAt": "2026-10-05T22:55:56.000Z"
     },
     {
+      "id": "50731a57-c20d-4a10-8f38-db2182af9119",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Test Operations Engineer",
+      "locations": [
+        "Lockhart, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a",
+      "url": "https://trueinterview.io/jobs/bedrock-robotics-2027-internship-test-operations-engineer-50731a57c20d",
+      "postedAt": "2026-10-05T22:19:32.000Z",
+      "updatedAt": "2026-10-05T22:19:32.000Z"
+    },
+    {
       "id": "ba9be562-5d5e-4916-b9e3-75b9cdc5e22a",
       "company": "Graymatter Robotics",
       "title": "Mechanical Design Intern - Immediate Fill",
@@ -115312,6 +115280,33 @@
       "url": "https://trueinterview.io/jobs/anduril-industries-2027-industrial-engineer-intern-689d471193c5",
       "postedAt": "2026-10-02T16:42:09.000Z",
       "updatedAt": "2026-10-02T16:42:09.000Z"
+    },
+    {
+      "id": "5e2e2666-63ef-4219-a14f-22494e0e08bc",
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Behavior ML Engineer, Learned Manipulation Policies",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c",
+      "url": "https://trueinterview.io/jobs/bedrock-robotics-2027-internship-behavior-ml-engineer-learned-5e2e266663ef",
+      "postedAt": "2026-10-02T16:34:38.000Z",
+      "updatedAt": "2026-10-02T16:34:38.000Z"
     },
     {
       "id": "04753d31-2f75-4654-9709-505db9088cfe",
@@ -117549,33 +117544,6 @@
       "url": "https://trueinterview.io/jobs/shopback-software-engineer-intern-backend-8a607e96b5f9",
       "postedAt": "2026-09-29T05:54:43.000Z",
       "updatedAt": "2026-09-29T05:54:43.000Z"
-    },
-    {
-      "id": "4b6c289e-36b0-4471-8dd3-979a1a1c6f58",
-      "company": "Hermeus",
-      "title": "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
-      "url": "https://trueinterview.io/jobs/hermeus-flight-software-engineering-intern-simulation-hardware-4b6c289e36b0",
-      "postedAt": "2026-09-29T02:51:15.000Z",
-      "updatedAt": "2026-09-29T02:51:15.000Z"
     }
   ]
 }
