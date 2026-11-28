@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T09:09:57.393Z",
-  "count": 4555,
+  "listingsChangedAt": "2026-11-28T10:09:15.223Z",
+  "count": 4557,
   "listings": [
+    {
+      "id": "9d96d6ad-7c42-4763-8ba6-c6c4b40c0b1a",
+      "company": "Dorman Products",
+      "title": "Cybersecurity Intern",
+      "locations": [
+        "Colmar, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479157817/",
+      "url": "https://trueinterview.io/jobs/dorman-products-cybersecurity-intern-9d96d6ad7c42",
+      "postedAt": "2026-11-28T09:06:00.000Z",
+      "updatedAt": "2026-11-28T09:06:00.000Z"
+    },
     {
       "id": "3f4a353e-31f3-4aa6-ac4a-ff3a8b565da4",
       "company": "Tesla",
@@ -35362,31 +35387,6 @@
       "updatedAt": "2026-11-12T09:20:00.000Z"
     },
     {
-      "id": "51a10795-8070-4d4a-8ce3-6292d8acd676",
-      "company": "CNH",
-      "title": "Embedded Software Engineer Intern",
-      "locations": [
-        "Oak Brook, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4464915928/",
-      "url": "https://trueinterview.io/jobs/cnh-embedded-software-engineer-intern-51a107958070",
-      "postedAt": "2026-11-12T09:13:00.000Z",
-      "updatedAt": "2026-11-12T09:13:00.000Z"
-    },
-    {
       "id": "64f1a40e-05b6-4fda-8a9b-c26901df095f",
       "company": "Trimble Inc.",
       "title": "Hardware/Software Testing Intern",
@@ -49468,31 +49468,6 @@
       "url": "https://trueinterview.io/jobs/shure-application-software-development-intern-b61b2692e074",
       "postedAt": "2026-11-06T20:48:00.000Z",
       "updatedAt": "2026-11-06T20:48:00.000Z"
-    },
-    {
-      "id": "a311e3fc-4765-424c-bbb7-8eaf2257a483",
-      "company": "MedPro Group",
-      "title": "Intern - Application Developer",
-      "locations": [
-        "Fort Wayne, IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://medprou.csod.com/ux/ats/careersite/5/home/requisition/2184",
-      "url": "https://trueinterview.io/jobs/medpro-group-intern-application-developer-a311e3fc4765",
-      "postedAt": "2026-11-06T20:42:00.000Z",
-      "updatedAt": "2026-11-06T20:42:00.000Z"
     },
     {
       "id": "8c4a3ec0-0693-4d21-a23d-b8406e94ea96",
@@ -64591,7 +64566,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64615,7 +64590,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -64668,7 +64643,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64694,8 +64669,8 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -64743,7 +64718,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -64769,9 +64744,9 @@
         "Germany"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64848,9 +64823,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64898,9 +64873,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64923,9 +64898,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -65350,6 +65325,81 @@
       "url": "https://trueinterview.io/jobs/vaccine-vets-software-engineering-intern-japanese-speaking-7ee0529af3f7",
       "postedAt": "2026-11-03T08:01:00.000Z",
       "updatedAt": "2026-11-03T08:01:00.000Z"
+    },
+    {
+      "id": "de44ae50-01da-4fcd-a5c9-88c35b9fb8a8",
+      "company": "GlobalFoundries",
+      "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+      "locations": [
+        "Malta, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486023406/",
+      "url": "https://trueinterview.io/jobs/globalfoundries-device-engineering-intern-silicon-photonics-summer-de44ae5001da",
+      "postedAt": "2026-11-03T07:46:00.000Z",
+      "updatedAt": "2026-11-03T07:46:00.000Z"
+    },
+    {
+      "id": "df66c33e-bbe4-4376-b4e3-0fc3abcf461d",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Cybersecurity Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486028274/",
+      "url": "https://trueinterview.io/jobs/woodmenlife-2027-summer-cybersecurity-intern-df66c33ebbe4",
+      "postedAt": "2026-11-03T07:36:00.000Z",
+      "updatedAt": "2026-11-03T07:36:00.000Z"
+    },
+    {
+      "id": "45acc3fa-ae77-4aa8-bb5f-244a0c3756fd",
+      "company": "Valency Networks Private Limited",
+      "title": "WordPress Website Developer Intern (Remote)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484647266/",
+      "url": "https://trueinterview.io/jobs/valency-networks-private-limited-wordpress-website-developer-intern-45acc3faae77",
+      "postedAt": "2026-11-03T07:25:00.000Z",
+      "updatedAt": "2026-11-03T07:25:00.000Z"
     },
     {
       "id": "7ff7987b-7f1c-4522-be26-248a458cce9b",
