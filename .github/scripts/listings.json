@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T07:09:28.939Z",
+  "listingsChangedAt": "2026-11-28T08:11:27.472Z",
   "count": 4555,
   "listings": [
     {
@@ -64100,31 +64100,6 @@
       "updatedAt": "2026-11-03T16:37:44.000Z"
     },
     {
-      "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
-      "company": "Microsoft",
-      "title": "Business Program Manager, Global Intern Experience & Innovation",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487002040/",
-      "url": "https://trueinterview.io/jobs/microsoft-business-program-manager-global-intern-experience-49f97901f8a2",
-      "postedAt": "2026-11-03T16:12:00.000Z",
-      "updatedAt": "2026-11-03T16:12:00.000Z"
-    },
-    {
       "id": "48f09592-91eb-433a-bdaa-2128e632b143",
       "company": "Siemens Digital Industries Software",
       "title": "Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)",
@@ -64136,9 +64111,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64209,6 +64184,31 @@
       "updatedAt": "2026-11-03T16:00:00.000Z"
     },
     {
+      "id": "380a89b1-d602-49d7-b352-9bcb14194343",
+      "company": "NLP Logix",
+      "title": "Summer Intern - AI & Technology",
+      "locations": [
+        "Jacksonville, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486048799/",
+      "url": "https://trueinterview.io/jobs/nlp-logix-summer-intern-ai-and-technology-380a89b1d602",
+      "postedAt": "2026-11-03T15:43:00.000Z",
+      "updatedAt": "2026-11-03T15:43:00.000Z"
+    },
+    {
       "id": "3e28bcb8-e43a-4f40-a8cf-26e185206782",
       "company": "Marketeq Media Inc.",
       "title": "AI Software Engineering Intern (U.S.A Only)",
@@ -64220,9 +64220,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -64246,7 +64246,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
