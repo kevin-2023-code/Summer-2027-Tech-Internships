@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-28T05:10:05.996Z",
+  "listingsChangedAt": "2026-11-28T06:15:11.581Z",
   "count": 4554,
   "listings": [
     {
@@ -8187,33 +8187,6 @@
       "source": "ats-boards",
       "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/351109",
       "url": "https://trueinterview.io/jobs/oracle-intern-as-software-engineer-part-time-b37d8551e76e",
-      "postedAt": "2026-11-23T00:00:00.000Z",
-      "updatedAt": "2026-11-23T00:00:00.000Z"
-    },
-    {
-      "id": "cef54f23-76e2-441f-abd5-827d6b6eea68",
-      "company": "Wsp",
-      "title": "Intern, Mechanical Engineering - Winter 2027",
-      "locations": [
-        "Ottawa, ON, Canada"
-      ],
-      "cities": [
-        "Ottawa, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93992",
-      "url": "https://trueinterview.io/jobs/wsp-intern-mechanical-engineering-winter-2027-cef54f2376e2",
       "postedAt": "2026-11-23T00:00:00.000Z",
       "updatedAt": "2026-11-23T00:00:00.000Z"
     },
@@ -51335,7 +51308,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -63626,9 +63601,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -63638,6 +63613,31 @@
       "url": "https://trueinterview.io/jobs/cadence-graduate-student-intern-software-engineering-9f89f1eb2ec1",
       "postedAt": "2026-11-03T19:54:00.000Z",
       "updatedAt": "2026-11-03T19:54:00.000Z"
+    },
+    {
+      "id": "7cd43ec8-6c7e-49f6-b6c6-705f0883714d",
+      "company": "Sherwin-Williams",
+      "title": "2027 R&D Data Visualization Intern- Cleveland",
+      "locations": [
+        "Brecksville, Ohio, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2628298",
+      "url": "https://trueinterview.io/jobs/sherwin-williams-2027-r-and-d-data-visualization-intern-cleveland-7cd43ec86c7e",
+      "postedAt": "2026-11-03T19:51:23.000Z",
+      "updatedAt": "2026-11-03T19:51:23.000Z"
     },
     {
       "id": "a434c681-3f82-43a2-a1a6-d0f58a32afb0",
@@ -63665,6 +63665,58 @@
       "updatedAt": "2026-11-03T19:50:00.000Z"
     },
     {
+      "id": "7c64ef63-0803-48d8-89d2-a258a76d7a3a",
+      "company": "Arine",
+      "title": "Data Services Intern",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/arine/jobs/74bd101b-40c8-494b-8f82-68ec50eefa09",
+      "url": "https://trueinterview.io/jobs/arine-data-services-intern-7c64ef630803",
+      "postedAt": "2026-11-03T19:35:44.000Z",
+      "updatedAt": "2026-11-03T19:35:44.000Z"
+    },
+    {
+      "id": "85ec5851-92f3-4df9-9ba5-c750224f4a37",
+      "company": "BioSpace",
+      "title": "AI Intern, Enterprise Agent Development",
+      "locations": [
+        "Piscataway, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487026018/",
+      "url": "https://trueinterview.io/jobs/biospace-ai-intern-enterprise-agent-development-85ec585192f3",
+      "postedAt": "2026-11-03T19:29:00.000Z",
+      "updatedAt": "2026-11-03T19:29:00.000Z"
+    },
+    {
       "id": "db5cca5e-582a-405c-a017-e51f644a2dbb",
       "company": "Marketeq Digital Solutions",
       "title": "AI Frontend Engineering Intern (U.S.A Only)",
@@ -63676,9 +63728,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -63778,9 +63830,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -63803,9 +63855,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -78186,7 +78238,9 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -96001,7 +96055,9 @@
         "San Mateo, CA",
         "San Mateo, CA United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -105441,7 +105497,9 @@
       "locations": [
         "San Mateo, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -107775,7 +107833,9 @@
       "locations": [
         "Santa Clara, CA, US"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -108045,33 +108105,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8894673002",
       "url": "https://trueinterview.io/jobs/weiss-asset-management-summer-2028-internship-interest-form-744f12e24478",
-      "postedAt": "2026-10-17T00:00:00.000Z",
-      "updatedAt": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "id": "009bbed3-476e-455a-833e-d5189592aa4e",
-      "company": "wsp",
-      "title": "Intern, Process Engineering",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "cities": [
-        "Vancouver, BC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95690",
-      "url": "https://trueinterview.io/jobs/wsp-intern-process-engineering-009bbed3476e",
       "postedAt": "2026-10-17T00:00:00.000Z",
       "updatedAt": "2026-10-17T00:00:00.000Z"
     },
@@ -108759,7 +108792,9 @@
         "San Mateo, California, United States",
         "Hayward, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "San Mateo, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -117568,7 +117603,9 @@
         "Santa Clara, California, United States",
         "San Diego, California, United States"
       ],
-      "cities": [],
+      "cities": [
+        "Santa Clara, CA"
+      ],
       "countries": [
         "United States"
       ],
@@ -117969,31 +118006,6 @@
       "url": "https://trueinterview.io/jobs/snowflake-software-engineer-intern-berlin-2027-e86d1c1b4d94",
       "postedAt": "2026-09-29T06:23:45.000Z",
       "updatedAt": "2026-09-29T06:23:45.000Z"
-    },
-    {
-      "id": "8a607e96-b5f9-43a5-a6c5-51660f64762c",
-      "company": "Shopback",
-      "title": "Software Engineer Intern - Backend",
-      "locations": [
-        "Ho Chi Minh, Vietnam"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
-      "url": "https://trueinterview.io/jobs/shopback-software-engineer-intern-backend-8a607e96b5f9",
-      "postedAt": "2026-09-29T05:54:43.000Z",
-      "updatedAt": "2026-09-29T05:54:43.000Z"
     }
   ]
 }
